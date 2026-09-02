@@ -22,3 +22,6 @@ LIMIT 15;
 SELECT COUNT(*) AS missing_store_location
 FROM sales
 WHERE store_location IS NULL;
+
+
+

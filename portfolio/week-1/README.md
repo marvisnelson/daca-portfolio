@@ -17,3 +17,4 @@
 - week1_unique_sales_channel_screenshot.png — screenshot of unique sales channels query results
 - week1_unique_store_location_screenshot.png — screenshot of store locations query results
 
+
