@@ -1,0 +1,2541 @@
+,recency_days,frequency,monetary,R_score,F_score,M_score,Weighted_RFM_Score,Advanced_Segment,Recommended_Action
+0,91,2,203.92000000000002,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+1,71,2,1198.56,4,1,4,10,Regular Customers,Cross-sell campaigns
+2,148,4,959.5999999999999,3,4,3,10,Regular Customers,Cross-sell campaigns
+3,477,1,327.06,1,1,1,3,Lost,"Last attempt, big discount"
+4,29,1,318.63,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+5,76,5,1294.32,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+6,224,3,2255.21,2,3,5,11,Loyal Customers,"Loyalty programme, rewards"
+7,304,3,841.5,2,3,3,8,New Customers,"Onboarding, welcome series"
+8,145,2,364.20000000000005,3,1,2,6,At Risk,"Win-back campaign, personalised email"
+9,430,5,1066.15,1,4,4,10,Regular Customers,Cross-sell campaigns
+10,13,2,345.24,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+11,588,1,664.26,1,1,3,6,At Risk,"Win-back campaign, personalised email"
+12,386,4,904.65,1,4,3,8,New Customers,"Onboarding, welcome series"
+13,222,3,1281.17,2,3,4,10,Regular Customers,Cross-sell campaigns
+14,247,5,1653.15,2,4,5,12,Loyal Customers,"Loyalty programme, rewards"
+15,97,3,923.9,4,3,3,10,Regular Customers,Cross-sell campaigns
+16,194,5,814.1700000000001,3,4,3,10,Regular Customers,Cross-sell campaigns
+17,398,1,583.71,1,1,2,4,Lost,"Last attempt, big discount"
+18,32,2,345.93,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+19,70,6,1804.79,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+20,83,7,1933.66,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+21,65,4,1357.05,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+22,107,3,496.83000000000004,4,3,2,8,New Customers,"Onboarding, welcome series"
+23,278,3,1888.0600000000002,2,3,5,11,Loyal Customers,"Loyalty programme, rewards"
+24,160,2,2391.13,3,1,5,10,Regular Customers,Cross-sell campaigns
+25,115,6,2052.0499999999997,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+26,117,1,215.58,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+27,140,3,950.18,3,3,3,9,Regular Customers,Cross-sell campaigns
+28,104,5,1431.18,4,4,5,14,VIP Champions,"Early access, VIP discount codes"
+29,241,3,1481.19,2,3,5,11,Loyal Customers,"Loyalty programme, rewards"
+30,110,2,571.48,4,1,2,7,New Customers,"Onboarding, welcome series"
+31,60,3,893.3000000000001,4,3,3,10,Regular Customers,Cross-sell campaigns
+32,293,1,1484.2,2,1,5,10,Regular Customers,Cross-sell campaigns
+33,134,3,453.53999999999996,3,3,2,8,New Customers,"Onboarding, welcome series"
+34,725,2,1275.25,1,1,4,8,New Customers,"Onboarding, welcome series"
+35,152,2,147.0,3,1,1,4,Lost,"Last attempt, big discount"
+36,107,3,419.37,4,3,2,8,New Customers,"Onboarding, welcome series"
+37,98,7,1422.57,4,5,4,13,VIP Champions,"Early access, VIP discount codes"
+38,312,1,196.91,2,1,1,4,Lost,"Last attempt, big discount"
+39,114,2,264.74,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+40,117,4,1364.73,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+41,117,3,591.24,4,3,2,8,New Customers,"Onboarding, welcome series"
+42,47,3,956.89,5,3,3,10,Regular Customers,Cross-sell campaigns
+43,143,3,1073.25,3,3,4,10,Regular Customers,Cross-sell campaigns
+44,319,4,1198.6200000000001,2,4,4,10,Regular Customers,Cross-sell campaigns
+45,277,4,913.91,2,4,3,9,Regular Customers,Cross-sell campaigns
+46,92,2,494.63,4,1,2,7,New Customers,"Onboarding, welcome series"
+47,29,3,226.03,5,3,1,8,New Customers,"Onboarding, welcome series"
+48,11,1,312.26,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+49,81,4,1044.97,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+50,681,1,57.08,1,1,1,3,Lost,"Last attempt, big discount"
+51,71,2,387.70000000000005,4,1,2,7,New Customers,"Onboarding, welcome series"
+52,332,1,81.48,1,1,1,3,Lost,"Last attempt, big discount"
+53,192,4,900.95,3,4,3,10,Regular Customers,Cross-sell campaigns
+54,220,1,45.21,2,1,1,4,Lost,"Last attempt, big discount"
+55,241,2,351.95000000000005,2,1,2,5,At Risk,"Win-back campaign, personalised email"
+56,115,3,709.47,4,3,3,10,Regular Customers,Cross-sell campaigns
+57,80,4,783.78,4,4,3,10,Regular Customers,Cross-sell campaigns
+58,23,4,1310.02,5,4,4,13,VIP Champions,"Early access, VIP discount codes"
+59,27,5,1741.54,5,4,5,14,VIP Champions,"Early access, VIP discount codes"
+60,289,5,493.20000000000005,2,4,2,8,New Customers,"Onboarding, welcome series"
+61,17,2,541.34,5,1,2,8,New Customers,"Onboarding, welcome series"
+62,401,2,2233.7000000000003,1,1,5,9,Regular Customers,Cross-sell campaigns
+63,526,3,1231.97,1,3,4,9,Regular Customers,Cross-sell campaigns
+64,69,3,581.54,4,3,2,8,New Customers,"Onboarding, welcome series"
+65,401,1,351.62,1,1,2,4,Lost,"Last attempt, big discount"
+66,59,4,1632.05,5,4,5,14,VIP Champions,"Early access, VIP discount codes"
+67,539,3,659.35,1,3,3,8,New Customers,"Onboarding, welcome series"
+68,160,2,187.20999999999998,3,1,1,4,Lost,"Last attempt, big discount"
+69,198,3,1063.2,3,3,4,10,Regular Customers,Cross-sell campaigns
+70,334,3,792.99,1,3,3,8,New Customers,"Onboarding, welcome series"
+71,151,2,520.61,3,1,2,6,At Risk,"Win-back campaign, personalised email"
+72,1,2,605.69,5,1,2,8,New Customers,"Onboarding, welcome series"
+73,169,2,527.21,3,1,2,6,At Risk,"Win-back campaign, personalised email"
+74,65,4,606.26,4,4,2,9,Regular Customers,Cross-sell campaigns
+75,208,3,936.1800000000001,2,3,3,8,New Customers,"Onboarding, welcome series"
+76,171,1,439.66,3,1,2,6,At Risk,"Win-back campaign, personalised email"
+77,189,3,935.06,3,3,3,9,Regular Customers,Cross-sell campaigns
+78,206,2,1216.95,2,1,4,8,New Customers,"Onboarding, welcome series"
+79,315,1,405.04,2,1,2,5,At Risk,"Win-back campaign, personalised email"
+80,432,4,1511.21,1,4,5,11,Loyal Customers,"Loyalty programme, rewards"
+81,389,5,1055.76,1,4,4,10,Regular Customers,Cross-sell campaigns
+82,286,4,1000.87,2,4,4,10,Regular Customers,Cross-sell campaigns
+83,123,5,715.54,3,4,3,10,Regular Customers,Cross-sell campaigns
+84,191,1,225.36,3,1,1,4,Lost,"Last attempt, big discount"
+85,106,5,1199.12,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+86,322,1,80.39,2,1,1,4,Lost,"Last attempt, big discount"
+87,186,2,312.33000000000004,3,1,1,4,Lost,"Last attempt, big discount"
+88,182,4,1285.72,3,4,4,11,Loyal Customers,"Loyalty programme, rewards"
+89,26,3,692.29,5,3,3,10,Regular Customers,Cross-sell campaigns
+90,188,3,997.6400000000001,3,3,4,10,Regular Customers,Cross-sell campaigns
+91,112,6,2169.41,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+92,240,1,121.51,2,1,1,4,Lost,"Last attempt, big discount"
+93,413,4,405.04,1,4,2,7,New Customers,"Onboarding, welcome series"
+94,125,3,1918.08,3,3,5,12,Loyal Customers,"Loyalty programme, rewards"
+95,136,3,820.4200000000001,3,3,3,9,Regular Customers,Cross-sell campaigns
+96,285,2,189.08,2,1,1,4,Lost,"Last attempt, big discount"
+97,331,3,1037.37,1,3,4,9,Regular Customers,Cross-sell campaigns
+98,13,6,1635.44,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+99,160,4,2215.73,3,4,5,13,VIP Champions,"Early access, VIP discount codes"
+100,102,3,611.11,4,3,2,8,New Customers,"Onboarding, welcome series"
+101,51,6,1243.09,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+102,268,3,805.1300000000001,2,3,3,8,New Customers,"Onboarding, welcome series"
+103,237,2,302.84000000000003,2,1,1,4,Lost,"Last attempt, big discount"
+104,752,1,16.62,1,1,1,3,Lost,"Last attempt, big discount"
+105,3,3,983.6700000000001,5,3,4,12,Loyal Customers,"Loyalty programme, rewards"
+106,234,2,363.28000000000003,2,1,2,5,At Risk,"Win-back campaign, personalised email"
+107,60,2,263.86,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+108,381,1,334.46,1,1,1,3,Lost,"Last attempt, big discount"
+109,475,3,800.3199999999999,1,3,3,8,New Customers,"Onboarding, welcome series"
+110,444,2,197.7,1,1,1,3,Lost,"Last attempt, big discount"
+111,216,3,941.0699999999999,2,3,3,8,New Customers,"Onboarding, welcome series"
+112,177,6,1806.17,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+113,10,2,350.75,5,1,2,8,New Customers,"Onboarding, welcome series"
+114,522,2,1102.95,1,1,4,8,New Customers,"Onboarding, welcome series"
+115,232,3,674.3,2,3,3,8,New Customers,"Onboarding, welcome series"
+116,297,2,284.13,2,1,1,4,Lost,"Last attempt, big discount"
+117,106,1,451.62,4,1,2,7,New Customers,"Onboarding, welcome series"
+118,167,3,678.09,3,3,3,9,Regular Customers,Cross-sell campaigns
+119,125,4,572.59,3,4,2,8,New Customers,"Onboarding, welcome series"
+120,220,7,1863.9699999999998,2,5,5,13,VIP Champions,"Early access, VIP discount codes"
+121,72,1,210.76,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+122,75,1,558.86,4,1,2,7,New Customers,"Onboarding, welcome series"
+123,107,1,411.78,4,1,2,7,New Customers,"Onboarding, welcome series"
+124,245,2,543.76,2,1,2,5,At Risk,"Win-back campaign, personalised email"
+125,11,1,229.55,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+126,58,1,446.95,5,1,2,8,New Customers,"Onboarding, welcome series"
+127,299,2,397.71,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+128,10,66,20726.79,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+129,75,5,1149.93,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+130,23,2,1131.46,5,2,4,11,Loyal Customers,"Loyalty programme, rewards"
+131,145,2,1207.22,3,2,4,10,Regular Customers,Cross-sell campaigns
+132,376,2,1070.58,1,2,4,8,New Customers,"Onboarding, welcome series"
+133,392,2,598.4300000000001,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+134,165,2,451.82,3,2,2,7,New Customers,"Onboarding, welcome series"
+135,8,5,2542.08,5,4,5,14,VIP Champions,"Early access, VIP discount codes"
+136,386,1,205.0,1,1,1,3,Lost,"Last attempt, big discount"
+137,129,3,902.9,3,3,3,9,Regular Customers,Cross-sell campaigns
+138,98,1,232.61,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+139,141,5,2032.9099999999999,3,4,5,13,VIP Champions,"Early access, VIP discount codes"
+140,669,3,881.22,1,3,3,8,New Customers,"Onboarding, welcome series"
+141,200,1,53.01,3,1,1,4,Lost,"Last attempt, big discount"
+142,23,1,327.28,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+143,401,2,746.53,1,2,3,7,New Customers,"Onboarding, welcome series"
+144,215,3,2285.2200000000003,2,3,5,11,Loyal Customers,"Loyalty programme, rewards"
+145,123,6,1342.4,3,5,4,12,Loyal Customers,"Loyalty programme, rewards"
+146,165,3,777.0,3,3,3,9,Regular Customers,Cross-sell campaigns
+147,460,1,141.05,1,1,1,3,Lost,"Last attempt, big discount"
+148,-376,5,1878.1399999999999,5,4,5,14,VIP Champions,"Early access, VIP discount codes"
+149,142,4,1374.26,3,4,4,11,Loyal Customers,"Loyalty programme, rewards"
+150,688,2,1451.98,1,2,5,10,Regular Customers,Cross-sell campaigns
+151,68,1,26.79,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+152,260,7,2139.4700000000003,2,5,5,13,VIP Champions,"Early access, VIP discount codes"
+153,464,2,553.85,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+154,341,2,240.06,1,2,1,4,Lost,"Last attempt, big discount"
+155,81,5,1175.46,4,5,4,13,VIP Champions,"Early access, VIP discount codes"
+156,572,1,110.7,1,1,1,3,Lost,"Last attempt, big discount"
+157,38,2,942.11,5,2,3,10,Regular Customers,Cross-sell campaigns
+158,197,4,924.33,3,4,3,10,Regular Customers,Cross-sell campaigns
+159,67,8,2695.53,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+160,85,3,1066.29,4,3,4,11,Loyal Customers,"Loyalty programme, rewards"
+161,13,3,523.79,5,3,2,9,Regular Customers,Cross-sell campaigns
+162,-461,11,4480.32,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+163,76,4,2231.4,4,4,5,14,VIP Champions,"Early access, VIP discount codes"
+164,37,1,458.02,5,1,2,8,New Customers,"Onboarding, welcome series"
+165,94,1,347.16,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+166,222,5,1998.45,2,5,5,13,VIP Champions,"Early access, VIP discount codes"
+167,257,2,172.52,2,2,1,4,Lost,"Last attempt, big discount"
+168,237,3,1708.3400000000001,2,3,5,11,Loyal Customers,"Loyalty programme, rewards"
+169,157,3,925.97,3,3,3,9,Regular Customers,Cross-sell campaigns
+170,4,1,166.27,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+171,336,3,1127.92,1,3,4,9,Regular Customers,Cross-sell campaigns
+172,201,5,628.34,3,5,2,9,Regular Customers,Cross-sell campaigns
+173,45,3,939.4599999999999,5,3,3,10,Regular Customers,Cross-sell campaigns
+174,107,6,2265.19,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+175,201,3,995.6400000000001,3,3,4,10,Regular Customers,Cross-sell campaigns
+176,92,2,723.3299999999999,4,2,3,9,Regular Customers,Cross-sell campaigns
+177,292,3,760.31,2,3,3,8,New Customers,"Onboarding, welcome series"
+178,570,3,918.91,1,3,3,8,New Customers,"Onboarding, welcome series"
+179,164,3,1046.18,3,3,4,10,Regular Customers,Cross-sell campaigns
+180,705,1,574.44,1,1,2,4,Lost,"Last attempt, big discount"
+181,32,6,1537.23,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+182,349,2,341.6,1,2,1,4,Lost,"Last attempt, big discount"
+183,205,5,1171.04,2,5,4,11,Loyal Customers,"Loyalty programme, rewards"
+184,68,4,1374.1,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+185,143,1,181.11,3,1,1,4,Lost,"Last attempt, big discount"
+186,91,3,722.73,4,3,3,10,Regular Customers,Cross-sell campaigns
+187,-289,65,21610.39,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+188,78,6,1309.96,4,5,4,13,VIP Champions,"Early access, VIP discount codes"
+189,584,3,784.34,1,3,3,8,New Customers,"Onboarding, welcome series"
+190,27,5,1044.45,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+191,181,4,702.0,3,4,3,10,Regular Customers,Cross-sell campaigns
+192,99,4,1040.72,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+193,116,4,737.26,4,4,3,10,Regular Customers,Cross-sell campaigns
+194,44,1,592.8,5,1,2,8,New Customers,"Onboarding, welcome series"
+195,495,4,814.97,1,4,3,8,New Customers,"Onboarding, welcome series"
+196,157,3,1071.04,3,3,4,10,Regular Customers,Cross-sell campaigns
+197,489,1,166.27,1,1,1,3,Lost,"Last attempt, big discount"
+198,86,1,989.97,4,1,4,10,Regular Customers,Cross-sell campaigns
+199,81,4,988.37,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+200,191,2,235.49,3,2,1,5,At Risk,"Win-back campaign, personalised email"
+201,60,2,447.65999999999997,4,2,2,8,New Customers,"Onboarding, welcome series"
+202,101,1,184.07,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+203,22,6,1603.35,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+204,258,3,612.84,2,3,2,7,New Customers,"Onboarding, welcome series"
+205,24,5,1695.49,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+206,236,3,1078.13,2,3,4,10,Regular Customers,Cross-sell campaigns
+207,30,4,852.81,5,4,3,11,Loyal Customers,"Loyalty programme, rewards"
+208,102,5,1724.15,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+209,38,2,126.08000000000001,5,2,1,7,New Customers,"Onboarding, welcome series"
+210,191,3,1006.4100000000001,3,3,4,10,Regular Customers,Cross-sell campaigns
+211,559,3,1829.2,1,3,5,10,Regular Customers,Cross-sell campaigns
+212,73,2,582.76,4,2,2,8,New Customers,"Onboarding, welcome series"
+213,331,2,269.53999999999996,1,2,1,4,Lost,"Last attempt, big discount"
+214,219,3,718.16,2,3,3,8,New Customers,"Onboarding, welcome series"
+215,60,4,1381.27,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+216,453,1,307.24,1,1,1,3,Lost,"Last attempt, big discount"
+217,498,1,848.85,1,1,3,6,At Risk,"Win-back campaign, personalised email"
+218,92,3,577.66,4,3,2,8,New Customers,"Onboarding, welcome series"
+219,169,5,2433.85,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+220,90,7,2165.37,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+221,116,1,15.09,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+222,292,3,646.35,2,3,3,8,New Customers,"Onboarding, welcome series"
+223,111,2,317.53000000000003,4,2,1,6,At Risk,"Win-back campaign, personalised email"
+224,39,3,887.48,5,3,3,10,Regular Customers,Cross-sell campaigns
+225,745,1,304.14,1,1,1,3,Lost,"Last attempt, big discount"
+226,63,5,528.28,4,5,2,10,Regular Customers,Cross-sell campaigns
+227,387,4,1683.88,1,4,5,11,Loyal Customers,"Loyalty programme, rewards"
+228,220,2,371.47,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+229,184,3,1240.48,3,3,4,10,Regular Customers,Cross-sell campaigns
+230,23,2,381.59999999999997,5,2,2,8,New Customers,"Onboarding, welcome series"
+231,79,7,2488.45,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+232,8,1,231.13,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+233,21,7,1574.51,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+234,589,1,541.98,1,1,2,4,Lost,"Last attempt, big discount"
+235,142,3,417.47,3,3,2,8,New Customers,"Onboarding, welcome series"
+236,65,3,858.98,4,3,3,10,Regular Customers,Cross-sell campaigns
+237,346,2,693.0,1,2,3,7,New Customers,"Onboarding, welcome series"
+238,320,3,1016.62,2,3,4,10,Regular Customers,Cross-sell campaigns
+239,9,5,2683.8599999999997,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+240,94,5,1148.76,4,5,4,13,VIP Champions,"Early access, VIP discount codes"
+241,78,3,732.34,4,3,3,10,Regular Customers,Cross-sell campaigns
+242,635,1,210.36,1,1,1,3,Lost,"Last attempt, big discount"
+243,44,5,2925.69,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+244,67,1,727.29,4,1,3,8,New Customers,"Onboarding, welcome series"
+245,254,3,177.58,2,3,1,5,At Risk,"Win-back campaign, personalised email"
+246,44,2,2015.75,5,2,5,13,VIP Champions,"Early access, VIP discount codes"
+247,223,2,562.2,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+248,52,4,536.4,5,4,2,10,Regular Customers,Cross-sell campaigns
+249,317,2,986.24,2,2,4,9,Regular Customers,Cross-sell campaigns
+250,94,1,86.14,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+251,262,1,417.66,2,1,2,5,At Risk,"Win-back campaign, personalised email"
+252,145,3,1158.1299999999999,3,3,4,10,Regular Customers,Cross-sell campaigns
+253,227,3,889.21,2,3,3,8,New Customers,"Onboarding, welcome series"
+254,26,3,1432.91,5,3,5,14,VIP Champions,"Early access, VIP discount codes"
+255,79,3,556.09,4,3,2,8,New Customers,"Onboarding, welcome series"
+256,91,4,636.19,4,4,3,10,Regular Customers,Cross-sell campaigns
+257,339,5,2115.43,1,5,5,12,Loyal Customers,"Loyalty programme, rewards"
+258,106,3,689.77,4,3,3,10,Regular Customers,Cross-sell campaigns
+259,36,3,657.58,5,3,3,10,Regular Customers,Cross-sell campaigns
+260,60,5,2127.16,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+261,87,3,1795.17,4,3,5,13,VIP Champions,"Early access, VIP discount codes"
+262,86,4,1160.54,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+263,453,2,724.08,1,2,3,7,New Customers,"Onboarding, welcome series"
+264,400,2,574.12,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+265,182,2,616.51,3,2,2,7,New Customers,"Onboarding, welcome series"
+266,470,1,269.85,1,1,1,3,Lost,"Last attempt, big discount"
+267,563,1,67.75,1,1,1,3,Lost,"Last attempt, big discount"
+268,498,1,153.11,1,1,1,3,Lost,"Last attempt, big discount"
+269,407,3,741.72,1,3,3,8,New Customers,"Onboarding, welcome series"
+270,-301,5,1301.72,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+271,37,1,1129.05,5,1,4,10,Regular Customers,Cross-sell campaigns
+272,65,2,229.17000000000002,4,2,1,6,At Risk,"Win-back campaign, personalised email"
+273,341,5,2142.56,1,5,5,12,Loyal Customers,"Loyalty programme, rewards"
+274,28,11,3148.8,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+275,281,1,201.14,2,1,1,4,Lost,"Last attempt, big discount"
+276,5,1,385.32,5,1,2,8,New Customers,"Onboarding, welcome series"
+277,166,3,949.1399999999999,3,3,3,9,Regular Customers,Cross-sell campaigns
+278,70,3,951.23,4,3,3,10,Regular Customers,Cross-sell campaigns
+279,287,4,2282.28,2,4,5,12,Loyal Customers,"Loyalty programme, rewards"
+280,26,2,420.52,5,2,2,8,New Customers,"Onboarding, welcome series"
+281,1,1,198.29,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+282,143,5,1426.6,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+283,9,6,1215.71,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+284,63,3,1278.22,4,3,4,11,Loyal Customers,"Loyalty programme, rewards"
+285,20,2,1732.25,5,2,5,13,VIP Champions,"Early access, VIP discount codes"
+286,7,1,318.5,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+287,82,5,1602.8700000000001,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+288,109,2,861.12,4,2,3,9,Regular Customers,Cross-sell campaigns
+289,141,5,1569.08,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+290,480,2,368.82,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+291,512,2,661.17,1,2,3,7,New Customers,"Onboarding, welcome series"
+292,153,1,94.76,3,1,1,4,Lost,"Last attempt, big discount"
+293,250,3,880.46,2,3,3,8,New Customers,"Onboarding, welcome series"
+294,67,7,3118.4500000000003,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+295,564,3,620.4300000000001,1,3,2,6,At Risk,"Win-back campaign, personalised email"
+296,115,4,754.0,4,4,3,10,Regular Customers,Cross-sell campaigns
+297,114,4,610.02,4,4,2,9,Regular Customers,Cross-sell campaigns
+298,9,3,1432.38,5,3,5,14,VIP Champions,"Early access, VIP discount codes"
+299,10,5,1932.51,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+300,172,3,532.15,3,3,2,8,New Customers,"Onboarding, welcome series"
+301,3,4,1632.3,5,4,5,14,VIP Champions,"Early access, VIP discount codes"
+302,248,4,697.72,2,4,3,9,Regular Customers,Cross-sell campaigns
+303,93,1,328.86,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+304,265,4,1556.09,2,4,5,12,Loyal Customers,"Loyalty programme, rewards"
+305,333,2,1273.31,1,2,4,8,New Customers,"Onboarding, welcome series"
+306,338,2,330.24,1,2,1,4,Lost,"Last attempt, big discount"
+307,144,1,154.71,3,1,1,4,Lost,"Last attempt, big discount"
+308,228,3,776.53,2,3,3,8,New Customers,"Onboarding, welcome series"
+309,221,3,720.85,2,3,3,8,New Customers,"Onboarding, welcome series"
+310,198,2,478.46999999999997,3,2,2,7,New Customers,"Onboarding, welcome series"
+311,43,5,1857.31,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+312,135,3,733.0899999999999,3,3,3,9,Regular Customers,Cross-sell campaigns
+313,19,4,422.29999999999995,5,4,2,10,Regular Customers,Cross-sell campaigns
+314,548,1,520.86,1,1,2,4,Lost,"Last attempt, big discount"
+315,213,3,1070.57,2,3,4,10,Regular Customers,Cross-sell campaigns
+316,147,3,756.3,3,3,3,9,Regular Customers,Cross-sell campaigns
+317,313,3,742.4100000000001,2,3,3,8,New Customers,"Onboarding, welcome series"
+318,29,4,1542.46,5,4,5,14,VIP Champions,"Early access, VIP discount codes"
+319,766,1,421.52,1,1,2,4,Lost,"Last attempt, big discount"
+320,211,4,904.22,2,4,3,9,Regular Customers,Cross-sell campaigns
+321,24,2,249.3,5,2,1,7,New Customers,"Onboarding, welcome series"
+322,191,3,883.77,3,3,3,9,Regular Customers,Cross-sell campaigns
+323,558,3,568.51,1,3,2,6,At Risk,"Win-back campaign, personalised email"
+324,24,2,397.3,5,2,2,8,New Customers,"Onboarding, welcome series"
+325,240,3,1171.6399999999999,2,3,4,10,Regular Customers,Cross-sell campaigns
+326,90,6,1516.83,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+327,230,3,1391.22,2,3,4,10,Regular Customers,Cross-sell campaigns
+328,75,3,740.83,4,3,3,10,Regular Customers,Cross-sell campaigns
+329,3,1,310.9,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+330,320,3,515.5899999999999,2,3,2,7,New Customers,"Onboarding, welcome series"
+331,74,3,1422.89,4,3,4,11,Loyal Customers,"Loyalty programme, rewards"
+332,223,2,1098.67,2,2,4,9,Regular Customers,Cross-sell campaigns
+333,130,2,361.25,3,2,2,7,New Customers,"Onboarding, welcome series"
+334,93,5,1336.33,4,5,4,13,VIP Champions,"Early access, VIP discount codes"
+335,368,2,475.53999999999996,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+336,182,1,437.68,3,1,2,6,At Risk,"Win-back campaign, personalised email"
+337,8,4,1319.6699999999998,5,4,4,13,VIP Champions,"Early access, VIP discount codes"
+338,661,1,72.6,1,1,1,3,Lost,"Last attempt, big discount"
+339,23,6,1899.01,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+340,231,4,2847.6800000000003,2,4,5,12,Loyal Customers,"Loyalty programme, rewards"
+341,172,1,459.76,3,1,2,6,At Risk,"Win-back campaign, personalised email"
+342,347,1,209.05,1,1,1,3,Lost,"Last attempt, big discount"
+343,-377,3,1333.62,5,3,4,12,Loyal Customers,"Loyalty programme, rewards"
+344,66,2,731.37,4,2,3,9,Regular Customers,Cross-sell campaigns
+345,343,3,1121.33,1,3,4,9,Regular Customers,Cross-sell campaigns
+346,82,3,1021.44,4,3,4,11,Loyal Customers,"Loyalty programme, rewards"
+347,59,4,912.02,5,4,3,11,Loyal Customers,"Loyalty programme, rewards"
+348,532,3,408.0,1,3,2,6,At Risk,"Win-back campaign, personalised email"
+349,126,1,482.26,3,1,2,6,At Risk,"Win-back campaign, personalised email"
+350,-313,4,1279.5900000000001,5,4,4,13,VIP Champions,"Early access, VIP discount codes"
+351,55,4,810.53,5,4,3,11,Loyal Customers,"Loyalty programme, rewards"
+352,14,3,374.72,5,3,2,9,Regular Customers,Cross-sell campaigns
+353,91,1,221.19,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+354,241,1,50.85,2,1,1,4,Lost,"Last attempt, big discount"
+355,126,3,338.6,3,3,1,6,At Risk,"Win-back campaign, personalised email"
+356,23,2,405.96,5,2,2,8,New Customers,"Onboarding, welcome series"
+357,11,1,251.96,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+358,368,3,407.07,1,3,2,6,At Risk,"Win-back campaign, personalised email"
+359,158,3,626.9399999999999,3,3,2,8,New Customers,"Onboarding, welcome series"
+360,217,3,795.5400000000001,2,3,3,8,New Customers,"Onboarding, welcome series"
+361,366,2,177.6,1,2,1,4,Lost,"Last attempt, big discount"
+362,143,4,1671.24,3,4,5,13,VIP Champions,"Early access, VIP discount codes"
+363,297,5,759.27,2,5,3,10,Regular Customers,Cross-sell campaigns
+364,208,7,1475.29,2,5,5,13,VIP Champions,"Early access, VIP discount codes"
+365,151,3,900.62,3,3,3,9,Regular Customers,Cross-sell campaigns
+366,160,4,1834.12,3,4,5,13,VIP Champions,"Early access, VIP discount codes"
+367,296,3,940.88,2,3,3,8,New Customers,"Onboarding, welcome series"
+368,84,1,405.14,4,1,2,7,New Customers,"Onboarding, welcome series"
+369,101,4,850.8299999999999,4,4,3,10,Regular Customers,Cross-sell campaigns
+370,190,2,590.73,3,2,2,7,New Customers,"Onboarding, welcome series"
+371,199,3,845.0799999999999,3,3,3,9,Regular Customers,Cross-sell campaigns
+372,35,3,797.23,5,3,3,10,Regular Customers,Cross-sell campaigns
+373,339,2,261.84000000000003,1,2,1,4,Lost,"Last attempt, big discount"
+374,20,4,849.14,5,4,3,11,Loyal Customers,"Loyalty programme, rewards"
+375,76,5,755.3499999999999,4,5,3,11,Loyal Customers,"Loyalty programme, rewards"
+376,193,3,1025.57,3,3,4,10,Regular Customers,Cross-sell campaigns
+377,6,4,540.62,5,4,2,10,Regular Customers,Cross-sell campaigns
+378,483,3,645.47,1,3,3,8,New Customers,"Onboarding, welcome series"
+379,339,3,1634.1200000000001,1,3,5,10,Regular Customers,Cross-sell campaigns
+380,41,2,1423.93,5,2,4,11,Loyal Customers,"Loyalty programme, rewards"
+381,131,3,1437.3000000000002,3,3,5,12,Loyal Customers,"Loyalty programme, rewards"
+382,87,1,307.27,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+383,585,1,54.95,1,1,1,3,Lost,"Last attempt, big discount"
+384,552,1,542.7,1,1,2,4,Lost,"Last attempt, big discount"
+385,355,2,725.58,1,2,3,7,New Customers,"Onboarding, welcome series"
+386,173,2,1057.95,3,2,4,10,Regular Customers,Cross-sell campaigns
+387,14,2,1317.1799999999998,5,2,4,11,Loyal Customers,"Loyalty programme, rewards"
+388,243,2,385.65,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+389,49,5,2096.27,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+390,239,6,1147.49,2,5,4,11,Loyal Customers,"Loyalty programme, rewards"
+391,167,3,464.15999999999997,3,3,2,8,New Customers,"Onboarding, welcome series"
+392,55,1,53.24,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+393,61,3,530.46,4,3,2,8,New Customers,"Onboarding, welcome series"
+394,311,3,1217.47,2,3,4,10,Regular Customers,Cross-sell campaigns
+395,501,3,642.23,1,3,3,8,New Customers,"Onboarding, welcome series"
+396,205,5,1580.6100000000001,2,5,5,13,VIP Champions,"Early access, VIP discount codes"
+397,59,3,626.3,5,3,2,9,Regular Customers,Cross-sell campaigns
+398,329,1,104.08,1,1,1,3,Lost,"Last attempt, big discount"
+399,160,1,53.01,3,1,1,4,Lost,"Last attempt, big discount"
+400,183,6,2130.7400000000002,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+401,150,2,806.5,3,2,3,8,New Customers,"Onboarding, welcome series"
+402,67,3,650.55,4,3,3,10,Regular Customers,Cross-sell campaigns
+403,70,3,485.98,4,3,2,8,New Customers,"Onboarding, welcome series"
+404,237,4,1341.42,2,4,4,10,Regular Customers,Cross-sell campaigns
+405,475,1,62.56,1,1,1,3,Lost,"Last attempt, big discount"
+406,199,1,654.14,3,1,3,8,New Customers,"Onboarding, welcome series"
+407,184,4,489.48,3,4,2,8,New Customers,"Onboarding, welcome series"
+408,218,4,1256.58,2,4,4,10,Regular Customers,Cross-sell campaigns
+409,155,2,541.07,3,2,2,7,New Customers,"Onboarding, welcome series"
+410,184,2,553.04,3,2,2,7,New Customers,"Onboarding, welcome series"
+411,128,4,1662.94,3,4,5,13,VIP Champions,"Early access, VIP discount codes"
+412,74,5,955.93,4,5,3,11,Loyal Customers,"Loyalty programme, rewards"
+413,8,6,1594.74,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+414,15,5,1205.61,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+415,185,1,723.39,3,1,3,8,New Customers,"Onboarding, welcome series"
+416,219,2,222.07,2,2,1,4,Lost,"Last attempt, big discount"
+417,146,3,1880.98,3,3,5,12,Loyal Customers,"Loyalty programme, rewards"
+418,130,3,511.55,3,3,2,8,New Customers,"Onboarding, welcome series"
+419,151,2,632.6700000000001,3,2,3,8,New Customers,"Onboarding, welcome series"
+420,387,2,720.3,1,2,3,7,New Customers,"Onboarding, welcome series"
+421,132,5,1107.18,3,5,4,12,Loyal Customers,"Loyalty programme, rewards"
+422,6,25,5684.81,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+423,528,1,269.85,1,1,1,3,Lost,"Last attempt, big discount"
+424,238,1,124.35,2,1,1,4,Lost,"Last attempt, big discount"
+425,319,3,1587.8999999999999,2,3,5,11,Loyal Customers,"Loyalty programme, rewards"
+426,199,5,2226.05,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+427,14,1,581.1,5,1,2,8,New Customers,"Onboarding, welcome series"
+428,486,4,2000.92,1,4,5,11,Loyal Customers,"Loyalty programme, rewards"
+429,440,5,796.61,1,5,3,9,Regular Customers,Cross-sell campaigns
+430,63,1,29.48,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+431,163,1,134.58,3,1,1,4,Lost,"Last attempt, big discount"
+432,67,3,1179.84,4,3,4,11,Loyal Customers,"Loyalty programme, rewards"
+433,192,4,308.45,3,4,1,7,New Customers,"Onboarding, welcome series"
+434,157,4,801.99,3,4,3,10,Regular Customers,Cross-sell campaigns
+435,64,6,1513.26,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+436,-282,4,1173.6599999999999,5,4,4,13,VIP Champions,"Early access, VIP discount codes"
+437,68,3,899.3299999999999,4,3,3,10,Regular Customers,Cross-sell campaigns
+438,207,1,254.76,2,1,1,4,Lost,"Last attempt, big discount"
+439,37,2,164.07,5,2,1,7,New Customers,"Onboarding, welcome series"
+440,621,3,297.8,1,3,1,4,Lost,"Last attempt, big discount"
+441,102,4,1300.29,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+442,457,1,81.48,1,1,1,3,Lost,"Last attempt, big discount"
+443,55,2,316.69,5,2,1,7,New Customers,"Onboarding, welcome series"
+444,31,3,1264.56,5,3,4,12,Loyal Customers,"Loyalty programme, rewards"
+445,87,1,234.1,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+446,267,4,868.85,2,4,3,9,Regular Customers,Cross-sell campaigns
+447,223,2,857.97,2,2,3,8,New Customers,"Onboarding, welcome series"
+448,317,1,136.3,2,1,1,4,Lost,"Last attempt, big discount"
+449,161,3,996.3699999999999,3,3,4,10,Regular Customers,Cross-sell campaigns
+450,124,5,1473.03,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+451,408,4,923.7900000000001,1,4,3,8,New Customers,"Onboarding, welcome series"
+452,265,4,850.0,2,4,3,9,Regular Customers,Cross-sell campaigns
+453,95,5,741.12,4,5,3,11,Loyal Customers,"Loyalty programme, rewards"
+454,89,4,1202.21,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+455,246,2,683.55,2,2,3,8,New Customers,"Onboarding, welcome series"
+456,8,4,1888.48,5,4,5,14,VIP Champions,"Early access, VIP discount codes"
+457,76,3,1034.97,4,3,4,11,Loyal Customers,"Loyalty programme, rewards"
+458,430,1,347.84,1,1,2,4,Lost,"Last attempt, big discount"
+459,189,3,1523.18,3,3,5,12,Loyal Customers,"Loyalty programme, rewards"
+460,438,2,458.26000000000005,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+461,9,2,635.51,5,2,3,10,Regular Customers,Cross-sell campaigns
+462,35,2,670.14,5,2,3,10,Regular Customers,Cross-sell campaigns
+463,584,4,1717.25,1,4,5,11,Loyal Customers,"Loyalty programme, rewards"
+464,635,2,471.65000000000003,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+465,299,4,722.23,2,4,3,9,Regular Customers,Cross-sell campaigns
+466,121,6,1295.54,3,5,4,12,Loyal Customers,"Loyalty programme, rewards"
+467,65,4,1034.58,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+468,267,4,1359.9499999999998,2,4,4,10,Regular Customers,Cross-sell campaigns
+469,211,2,1323.46,2,2,4,9,Regular Customers,Cross-sell campaigns
+470,265,3,683.99,2,3,3,8,New Customers,"Onboarding, welcome series"
+471,231,4,1801.08,2,4,5,12,Loyal Customers,"Loyalty programme, rewards"
+472,109,4,861.49,4,4,3,10,Regular Customers,Cross-sell campaigns
+473,195,2,273.21999999999997,3,2,1,5,At Risk,"Win-back campaign, personalised email"
+474,175,11,2733.29,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+475,118,3,465.48,4,3,2,8,New Customers,"Onboarding, welcome series"
+476,104,5,794.34,4,5,3,11,Loyal Customers,"Loyalty programme, rewards"
+477,76,4,772.9200000000001,4,4,3,10,Regular Customers,Cross-sell campaigns
+478,32,6,994.52,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+479,30,1,35.94,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+480,70,3,337.40999999999997,4,3,1,7,New Customers,"Onboarding, welcome series"
+481,132,3,1072.28,3,3,4,10,Regular Customers,Cross-sell campaigns
+482,245,1,331.59,2,1,1,4,Lost,"Last attempt, big discount"
+483,88,2,625.5,4,2,2,8,New Customers,"Onboarding, welcome series"
+484,56,4,1380.03,5,4,4,13,VIP Champions,"Early access, VIP discount codes"
+485,414,3,1315.6399999999999,1,3,4,9,Regular Customers,Cross-sell campaigns
+486,164,2,996.84,3,2,4,10,Regular Customers,Cross-sell campaigns
+487,199,1,301.97,3,1,1,4,Lost,"Last attempt, big discount"
+488,67,5,1307.73,4,5,4,13,VIP Champions,"Early access, VIP discount codes"
+489,304,3,1054.88,2,3,4,10,Regular Customers,Cross-sell campaigns
+490,191,3,1197.24,3,3,4,10,Regular Customers,Cross-sell campaigns
+491,67,4,706.78,4,4,3,10,Regular Customers,Cross-sell campaigns
+492,166,2,504.93,3,2,2,7,New Customers,"Onboarding, welcome series"
+493,120,1,562.38,3,1,2,6,At Risk,"Win-back campaign, personalised email"
+494,423,3,649.45,1,3,3,8,New Customers,"Onboarding, welcome series"
+495,77,2,283.45000000000005,4,2,1,6,At Risk,"Win-back campaign, personalised email"
+496,144,3,871.94,3,3,3,9,Regular Customers,Cross-sell campaigns
+497,149,2,803.56,3,2,3,8,New Customers,"Onboarding, welcome series"
+498,219,1,564.58,2,1,2,5,At Risk,"Win-back campaign, personalised email"
+499,196,2,385.15999999999997,3,2,2,7,New Customers,"Onboarding, welcome series"
+500,92,3,998.67,4,3,4,11,Loyal Customers,"Loyalty programme, rewards"
+501,247,2,1220.1799999999998,2,2,4,9,Regular Customers,Cross-sell campaigns
+502,335,1,184.15,1,1,1,3,Lost,"Last attempt, big discount"
+503,489,3,690.89,1,3,3,8,New Customers,"Onboarding, welcome series"
+504,10,5,774.86,5,5,3,12,Loyal Customers,"Loyalty programme, rewards"
+505,170,3,853.62,3,3,3,9,Regular Customers,Cross-sell campaigns
+506,738,1,583.44,1,1,2,4,Lost,"Last attempt, big discount"
+507,304,1,221.89,2,1,1,4,Lost,"Last attempt, big discount"
+508,445,1,282.95,1,1,1,3,Lost,"Last attempt, big discount"
+509,353,1,351.33,1,1,2,4,Lost,"Last attempt, big discount"
+510,41,4,1133.42,5,4,4,13,VIP Champions,"Early access, VIP discount codes"
+511,583,2,920.6899999999999,1,2,3,7,New Customers,"Onboarding, welcome series"
+512,178,7,1494.74,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+513,594,2,470.85,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+514,15,4,1048.93,5,4,4,13,VIP Champions,"Early access, VIP discount codes"
+515,51,4,390.59000000000003,5,4,2,10,Regular Customers,Cross-sell campaigns
+516,485,4,1198.8000000000002,1,4,4,10,Regular Customers,Cross-sell campaigns
+517,531,2,332.77000000000004,1,2,1,4,Lost,"Last attempt, big discount"
+518,160,2,744.8,3,2,3,8,New Customers,"Onboarding, welcome series"
+519,231,3,1493.9600000000003,2,3,5,11,Loyal Customers,"Loyalty programme, rewards"
+520,77,4,1554.0300000000002,4,4,5,14,VIP Champions,"Early access, VIP discount codes"
+521,170,6,1351.18,3,5,4,12,Loyal Customers,"Loyalty programme, rewards"
+522,69,6,2185.9,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+523,177,4,1303.41,3,4,4,11,Loyal Customers,"Loyalty programme, rewards"
+524,347,4,937.55,1,4,3,8,New Customers,"Onboarding, welcome series"
+525,509,1,253.8,1,1,1,3,Lost,"Last attempt, big discount"
+526,157,1,155.2,3,1,1,4,Lost,"Last attempt, big discount"
+527,545,1,67.75,1,1,1,3,Lost,"Last attempt, big discount"
+528,282,2,797.3800000000001,2,2,3,8,New Customers,"Onboarding, welcome series"
+529,186,6,1345.75,3,5,4,12,Loyal Customers,"Loyalty programme, rewards"
+530,311,2,416.48,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+531,202,6,3990.98,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+532,282,2,406.52000000000004,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+533,189,6,1793.45,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+534,91,6,1805.58,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+535,62,1,123.64,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+536,201,2,625.5,3,2,2,7,New Customers,"Onboarding, welcome series"
+537,107,3,792.44,4,3,3,10,Regular Customers,Cross-sell campaigns
+538,298,5,1675.4499999999998,2,5,5,13,VIP Champions,"Early access, VIP discount codes"
+539,69,6,740.53,4,5,3,11,Loyal Customers,"Loyalty programme, rewards"
+540,30,4,1062.87,5,4,4,13,VIP Champions,"Early access, VIP discount codes"
+541,320,2,368.75,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+542,594,4,836.8199999999999,1,4,3,8,New Customers,"Onboarding, welcome series"
+543,339,4,1441.35,1,4,5,11,Loyal Customers,"Loyalty programme, rewards"
+544,191,2,280.09,3,2,1,5,At Risk,"Win-back campaign, personalised email"
+545,594,2,636.4699999999999,1,2,3,7,New Customers,"Onboarding, welcome series"
+546,95,4,1007.98,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+547,119,1,828.6,4,1,3,8,New Customers,"Onboarding, welcome series"
+548,393,1,172.28,1,1,1,3,Lost,"Last attempt, big discount"
+549,213,1,147.8,2,1,1,4,Lost,"Last attempt, big discount"
+550,161,6,2920.5299999999997,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+551,64,5,1821.35,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+552,101,2,306.39,4,2,1,6,At Risk,"Win-back campaign, personalised email"
+553,56,5,512.59,5,5,2,10,Regular Customers,Cross-sell campaigns
+554,550,1,48.85,1,1,1,3,Lost,"Last attempt, big discount"
+555,287,4,1387.4099999999999,2,4,4,10,Regular Customers,Cross-sell campaigns
+556,61,4,1074.93,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+557,67,1,107.67,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+558,121,2,555.01,3,2,2,7,New Customers,"Onboarding, welcome series"
+559,236,1,371.05,2,1,2,5,At Risk,"Win-back campaign, personalised email"
+560,176,2,503.48,3,2,2,7,New Customers,"Onboarding, welcome series"
+561,476,1,41.79,1,1,1,3,Lost,"Last attempt, big discount"
+562,424,2,2123.64,1,2,5,10,Regular Customers,Cross-sell campaigns
+563,580,1,388.92,1,1,2,4,Lost,"Last attempt, big discount"
+564,606,3,734.03,1,3,3,8,New Customers,"Onboarding, welcome series"
+565,364,1,158.94,1,1,1,3,Lost,"Last attempt, big discount"
+566,113,4,1214.71,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+567,130,8,2281.66,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+568,186,2,191.68,3,2,1,5,At Risk,"Win-back campaign, personalised email"
+569,8,3,1044.1200000000001,5,3,4,12,Loyal Customers,"Loyalty programme, rewards"
+570,117,2,534.09,4,2,2,8,New Customers,"Onboarding, welcome series"
+571,167,4,1040.8,3,4,4,11,Loyal Customers,"Loyalty programme, rewards"
+572,783,1,139.74,1,1,1,3,Lost,"Last attempt, big discount"
+573,136,4,1479.59,3,4,5,13,VIP Champions,"Early access, VIP discount codes"
+574,346,2,756.64,1,2,3,7,New Customers,"Onboarding, welcome series"
+575,364,3,382.18,1,3,2,6,At Risk,"Win-back campaign, personalised email"
+576,181,3,951.3199999999999,3,3,3,9,Regular Customers,Cross-sell campaigns
+577,57,6,3287.9300000000003,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+578,95,1,51.58,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+579,188,3,861.4,3,3,3,9,Regular Customers,Cross-sell campaigns
+580,46,4,2554.02,5,4,5,14,VIP Champions,"Early access, VIP discount codes"
+581,380,3,741.8499999999999,1,3,3,8,New Customers,"Onboarding, welcome series"
+582,334,7,1927.3799999999999,1,5,5,12,Loyal Customers,"Loyalty programme, rewards"
+583,204,3,1016.21,2,3,4,10,Regular Customers,Cross-sell campaigns
+584,52,3,404.83000000000004,5,3,2,9,Regular Customers,Cross-sell campaigns
+585,70,3,1674.44,4,3,5,13,VIP Champions,"Early access, VIP discount codes"
+586,319,1,154.71,2,1,1,4,Lost,"Last attempt, big discount"
+587,2,5,2096.5,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+588,93,2,611.6,4,2,2,8,New Customers,"Onboarding, welcome series"
+589,130,2,565.53,3,2,2,7,New Customers,"Onboarding, welcome series"
+590,250,4,679.32,2,4,3,9,Regular Customers,Cross-sell campaigns
+591,319,3,1460.31,2,3,5,11,Loyal Customers,"Loyalty programme, rewards"
+592,64,4,1871.32,4,4,5,14,VIP Champions,"Early access, VIP discount codes"
+593,191,4,1680.1100000000001,3,4,5,13,VIP Champions,"Early access, VIP discount codes"
+594,124,4,3477.2799999999997,3,4,5,13,VIP Champions,"Early access, VIP discount codes"
+595,85,5,1418.79,4,5,4,13,VIP Champions,"Early access, VIP discount codes"
+596,158,7,1724.31,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+597,54,1,164.3,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+598,140,3,667.14,3,3,3,9,Regular Customers,Cross-sell campaigns
+599,46,7,2902.95,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+600,-302,9,2848.88,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+601,369,3,999.29,1,3,4,9,Regular Customers,Cross-sell campaigns
+602,199,1,83.1,3,1,1,4,Lost,"Last attempt, big discount"
+603,60,4,629.1300000000001,4,4,2,9,Regular Customers,Cross-sell campaigns
+604,226,4,925.08,2,4,3,9,Regular Customers,Cross-sell campaigns
+605,17,2,441.27000000000004,5,2,2,8,New Customers,"Onboarding, welcome series"
+606,557,2,241.3,1,2,1,4,Lost,"Last attempt, big discount"
+607,84,5,1676.13,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+608,117,2,351.6,4,2,2,8,New Customers,"Onboarding, welcome series"
+609,597,2,950.71,1,2,3,7,New Customers,"Onboarding, welcome series"
+610,236,2,850.9100000000001,2,2,3,8,New Customers,"Onboarding, welcome series"
+611,328,3,577.87,1,3,2,6,At Risk,"Win-back campaign, personalised email"
+612,61,3,462.85,4,3,2,8,New Customers,"Onboarding, welcome series"
+613,19,2,608.0,5,2,2,8,New Customers,"Onboarding, welcome series"
+614,418,2,1128.4,1,2,4,8,New Customers,"Onboarding, welcome series"
+615,35,2,915.75,5,2,3,10,Regular Customers,Cross-sell campaigns
+616,304,4,952.61,2,4,3,9,Regular Customers,Cross-sell campaigns
+617,362,5,1504.33,1,5,5,12,Loyal Customers,"Loyalty programme, rewards"
+618,299,4,1288.22,2,4,4,10,Regular Customers,Cross-sell campaigns
+619,212,4,1288.79,2,4,4,10,Regular Customers,Cross-sell campaigns
+620,108,3,1040.38,4,3,4,11,Loyal Customers,"Loyalty programme, rewards"
+621,69,7,1697.56,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+622,221,1,642.84,2,1,3,7,New Customers,"Onboarding, welcome series"
+623,-485,3,980.51,5,3,4,12,Loyal Customers,"Loyalty programme, rewards"
+624,269,2,1496.63,2,2,5,10,Regular Customers,Cross-sell campaigns
+625,52,5,1645.34,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+626,207,2,1380.0,2,2,4,9,Regular Customers,Cross-sell campaigns
+627,110,3,739.39,4,3,3,10,Regular Customers,Cross-sell campaigns
+628,355,5,2480.73,1,5,5,12,Loyal Customers,"Loyalty programme, rewards"
+629,153,6,1455.31,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+630,399,3,1514.81,1,3,5,10,Regular Customers,Cross-sell campaigns
+631,317,1,51.5,2,1,1,4,Lost,"Last attempt, big discount"
+632,368,3,443.95000000000005,1,3,2,6,At Risk,"Win-back campaign, personalised email"
+633,1,4,1270.6,5,4,4,13,VIP Champions,"Early access, VIP discount codes"
+634,160,5,1281.23,3,5,4,12,Loyal Customers,"Loyalty programme, rewards"
+635,212,3,701.4,2,3,3,8,New Customers,"Onboarding, welcome series"
+636,255,1,302.86,2,1,1,4,Lost,"Last attempt, big discount"
+637,241,1,253.23,2,1,1,4,Lost,"Last attempt, big discount"
+638,221,5,2241.7,2,5,5,13,VIP Champions,"Early access, VIP discount codes"
+639,258,2,500.26,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+640,434,3,1054.0,1,3,4,9,Regular Customers,Cross-sell campaigns
+641,58,7,1175.3899999999999,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+642,109,5,1448.96,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+643,274,2,499.88,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+644,184,4,1249.75,3,4,4,11,Loyal Customers,"Loyalty programme, rewards"
+645,269,3,366.59000000000003,2,3,2,7,New Customers,"Onboarding, welcome series"
+646,455,1,552.4,1,1,2,4,Lost,"Last attempt, big discount"
+647,71,4,1004.08,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+648,7,6,1349.9099999999999,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+649,76,8,1558.16,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+650,389,3,409.75,1,3,2,6,At Risk,"Win-back campaign, personalised email"
+651,133,3,331.66,3,3,1,6,At Risk,"Win-back campaign, personalised email"
+652,78,5,2662.2,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+653,21,6,1437.11,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+654,238,2,281.39,2,2,1,4,Lost,"Last attempt, big discount"
+655,222,3,1085.73,2,3,4,10,Regular Customers,Cross-sell campaigns
+656,433,2,374.43,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+657,9,27,7923.54,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+658,342,1,138.13,1,1,1,3,Lost,"Last attempt, big discount"
+659,310,3,1147.73,2,3,4,10,Regular Customers,Cross-sell campaigns
+660,501,2,450.68999999999994,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+661,212,3,898.75,2,3,3,8,New Customers,"Onboarding, welcome series"
+662,588,2,358.16,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+663,183,4,826.72,3,4,3,10,Regular Customers,Cross-sell campaigns
+664,68,2,324.03,4,2,1,6,At Risk,"Win-back campaign, personalised email"
+665,272,2,802.1600000000001,2,2,3,8,New Customers,"Onboarding, welcome series"
+666,65,2,1247.44,4,2,4,10,Regular Customers,Cross-sell campaigns
+667,53,3,933.59,5,3,3,10,Regular Customers,Cross-sell campaigns
+668,623,2,1103.48,1,2,4,8,New Customers,"Onboarding, welcome series"
+669,74,4,846.67,4,4,3,10,Regular Customers,Cross-sell campaigns
+670,222,1,593.16,2,1,2,5,At Risk,"Win-back campaign, personalised email"
+671,255,4,1280.26,2,4,4,10,Regular Customers,Cross-sell campaigns
+672,16,5,1726.59,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+673,603,1,531.05,1,1,2,4,Lost,"Last attempt, big discount"
+674,71,6,1770.78,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+675,230,2,441.73,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+676,148,5,1125.27,3,5,4,12,Loyal Customers,"Loyalty programme, rewards"
+677,380,4,820.46,1,4,3,8,New Customers,"Onboarding, welcome series"
+678,270,5,1315.27,2,5,4,11,Loyal Customers,"Loyalty programme, rewards"
+679,65,3,1813.65,4,3,5,13,VIP Champions,"Early access, VIP discount codes"
+680,221,4,1051.13,2,4,4,10,Regular Customers,Cross-sell campaigns
+681,48,6,1678.4,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+682,244,3,1204.87,2,3,4,10,Regular Customers,Cross-sell campaigns
+683,27,6,1398.92,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+684,4,4,821.24,5,4,3,11,Loyal Customers,"Loyalty programme, rewards"
+685,87,1,191.48,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+686,106,3,1216.02,4,3,4,11,Loyal Customers,"Loyalty programme, rewards"
+687,43,1,47.88,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+688,204,1,145.16,2,1,1,4,Lost,"Last attempt, big discount"
+689,99,2,248.31,4,2,1,6,At Risk,"Win-back campaign, personalised email"
+690,357,1,342.66,1,1,1,3,Lost,"Last attempt, big discount"
+691,107,4,720.69,4,4,3,10,Regular Customers,Cross-sell campaigns
+692,90,1,106.69,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+693,259,1,614.61,2,1,2,5,At Risk,"Win-back campaign, personalised email"
+694,152,7,2402.05,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+695,118,2,372.8,4,2,2,8,New Customers,"Onboarding, welcome series"
+696,435,3,443.51,1,3,2,6,At Risk,"Win-back campaign, personalised email"
+697,78,7,2788.1800000000003,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+698,27,6,1235.1200000000001,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+699,448,2,588.1800000000001,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+700,99,1,254.85,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+701,230,3,2045.54,2,3,5,11,Loyal Customers,"Loyalty programme, rewards"
+702,51,2,2625.52,5,2,5,13,VIP Champions,"Early access, VIP discount codes"
+703,98,3,522.51,4,3,2,8,New Customers,"Onboarding, welcome series"
+704,327,1,594.87,1,1,2,4,Lost,"Last attempt, big discount"
+705,322,4,1057.8999999999999,2,4,4,10,Regular Customers,Cross-sell campaigns
+706,65,6,1070.03,4,5,4,13,VIP Champions,"Early access, VIP discount codes"
+707,43,1,104.85,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+708,247,3,1338.96,2,3,4,10,Regular Customers,Cross-sell campaigns
+709,144,5,1074.1,3,5,4,12,Loyal Customers,"Loyalty programme, rewards"
+710,51,3,754.9,5,3,3,10,Regular Customers,Cross-sell campaigns
+711,287,2,973.3499999999999,2,2,4,9,Regular Customers,Cross-sell campaigns
+712,302,4,2211.84,2,4,5,12,Loyal Customers,"Loyalty programme, rewards"
+713,24,2,1033.6200000000001,5,2,4,11,Loyal Customers,"Loyalty programme, rewards"
+714,124,3,1211.7,3,3,4,10,Regular Customers,Cross-sell campaigns
+715,126,1,176.65,3,1,1,4,Lost,"Last attempt, big discount"
+716,167,3,975.5899999999999,3,3,4,10,Regular Customers,Cross-sell campaigns
+717,93,7,2748.1,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+718,76,4,1471.6599999999999,4,4,5,14,VIP Champions,"Early access, VIP discount codes"
+719,311,2,168.08,2,2,1,4,Lost,"Last attempt, big discount"
+720,78,4,926.1,4,4,3,10,Regular Customers,Cross-sell campaigns
+721,29,1,654.14,5,1,3,9,Regular Customers,Cross-sell campaigns
+722,253,4,1084.91,2,4,4,10,Regular Customers,Cross-sell campaigns
+723,396,3,759.37,1,3,3,8,New Customers,"Onboarding, welcome series"
+724,120,1,182.77,3,1,1,4,Lost,"Last attempt, big discount"
+725,209,1,184.07,2,1,1,4,Lost,"Last attempt, big discount"
+726,155,4,695.9200000000001,3,4,3,10,Regular Customers,Cross-sell campaigns
+727,17,1,104.27,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+728,92,2,1103.13,4,2,4,10,Regular Customers,Cross-sell campaigns
+729,61,7,2557.4300000000003,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+730,394,2,629.84,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+731,91,4,984.33,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+732,242,3,765.1899999999999,2,3,3,8,New Customers,"Onboarding, welcome series"
+733,215,4,1547.46,2,4,5,12,Loyal Customers,"Loyalty programme, rewards"
+734,165,2,870.82,3,2,3,8,New Customers,"Onboarding, welcome series"
+735,137,5,887.86,3,5,3,10,Regular Customers,Cross-sell campaigns
+736,64,4,1225.8,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+737,235,5,4091.6,2,5,5,13,VIP Champions,"Early access, VIP discount codes"
+738,150,2,774.34,3,2,3,8,New Customers,"Onboarding, welcome series"
+739,321,2,738.96,2,2,3,8,New Customers,"Onboarding, welcome series"
+740,89,2,286.20000000000005,4,2,1,6,At Risk,"Win-back campaign, personalised email"
+741,34,1,756.3,5,1,3,9,Regular Customers,Cross-sell campaigns
+742,172,2,714.62,3,2,3,8,New Customers,"Onboarding, welcome series"
+743,155,3,579.91,3,3,2,8,New Customers,"Onboarding, welcome series"
+744,61,4,1615.41,4,4,5,14,VIP Champions,"Early access, VIP discount codes"
+745,216,1,486.04,2,1,2,5,At Risk,"Win-back campaign, personalised email"
+746,200,3,491.92,3,3,2,8,New Customers,"Onboarding, welcome series"
+747,200,4,1360.6200000000001,3,4,4,11,Loyal Customers,"Loyalty programme, rewards"
+748,85,2,196.47,4,2,1,6,At Risk,"Win-back campaign, personalised email"
+749,203,2,517.66,3,2,2,7,New Customers,"Onboarding, welcome series"
+750,168,3,260.47,3,3,1,6,At Risk,"Win-back campaign, personalised email"
+751,-466,71,24172.58,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+752,137,2,382.02000000000004,3,2,2,7,New Customers,"Onboarding, welcome series"
+753,328,4,539.24,1,4,2,7,New Customers,"Onboarding, welcome series"
+754,184,2,238.35000000000002,3,2,1,5,At Risk,"Win-back campaign, personalised email"
+755,186,3,1168.29,3,3,4,10,Regular Customers,Cross-sell campaigns
+756,521,1,1106.01,1,1,4,8,New Customers,"Onboarding, welcome series"
+757,321,2,392.32000000000005,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+758,55,1,42.64,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+759,292,2,852.45,2,2,3,8,New Customers,"Onboarding, welcome series"
+760,7,5,1618.1000000000001,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+761,21,1,261.46,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+762,260,6,1191.3799999999999,2,5,4,11,Loyal Customers,"Loyalty programme, rewards"
+763,152,1,605.72,3,1,2,6,At Risk,"Win-back campaign, personalised email"
+764,199,4,748.68,3,4,3,10,Regular Customers,Cross-sell campaigns
+765,6,4,815.77,5,4,3,11,Loyal Customers,"Loyalty programme, rewards"
+766,158,1,279.43,3,1,1,4,Lost,"Last attempt, big discount"
+767,6,2,438.38,5,2,2,8,New Customers,"Onboarding, welcome series"
+768,20,4,1355.17,5,4,4,13,VIP Champions,"Early access, VIP discount codes"
+769,124,4,1179.22,3,4,4,11,Loyal Customers,"Loyalty programme, rewards"
+770,121,5,1680.19,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+771,515,2,484.12,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+772,37,11,3655.6,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+773,17,3,1141.25,5,3,4,12,Loyal Customers,"Loyalty programme, rewards"
+774,126,3,1001.56,3,3,4,10,Regular Customers,Cross-sell campaigns
+775,707,1,221.42,1,1,1,3,Lost,"Last attempt, big discount"
+776,18,4,1507.59,5,4,5,14,VIP Champions,"Early access, VIP discount codes"
+777,216,1,130.02,2,1,1,4,Lost,"Last attempt, big discount"
+778,363,1,884.76,1,1,3,6,At Risk,"Win-back campaign, personalised email"
+779,249,4,1070.68,2,4,4,10,Regular Customers,Cross-sell campaigns
+780,222,3,530.4000000000001,2,3,2,7,New Customers,"Onboarding, welcome series"
+781,184,3,478.03,3,3,2,8,New Customers,"Onboarding, welcome series"
+782,223,3,1074.57,2,3,4,10,Regular Customers,Cross-sell campaigns
+783,21,3,324.40000000000003,5,3,1,8,New Customers,"Onboarding, welcome series"
+784,548,2,403.77,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+785,100,5,1432.55,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+786,72,4,1613.45,4,4,5,14,VIP Champions,"Early access, VIP discount codes"
+787,45,4,331.07,5,4,1,8,New Customers,"Onboarding, welcome series"
+788,191,1,665.1,3,1,3,8,New Customers,"Onboarding, welcome series"
+789,249,1,560.31,2,1,2,5,At Risk,"Win-back campaign, personalised email"
+790,509,3,1045.73,1,3,4,9,Regular Customers,Cross-sell campaigns
+791,304,4,887.6,2,4,3,9,Regular Customers,Cross-sell campaigns
+792,150,2,985.14,3,2,4,10,Regular Customers,Cross-sell campaigns
+793,101,2,205.14,4,2,1,6,At Risk,"Win-back campaign, personalised email"
+794,124,7,1834.43,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+795,174,5,1013.22,3,5,4,12,Loyal Customers,"Loyalty programme, rewards"
+796,150,4,782.71,3,4,3,10,Regular Customers,Cross-sell campaigns
+797,54,2,989.18,5,2,4,11,Loyal Customers,"Loyalty programme, rewards"
+798,16,5,1366.3500000000001,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+799,304,3,570.93,2,3,2,7,New Customers,"Onboarding, welcome series"
+800,79,7,2421.0499999999997,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+801,382,1,410.0,1,1,2,4,Lost,"Last attempt, big discount"
+802,37,4,1474.67,5,4,5,14,VIP Champions,"Early access, VIP discount codes"
+803,161,7,2632.69,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+804,29,4,2431.92,5,4,5,14,VIP Champions,"Early access, VIP discount codes"
+805,35,13,5417.71,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+806,5,5,2317.91,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+807,376,3,973.53,1,3,4,9,Regular Customers,Cross-sell campaigns
+808,266,2,248.67000000000002,2,2,1,4,Lost,"Last attempt, big discount"
+809,4,6,4419.27,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+810,255,1,158.94,2,1,1,4,Lost,"Last attempt, big discount"
+811,15,5,737.71,5,5,3,12,Loyal Customers,"Loyalty programme, rewards"
+812,89,1,388.92,4,1,2,7,New Customers,"Onboarding, welcome series"
+813,83,3,474.64,4,3,2,8,New Customers,"Onboarding, welcome series"
+814,219,3,859.1200000000001,2,3,3,8,New Customers,"Onboarding, welcome series"
+815,583,2,1495.79,1,2,5,10,Regular Customers,Cross-sell campaigns
+816,230,3,683.38,2,3,3,8,New Customers,"Onboarding, welcome series"
+817,433,5,737.1800000000001,1,5,3,9,Regular Customers,Cross-sell campaigns
+818,431,4,1096.84,1,4,4,10,Regular Customers,Cross-sell campaigns
+819,296,1,272.6,2,1,1,4,Lost,"Last attempt, big discount"
+820,380,2,630.5699999999999,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+821,397,3,1458.65,1,3,5,10,Regular Customers,Cross-sell campaigns
+822,131,4,2348.3599999999997,3,4,5,13,VIP Champions,"Early access, VIP discount codes"
+823,250,5,2306.84,2,5,5,13,VIP Champions,"Early access, VIP discount codes"
+824,127,3,929.3100000000001,3,3,3,9,Regular Customers,Cross-sell campaigns
+825,17,6,1640.12,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+826,147,2,157.42000000000002,3,2,1,5,At Risk,"Win-back campaign, personalised email"
+827,620,3,556.95,1,3,2,6,At Risk,"Win-back campaign, personalised email"
+828,11,5,853.25,5,5,3,12,Loyal Customers,"Loyalty programme, rewards"
+829,509,2,1030.51,1,2,4,8,New Customers,"Onboarding, welcome series"
+830,11,4,792.25,5,4,3,11,Loyal Customers,"Loyalty programme, rewards"
+831,418,1,360.28,1,1,2,4,Lost,"Last attempt, big discount"
+832,261,5,2035.4599999999998,2,5,5,13,VIP Champions,"Early access, VIP discount codes"
+833,456,2,473.52,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+834,211,2,1165.86,2,2,4,9,Regular Customers,Cross-sell campaigns
+835,76,1,329.99,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+836,94,2,1026.64,4,2,4,10,Regular Customers,Cross-sell campaigns
+837,75,2,626.36,4,2,2,8,New Customers,"Onboarding, welcome series"
+838,117,4,848.0600000000001,4,4,3,10,Regular Customers,Cross-sell campaigns
+839,-307,77,23667.93,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+840,89,3,896.82,4,3,3,10,Regular Customers,Cross-sell campaigns
+841,149,3,748.95,3,3,3,9,Regular Customers,Cross-sell campaigns
+842,7,4,2657.02,5,4,5,14,VIP Champions,"Early access, VIP discount codes"
+843,557,1,659.49,1,1,3,6,At Risk,"Win-back campaign, personalised email"
+844,87,5,1210.3600000000001,4,5,4,13,VIP Champions,"Early access, VIP discount codes"
+845,158,1,583.44,3,1,2,6,At Risk,"Win-back campaign, personalised email"
+846,284,1,331.59,2,1,1,4,Lost,"Last attempt, big discount"
+847,322,1,47.36,2,1,1,4,Lost,"Last attempt, big discount"
+848,743,1,1053.99,1,1,4,8,New Customers,"Onboarding, welcome series"
+849,205,3,894.12,2,3,3,8,New Customers,"Onboarding, welcome series"
+850,70,5,1860.23,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+851,209,4,698.89,2,4,3,9,Regular Customers,Cross-sell campaigns
+852,75,4,901.24,4,4,3,10,Regular Customers,Cross-sell campaigns
+853,3,3,1449.1399999999999,5,3,5,14,VIP Champions,"Early access, VIP discount codes"
+854,299,3,1298.75,2,3,4,10,Regular Customers,Cross-sell campaigns
+855,319,1,291.72,2,1,1,4,Lost,"Last attempt, big discount"
+856,288,3,1289.71,2,3,4,10,Regular Customers,Cross-sell campaigns
+857,206,4,1756.05,2,4,5,12,Loyal Customers,"Loyalty programme, rewards"
+858,18,3,944.1999999999999,5,3,3,10,Regular Customers,Cross-sell campaigns
+859,198,1,147.58,3,1,1,4,Lost,"Last attempt, big discount"
+860,242,2,951.1500000000001,2,2,3,8,New Customers,"Onboarding, welcome series"
+861,322,3,729.79,2,3,3,8,New Customers,"Onboarding, welcome series"
+862,198,1,1482.9,3,1,5,10,Regular Customers,Cross-sell campaigns
+863,18,5,1696.74,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+864,184,4,972.7500000000001,3,4,4,11,Loyal Customers,"Loyalty programme, rewards"
+865,84,1,420.72,4,1,2,7,New Customers,"Onboarding, welcome series"
+866,256,2,122.81,2,2,1,4,Lost,"Last attempt, big discount"
+867,118,2,1153.6499999999999,4,2,4,10,Regular Customers,Cross-sell campaigns
+868,722,1,205.89,1,1,1,3,Lost,"Last attempt, big discount"
+869,125,5,1177.32,3,5,4,12,Loyal Customers,"Loyalty programme, rewards"
+870,127,5,1779.09,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+871,2,6,3185.2,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+872,15,3,471.63,5,3,2,9,Regular Customers,Cross-sell campaigns
+873,200,4,437.58,3,4,2,8,New Customers,"Onboarding, welcome series"
+874,16,1,77.78,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+875,255,7,1750.51,2,5,5,13,VIP Champions,"Early access, VIP discount codes"
+876,68,3,661.73,4,3,3,10,Regular Customers,Cross-sell campaigns
+877,300,5,1564.31,2,5,5,13,VIP Champions,"Early access, VIP discount codes"
+878,-279,4,910.96,5,4,3,11,Loyal Customers,"Loyalty programme, rewards"
+879,71,6,2380.65,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+880,187,3,1122.68,3,3,4,10,Regular Customers,Cross-sell campaigns
+881,108,6,2558.87,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+882,308,2,852.1700000000001,2,2,3,8,New Customers,"Onboarding, welcome series"
+883,49,4,975.28,5,4,4,13,VIP Champions,"Early access, VIP discount codes"
+884,77,1,47.38,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+885,26,2,366.04999999999995,5,2,2,8,New Customers,"Onboarding, welcome series"
+886,208,4,749.6800000000001,2,4,3,9,Regular Customers,Cross-sell campaigns
+887,37,3,817.76,5,3,3,10,Regular Customers,Cross-sell campaigns
+888,130,1,536.3,3,1,2,6,At Risk,"Win-back campaign, personalised email"
+889,149,7,2860.92,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+890,340,3,1758.18,1,3,5,10,Regular Customers,Cross-sell campaigns
+891,5,1,51.58,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+892,29,2,369.31000000000006,5,2,2,8,New Customers,"Onboarding, welcome series"
+893,123,5,1181.5900000000001,3,5,4,12,Loyal Customers,"Loyalty programme, rewards"
+894,64,3,896.46,4,3,3,10,Regular Customers,Cross-sell campaigns
+895,59,3,411.44,5,3,2,9,Regular Customers,Cross-sell campaigns
+896,67,2,562.43,4,2,2,8,New Customers,"Onboarding, welcome series"
+897,22,2,1336.1,5,2,4,11,Loyal Customers,"Loyalty programme, rewards"
+898,120,3,821.5899999999999,3,3,3,9,Regular Customers,Cross-sell campaigns
+899,104,4,718.13,4,4,3,10,Regular Customers,Cross-sell campaigns
+900,32,5,1339.74,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+901,27,4,807.98,5,4,3,11,Loyal Customers,"Loyalty programme, rewards"
+902,6,3,1443.91,5,3,5,14,VIP Champions,"Early access, VIP discount codes"
+903,359,3,1864.32,1,3,5,10,Regular Customers,Cross-sell campaigns
+904,133,2,508.98,3,2,2,7,New Customers,"Onboarding, welcome series"
+905,80,4,1813.5700000000002,4,4,5,14,VIP Champions,"Early access, VIP discount codes"
+906,11,1,145.16,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+907,63,5,1837.7999999999997,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+908,53,5,1516.87,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+909,107,1,200.77,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+910,396,3,799.3499999999999,1,3,3,8,New Customers,"Onboarding, welcome series"
+911,202,6,910.91,3,5,3,10,Regular Customers,Cross-sell campaigns
+912,226,3,1497.6399999999999,2,3,5,11,Loyal Customers,"Loyalty programme, rewards"
+913,179,3,728.9,3,3,3,9,Regular Customers,Cross-sell campaigns
+914,215,2,922.02,2,2,3,8,New Customers,"Onboarding, welcome series"
+915,440,5,1178.58,1,5,4,10,Regular Customers,Cross-sell campaigns
+916,274,1,160.21,2,1,1,4,Lost,"Last attempt, big discount"
+917,200,2,332.69,3,2,1,5,At Risk,"Win-back campaign, personalised email"
+918,10,1,209.7,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+919,657,1,153.62,1,1,1,3,Lost,"Last attempt, big discount"
+920,440,2,844.0799999999999,1,2,3,7,New Customers,"Onboarding, welcome series"
+921,67,2,534.54,4,2,2,8,New Customers,"Onboarding, welcome series"
+922,122,5,1557.57,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+923,60,2,889.5600000000001,4,2,3,9,Regular Customers,Cross-sell campaigns
+924,357,4,829.18,1,4,3,8,New Customers,"Onboarding, welcome series"
+925,502,2,364.24,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+926,69,1,332.54,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+927,195,7,1606.22,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+928,323,3,680.26,2,3,3,8,New Customers,"Onboarding, welcome series"
+929,291,3,1468.1799999999998,2,3,5,11,Loyal Customers,"Loyalty programme, rewards"
+930,155,5,878.8199999999999,3,5,3,10,Regular Customers,Cross-sell campaigns
+931,181,3,699.16,3,3,3,9,Regular Customers,Cross-sell campaigns
+932,305,4,677.78,2,4,3,9,Regular Customers,Cross-sell campaigns
+933,148,4,1033.76,3,4,4,11,Loyal Customers,"Loyalty programme, rewards"
+934,89,6,1905.14,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+935,209,2,664.51,2,2,3,8,New Customers,"Onboarding, welcome series"
+936,399,3,879.0799999999999,1,3,3,8,New Customers,"Onboarding, welcome series"
+937,184,2,894.25,3,2,3,8,New Customers,"Onboarding, welcome series"
+938,241,1,756.99,2,1,3,7,New Customers,"Onboarding, welcome series"
+939,69,6,1947.42,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+940,197,7,2317.38,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+941,14,1,116.1,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+942,641,1,210.18,1,1,1,3,Lost,"Last attempt, big discount"
+943,316,2,963.02,2,2,4,9,Regular Customers,Cross-sell campaigns
+944,192,4,577.3900000000001,3,4,2,8,New Customers,"Onboarding, welcome series"
+945,53,6,1053.59,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+946,88,2,381.57,4,2,2,8,New Customers,"Onboarding, welcome series"
+947,258,5,1939.28,2,5,5,13,VIP Champions,"Early access, VIP discount codes"
+948,21,7,1599.6000000000001,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+949,174,1,101.26,3,1,1,4,Lost,"Last attempt, big discount"
+950,-287,6,715.35,5,5,3,12,Loyal Customers,"Loyalty programme, rewards"
+951,68,3,679.95,4,3,3,10,Regular Customers,Cross-sell campaigns
+952,115,4,1126.1599999999999,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+953,417,6,1212.02,1,5,4,10,Regular Customers,Cross-sell campaigns
+954,95,4,696.94,4,4,3,10,Regular Customers,Cross-sell campaigns
+955,395,2,426.44,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+956,345,5,1938.3200000000002,1,5,5,12,Loyal Customers,"Loyalty programme, rewards"
+957,90,2,888.49,4,2,3,9,Regular Customers,Cross-sell campaigns
+958,144,4,675.25,3,4,3,10,Regular Customers,Cross-sell campaigns
+959,129,1,138.9,3,1,1,4,Lost,"Last attempt, big discount"
+960,525,2,337.79,1,2,1,4,Lost,"Last attempt, big discount"
+961,593,1,276.26,1,1,1,3,Lost,"Last attempt, big discount"
+962,43,2,184.81,5,2,1,7,New Customers,"Onboarding, welcome series"
+963,28,2,532.12,5,2,2,8,New Customers,"Onboarding, welcome series"
+964,693,1,737.94,1,1,3,6,At Risk,"Win-back campaign, personalised email"
+965,117,5,1485.01,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+966,476,2,354.71000000000004,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+967,52,2,967.83,5,2,4,11,Loyal Customers,"Loyalty programme, rewards"
+968,6,3,1082.3000000000002,5,3,4,12,Loyal Customers,"Loyalty programme, rewards"
+969,436,3,967.29,1,3,4,9,Regular Customers,Cross-sell campaigns
+970,18,3,698.22,5,3,3,10,Regular Customers,Cross-sell campaigns
+971,88,5,994.21,4,5,4,13,VIP Champions,"Early access, VIP discount codes"
+972,164,1,377.82,3,1,2,6,At Risk,"Win-back campaign, personalised email"
+973,99,2,481.90999999999997,4,2,2,8,New Customers,"Onboarding, welcome series"
+974,49,5,578.7,5,5,2,10,Regular Customers,Cross-sell campaigns
+975,257,4,1472.5900000000001,2,4,5,12,Loyal Customers,"Loyalty programme, rewards"
+976,259,2,410.38,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+977,20,5,1752.62,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+978,259,4,1437.18,2,4,5,12,Loyal Customers,"Loyalty programme, rewards"
+979,93,6,2108.35,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+980,190,6,2859.4500000000003,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+981,11,2,297.86,5,2,1,7,New Customers,"Onboarding, welcome series"
+982,139,1,70.01,3,1,1,4,Lost,"Last attempt, big discount"
+983,80,1,231.13,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+984,483,2,366.60999999999996,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+985,106,2,571.41,4,2,2,8,New Customers,"Onboarding, welcome series"
+986,181,3,908.8499999999999,3,3,3,9,Regular Customers,Cross-sell campaigns
+987,199,1,190.86,3,1,1,4,Lost,"Last attempt, big discount"
+988,224,1,138.13,2,1,1,4,Lost,"Last attempt, big discount"
+989,225,4,1028.18,2,4,4,10,Regular Customers,Cross-sell campaigns
+990,102,2,325.42,4,2,1,6,At Risk,"Win-back campaign, personalised email"
+991,219,2,760.46,2,2,3,8,New Customers,"Onboarding, welcome series"
+992,155,3,368.2,3,3,2,8,New Customers,"Onboarding, welcome series"
+993,172,4,1167.5400000000002,3,4,4,11,Loyal Customers,"Loyalty programme, rewards"
+994,175,3,1119.83,3,3,4,10,Regular Customers,Cross-sell campaigns
+995,497,2,1490.94,1,2,5,10,Regular Customers,Cross-sell campaigns
+996,184,5,1557.54,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+997,188,2,898.37,3,2,3,8,New Customers,"Onboarding, welcome series"
+998,510,1,218.84,1,1,1,3,Lost,"Last attempt, big discount"
+999,14,2,721.5799999999999,5,2,3,10,Regular Customers,Cross-sell campaigns
+1000,35,1,402.62,5,1,2,8,New Customers,"Onboarding, welcome series"
+1001,204,3,812.3199999999999,2,3,3,8,New Customers,"Onboarding, welcome series"
+1002,45,5,1679.42,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1003,213,2,324.18,2,2,1,4,Lost,"Last attempt, big discount"
+1004,261,7,1776.78,2,5,5,13,VIP Champions,"Early access, VIP discount codes"
+1005,169,3,722.29,3,3,3,9,Regular Customers,Cross-sell campaigns
+1006,40,3,555.75,5,3,2,9,Regular Customers,Cross-sell campaigns
+1007,75,4,1511.45,4,4,5,14,VIP Champions,"Early access, VIP discount codes"
+1008,57,6,2257.99,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1009,127,1,420.72,3,1,2,6,At Risk,"Win-back campaign, personalised email"
+1010,349,3,970.74,1,3,4,9,Regular Customers,Cross-sell campaigns
+1011,84,4,1300.22,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+1012,115,1,276.2,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+1013,161,5,3427.36,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1014,371,2,265.98,1,2,1,4,Lost,"Last attempt, big discount"
+1015,182,3,473.48,3,3,2,8,New Customers,"Onboarding, welcome series"
+1016,85,3,885.42,4,3,3,10,Regular Customers,Cross-sell campaigns
+1017,223,1,434.08,2,1,2,5,At Risk,"Win-back campaign, personalised email"
+1018,136,4,616.85,3,4,2,8,New Customers,"Onboarding, welcome series"
+1019,339,3,683.8,1,3,3,8,New Customers,"Onboarding, welcome series"
+1020,87,5,1156.1,4,5,4,13,VIP Champions,"Early access, VIP discount codes"
+1021,208,1,417.44,2,1,2,5,At Risk,"Win-back campaign, personalised email"
+1022,320,1,327.07,2,1,1,4,Lost,"Last attempt, big discount"
+1023,7,4,1319.55,5,4,4,13,VIP Champions,"Early access, VIP discount codes"
+1024,309,1,431.16,2,1,2,5,At Risk,"Win-back campaign, personalised email"
+1025,222,2,104.35,2,2,1,4,Lost,"Last attempt, big discount"
+1026,63,2,1088.2,4,2,4,10,Regular Customers,Cross-sell campaigns
+1027,241,2,563.99,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+1028,329,1,215.58,1,1,1,3,Lost,"Last attempt, big discount"
+1029,150,3,1064.95,3,3,4,10,Regular Customers,Cross-sell campaigns
+1030,22,3,364.41,5,3,2,9,Regular Customers,Cross-sell campaigns
+1031,9,7,1768.32,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1032,41,5,2581.17,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1033,0,4,793.86,5,4,3,11,Loyal Customers,"Loyalty programme, rewards"
+1034,174,5,1380.38,3,5,4,12,Loyal Customers,"Loyalty programme, rewards"
+1035,161,2,1202.74,3,2,4,10,Regular Customers,Cross-sell campaigns
+1036,113,6,1311.62,4,5,4,13,VIP Champions,"Early access, VIP discount codes"
+1037,4,6,1031.4099999999999,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+1038,15,4,630.11,5,4,2,10,Regular Customers,Cross-sell campaigns
+1039,140,4,2142.65,3,4,5,13,VIP Champions,"Early access, VIP discount codes"
+1040,581,3,373.79,1,3,2,6,At Risk,"Win-back campaign, personalised email"
+1041,183,4,917.83,3,4,3,10,Regular Customers,Cross-sell campaigns
+1042,117,2,559.08,4,2,2,8,New Customers,"Onboarding, welcome series"
+1043,313,2,888.68,2,2,3,8,New Customers,"Onboarding, welcome series"
+1044,2,7,2364.86,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1045,163,3,527.05,3,3,2,8,New Customers,"Onboarding, welcome series"
+1046,12,7,2050.61,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1047,211,2,383.87,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+1048,479,1,205.89,1,1,1,3,Lost,"Last attempt, big discount"
+1049,-302,6,1333.93,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+1050,455,3,1997.6100000000001,1,3,5,10,Regular Customers,Cross-sell campaigns
+1051,530,3,958.16,1,3,3,8,New Customers,"Onboarding, welcome series"
+1052,28,5,1946.02,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1053,234,2,342.68,2,2,1,4,Lost,"Last attempt, big discount"
+1054,-282,4,1611.69,5,4,5,14,VIP Champions,"Early access, VIP discount codes"
+1055,84,4,1597.97,4,4,5,14,VIP Champions,"Early access, VIP discount codes"
+1056,38,3,1159.83,5,3,4,12,Loyal Customers,"Loyalty programme, rewards"
+1057,35,2,579.8,5,2,2,8,New Customers,"Onboarding, welcome series"
+1058,443,1,106.69,1,1,1,3,Lost,"Last attempt, big discount"
+1059,45,2,405.62,5,2,2,8,New Customers,"Onboarding, welcome series"
+1060,55,5,1258.45,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+1061,277,2,411.47,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+1062,32,3,988.88,5,3,4,12,Loyal Customers,"Loyalty programme, rewards"
+1063,267,2,1332.42,2,2,4,9,Regular Customers,Cross-sell campaigns
+1064,8,3,1265.96,5,3,4,12,Loyal Customers,"Loyalty programme, rewards"
+1065,498,1,163.64,1,1,1,3,Lost,"Last attempt, big discount"
+1066,126,2,535.47,3,2,2,7,New Customers,"Onboarding, welcome series"
+1067,324,1,706.6,2,1,3,7,New Customers,"Onboarding, welcome series"
+1068,167,2,617.28,3,2,2,7,New Customers,"Onboarding, welcome series"
+1069,288,8,2490.68,2,5,5,13,VIP Champions,"Early access, VIP discount codes"
+1070,19,2,431.53999999999996,5,2,2,8,New Customers,"Onboarding, welcome series"
+1071,118,3,1385.83,4,3,4,11,Loyal Customers,"Loyalty programme, rewards"
+1072,338,3,699.21,1,3,3,8,New Customers,"Onboarding, welcome series"
+1073,62,3,1680.9299999999998,4,3,5,13,VIP Champions,"Early access, VIP discount codes"
+1074,333,4,2133.3900000000003,1,4,5,11,Loyal Customers,"Loyalty programme, rewards"
+1075,452,1,153.4,1,1,1,3,Lost,"Last attempt, big discount"
+1076,-444,4,835.34,5,4,3,11,Loyal Customers,"Loyalty programme, rewards"
+1077,97,6,1766.0,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1078,183,1,48.85,3,1,1,4,Lost,"Last attempt, big discount"
+1079,66,3,940.87,4,3,3,10,Regular Customers,Cross-sell campaigns
+1080,111,5,1025.0900000000001,4,5,4,13,VIP Champions,"Early access, VIP discount codes"
+1081,96,3,1005.3299999999999,4,3,4,11,Loyal Customers,"Loyalty programme, rewards"
+1082,21,4,828.2800000000001,5,4,3,11,Loyal Customers,"Loyalty programme, rewards"
+1083,68,2,217.36,4,2,1,6,At Risk,"Win-back campaign, personalised email"
+1084,263,3,1361.59,2,3,4,10,Regular Customers,Cross-sell campaigns
+1085,445,2,387.83000000000004,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+1086,85,2,1166.6699999999998,4,2,4,10,Regular Customers,Cross-sell campaigns
+1087,430,1,495.28,1,1,2,4,Lost,"Last attempt, big discount"
+1088,282,4,1196.89,2,4,4,10,Regular Customers,Cross-sell campaigns
+1089,109,3,1618.98,4,3,5,13,VIP Champions,"Early access, VIP discount codes"
+1090,72,3,408.32000000000005,4,3,2,8,New Customers,"Onboarding, welcome series"
+1091,254,3,988.51,2,3,4,10,Regular Customers,Cross-sell campaigns
+1092,318,5,1414.81,2,5,4,11,Loyal Customers,"Loyalty programme, rewards"
+1093,233,3,924.58,2,3,3,8,New Customers,"Onboarding, welcome series"
+1094,513,1,171.33,1,1,1,3,Lost,"Last attempt, big discount"
+1095,6,3,1156.05,5,3,4,12,Loyal Customers,"Loyalty programme, rewards"
+1096,30,1,151.08,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+1097,25,6,2567.91,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1098,6,1,321.42,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+1099,235,7,2502.82,2,5,5,13,VIP Champions,"Early access, VIP discount codes"
+1100,293,1,260.0,2,1,1,4,Lost,"Last attempt, big discount"
+1101,651,2,108.18,1,2,1,4,Lost,"Last attempt, big discount"
+1102,233,4,940.05,2,4,3,9,Regular Customers,Cross-sell campaigns
+1103,53,3,569.36,5,3,2,9,Regular Customers,Cross-sell campaigns
+1104,300,5,1043.67,2,5,4,11,Loyal Customers,"Loyalty programme, rewards"
+1105,225,1,138.9,2,1,1,4,Lost,"Last attempt, big discount"
+1106,87,3,1241.13,4,3,4,11,Loyal Customers,"Loyalty programme, rewards"
+1107,310,2,617.62,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+1108,283,3,685.79,2,3,3,8,New Customers,"Onboarding, welcome series"
+1109,286,2,315.8,2,2,1,4,Lost,"Last attempt, big discount"
+1110,132,1,432.36,3,1,2,6,At Risk,"Win-back campaign, personalised email"
+1111,306,3,641.6500000000001,2,3,3,8,New Customers,"Onboarding, welcome series"
+1112,26,3,1037.3799999999999,5,3,4,12,Loyal Customers,"Loyalty programme, rewards"
+1113,297,5,1218.77,2,5,4,11,Loyal Customers,"Loyalty programme, rewards"
+1114,17,2,366.84000000000003,5,2,2,8,New Customers,"Onboarding, welcome series"
+1115,138,4,1357.46,3,4,4,11,Loyal Customers,"Loyalty programme, rewards"
+1116,160,2,329.28,3,2,1,5,At Risk,"Win-back campaign, personalised email"
+1117,172,4,1452.9,3,4,5,13,VIP Champions,"Early access, VIP discount codes"
+1118,168,2,918.5,3,2,3,8,New Customers,"Onboarding, welcome series"
+1119,55,4,754.06,5,4,3,11,Loyal Customers,"Loyalty programme, rewards"
+1120,135,4,688.28,3,4,3,10,Regular Customers,Cross-sell campaigns
+1121,48,5,1439.6299999999999,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1122,46,2,987.75,5,2,4,11,Loyal Customers,"Loyalty programme, rewards"
+1123,409,1,356.57,1,1,2,4,Lost,"Last attempt, big discount"
+1124,444,3,562.58,1,3,2,6,At Risk,"Win-back campaign, personalised email"
+1125,82,3,750.28,4,3,3,10,Regular Customers,Cross-sell campaigns
+1126,189,5,899.12,3,5,3,10,Regular Customers,Cross-sell campaigns
+1127,207,5,1313.5,2,5,4,11,Loyal Customers,"Loyalty programme, rewards"
+1128,246,2,390.94,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+1129,50,6,2038.1599999999999,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1130,65,3,1666.4799999999998,4,3,5,13,VIP Champions,"Early access, VIP discount codes"
+1131,16,2,257.97,5,2,1,7,New Customers,"Onboarding, welcome series"
+1132,226,1,183.31,2,1,1,4,Lost,"Last attempt, big discount"
+1133,5,1,106.69,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+1134,238,2,233.79,2,2,1,4,Lost,"Last attempt, big discount"
+1135,44,1,204.87,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+1136,19,76,26286.100000000002,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1137,68,6,2124.85,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1138,220,2,851.01,2,2,3,8,New Customers,"Onboarding, welcome series"
+1139,192,1,214.72,3,1,1,4,Lost,"Last attempt, big discount"
+1140,184,4,851.03,3,4,3,10,Regular Customers,Cross-sell campaigns
+1141,36,5,1314.56,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+1142,256,6,1166.13,2,5,4,11,Loyal Customers,"Loyalty programme, rewards"
+1143,75,4,745.69,4,4,3,10,Regular Customers,Cross-sell campaigns
+1144,65,6,1710.5700000000002,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1145,277,5,856.03,2,5,3,10,Regular Customers,Cross-sell campaigns
+1146,142,6,1238.29,3,5,4,12,Loyal Customers,"Loyalty programme, rewards"
+1147,66,5,1104.57,4,5,4,13,VIP Champions,"Early access, VIP discount codes"
+1148,325,1,130.02,2,1,1,4,Lost,"Last attempt, big discount"
+1149,188,1,278.59,3,1,1,4,Lost,"Last attempt, big discount"
+1150,104,4,501.06,4,4,2,9,Regular Customers,Cross-sell campaigns
+1151,286,4,784.36,2,4,3,9,Regular Customers,Cross-sell campaigns
+1152,57,3,2322.4,5,3,5,14,VIP Champions,"Early access, VIP discount codes"
+1153,143,3,782.91,3,3,3,9,Regular Customers,Cross-sell campaigns
+1154,1,1,44.08,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+1155,60,5,1191.77,4,5,4,13,VIP Champions,"Early access, VIP discount codes"
+1156,256,2,1467.9699999999998,2,2,5,10,Regular Customers,Cross-sell campaigns
+1157,35,3,1566.4,5,3,5,14,VIP Champions,"Early access, VIP discount codes"
+1158,89,2,473.74,4,2,2,8,New Customers,"Onboarding, welcome series"
+1159,180,2,1357.61,3,2,4,10,Regular Customers,Cross-sell campaigns
+1160,265,4,1095.65,2,4,4,10,Regular Customers,Cross-sell campaigns
+1161,280,5,600.33,2,5,2,8,New Customers,"Onboarding, welcome series"
+1162,326,3,1158.97,1,3,4,9,Regular Customers,Cross-sell campaigns
+1163,329,1,1128.99,1,1,4,8,New Customers,"Onboarding, welcome series"
+1164,95,4,848.46,4,4,3,10,Regular Customers,Cross-sell campaigns
+1165,169,2,658.49,3,2,3,8,New Customers,"Onboarding, welcome series"
+1166,4,8,2331.12,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1167,160,1,605.72,3,1,2,6,At Risk,"Win-back campaign, personalised email"
+1168,623,2,539.19,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+1169,75,3,396.04999999999995,4,3,2,8,New Customers,"Onboarding, welcome series"
+1170,442,3,1347.86,1,3,4,9,Regular Customers,Cross-sell campaigns
+1171,84,1,273.06,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+1172,172,4,705.5999999999999,3,4,3,10,Regular Customers,Cross-sell campaigns
+1173,179,3,756.25,3,3,3,9,Regular Customers,Cross-sell campaigns
+1174,147,4,805.4100000000001,3,4,3,10,Regular Customers,Cross-sell campaigns
+1175,122,6,2166.71,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1176,119,4,495.07,4,4,2,9,Regular Customers,Cross-sell campaigns
+1177,87,2,513.08,4,2,2,8,New Customers,"Onboarding, welcome series"
+1178,215,4,651.23,2,4,3,9,Regular Customers,Cross-sell campaigns
+1179,247,4,754.8499999999999,2,4,3,9,Regular Customers,Cross-sell campaigns
+1180,185,5,1266.6100000000001,3,5,4,12,Loyal Customers,"Loyalty programme, rewards"
+1181,36,5,1729.71,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1182,135,4,610.8199999999999,3,4,2,8,New Customers,"Onboarding, welcome series"
+1183,322,5,1504.64,2,5,5,13,VIP Champions,"Early access, VIP discount codes"
+1184,315,5,647.9,2,5,3,10,Regular Customers,Cross-sell campaigns
+1185,344,2,786.0,1,2,3,7,New Customers,"Onboarding, welcome series"
+1186,24,4,2025.48,5,4,5,14,VIP Champions,"Early access, VIP discount codes"
+1187,429,1,130.36,1,1,1,3,Lost,"Last attempt, big discount"
+1188,141,2,305.34000000000003,3,2,1,5,At Risk,"Win-back campaign, personalised email"
+1189,177,3,783.74,3,3,3,9,Regular Customers,Cross-sell campaigns
+1190,248,3,1146.99,2,3,4,10,Regular Customers,Cross-sell campaigns
+1191,76,1,58.49,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+1192,144,3,1075.24,3,3,4,10,Regular Customers,Cross-sell campaigns
+1193,731,1,560.04,1,1,2,4,Lost,"Last attempt, big discount"
+1194,660,2,494.84,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+1195,279,3,573.73,2,3,2,7,New Customers,"Onboarding, welcome series"
+1196,682,2,494.81999999999994,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+1197,89,4,1747.21,4,4,5,14,VIP Champions,"Early access, VIP discount codes"
+1198,61,1,482.26,4,1,2,7,New Customers,"Onboarding, welcome series"
+1199,522,4,314.65,1,4,1,5,At Risk,"Win-back campaign, personalised email"
+1200,87,1,166.52,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+1201,65,6,1538.92,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1202,106,4,756.99,4,4,3,10,Regular Customers,Cross-sell campaigns
+1203,59,1,583.44,5,1,2,8,New Customers,"Onboarding, welcome series"
+1204,137,3,635.8,3,3,3,9,Regular Customers,Cross-sell campaigns
+1205,83,4,1405.79,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+1206,67,7,1816.4099999999999,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1207,92,5,2475.63,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1208,64,1,281.19,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+1209,86,3,303.33,4,3,1,7,New Customers,"Onboarding, welcome series"
+1210,319,5,1898.02,2,5,5,13,VIP Champions,"Early access, VIP discount codes"
+1211,631,2,404.39,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+1212,153,2,614.9200000000001,3,2,2,7,New Customers,"Onboarding, welcome series"
+1213,7,6,1001.6800000000001,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+1214,248,7,1783.97,2,5,5,13,VIP Champions,"Early access, VIP discount codes"
+1215,86,2,659.5899999999999,4,2,3,9,Regular Customers,Cross-sell campaigns
+1216,102,3,475.26,4,3,2,8,New Customers,"Onboarding, welcome series"
+1217,125,3,1064.8700000000001,3,3,4,10,Regular Customers,Cross-sell campaigns
+1218,135,2,546.62,3,2,2,7,New Customers,"Onboarding, welcome series"
+1219,179,2,299.31,3,2,1,5,At Risk,"Win-back campaign, personalised email"
+1220,79,6,2692.31,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1221,191,3,1042.22,3,3,4,10,Regular Customers,Cross-sell campaigns
+1222,437,1,271.35,1,1,1,3,Lost,"Last attempt, big discount"
+1223,80,3,1008.65,4,3,4,11,Loyal Customers,"Loyalty programme, rewards"
+1224,100,5,1069.3600000000001,4,5,4,13,VIP Champions,"Early access, VIP discount codes"
+1225,230,4,489.33,2,4,2,8,New Customers,"Onboarding, welcome series"
+1226,5,1,16.62,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+1227,242,1,110.53,2,1,1,4,Lost,"Last attempt, big discount"
+1228,257,1,351.62,2,1,2,5,At Risk,"Win-back campaign, personalised email"
+1229,125,5,1766.75,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1230,343,4,718.9799999999999,1,4,3,8,New Customers,"Onboarding, welcome series"
+1231,9,6,1399.3,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+1232,64,6,2194.25,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1233,259,2,459.94,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+1234,463,2,1002.9499999999999,1,2,4,8,New Customers,"Onboarding, welcome series"
+1235,48,5,1070.07,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+1236,592,3,490.09,1,3,2,6,At Risk,"Win-back campaign, personalised email"
+1237,734,1,57.08,1,1,1,3,Lost,"Last attempt, big discount"
+1238,22,3,727.73,5,3,3,10,Regular Customers,Cross-sell campaigns
+1239,442,1,23.45,1,1,1,3,Lost,"Last attempt, big discount"
+1240,151,4,1117.21,3,4,4,11,Loyal Customers,"Loyalty programme, rewards"
+1241,92,5,3166.25,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1242,197,3,937.94,3,3,3,9,Regular Customers,Cross-sell campaigns
+1243,503,3,1044.5600000000002,1,3,4,9,Regular Customers,Cross-sell campaigns
+1244,717,1,273.06,1,1,1,3,Lost,"Last attempt, big discount"
+1245,52,5,1137.6000000000001,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+1246,300,3,823.33,2,3,3,8,New Customers,"Onboarding, welcome series"
+1247,84,7,1895.3500000000001,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1248,247,2,1421.04,2,2,4,9,Regular Customers,Cross-sell campaigns
+1249,164,3,397.54999999999995,3,3,2,8,New Customers,"Onboarding, welcome series"
+1250,125,3,417.49,3,3,2,8,New Customers,"Onboarding, welcome series"
+1251,74,3,675.94,4,3,3,10,Regular Customers,Cross-sell campaigns
+1252,218,1,206.34,2,1,1,4,Lost,"Last attempt, big discount"
+1253,266,3,484.22,2,3,2,7,New Customers,"Onboarding, welcome series"
+1254,537,2,694.5799999999999,1,2,3,7,New Customers,"Onboarding, welcome series"
+1255,156,1,750.68,3,1,3,8,New Customers,"Onboarding, welcome series"
+1256,135,3,979.8699999999999,3,3,4,10,Regular Customers,Cross-sell campaigns
+1257,59,1,107.36,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+1258,145,2,652.84,3,2,3,8,New Customers,"Onboarding, welcome series"
+1259,169,2,359.78,3,2,2,7,New Customers,"Onboarding, welcome series"
+1260,215,4,911.47,2,4,3,9,Regular Customers,Cross-sell campaigns
+1261,202,3,701.48,3,3,3,9,Regular Customers,Cross-sell campaigns
+1262,307,2,418.1,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+1263,659,1,26.79,1,1,1,3,Lost,"Last attempt, big discount"
+1264,90,3,1298.4299999999998,4,3,4,11,Loyal Customers,"Loyalty programme, rewards"
+1265,708,2,372.23,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+1266,169,1,260.04,3,1,1,4,Lost,"Last attempt, big discount"
+1267,154,3,440.42999999999995,3,3,2,8,New Customers,"Onboarding, welcome series"
+1268,349,3,684.4100000000001,1,3,3,8,New Customers,"Onboarding, welcome series"
+1269,291,4,935.05,2,4,3,9,Regular Customers,Cross-sell campaigns
+1270,292,1,207.23,2,1,1,4,Lost,"Last attempt, big discount"
+1271,267,3,1309.1399999999999,2,3,4,10,Regular Customers,Cross-sell campaigns
+1272,50,4,1163.14,5,4,4,13,VIP Champions,"Early access, VIP discount codes"
+1273,281,1,366.62,2,1,2,5,At Risk,"Win-back campaign, personalised email"
+1274,236,2,458.6,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+1275,361,5,1980.01,1,5,5,12,Loyal Customers,"Loyalty programme, rewards"
+1276,289,1,246.97,2,1,1,4,Lost,"Last attempt, big discount"
+1277,403,6,1187.99,1,5,4,10,Regular Customers,Cross-sell campaigns
+1278,346,5,1796.6299999999999,1,5,5,12,Loyal Customers,"Loyalty programme, rewards"
+1279,52,5,1210.99,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+1280,369,2,530.69,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+1281,167,6,1394.4099999999999,3,5,4,12,Loyal Customers,"Loyalty programme, rewards"
+1282,451,2,490.15999999999997,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+1283,55,4,1507.99,5,4,5,14,VIP Champions,"Early access, VIP discount codes"
+1284,417,3,616.87,1,3,2,6,At Risk,"Win-back campaign, personalised email"
+1285,133,5,1506.42,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1286,117,1,437.16,4,1,2,7,New Customers,"Onboarding, welcome series"
+1287,215,7,1770.1299999999999,2,5,5,13,VIP Champions,"Early access, VIP discount codes"
+1288,304,2,421.18,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+1289,221,1,312.41,2,1,1,4,Lost,"Last attempt, big discount"
+1290,81,5,1291.43,4,5,4,13,VIP Champions,"Early access, VIP discount codes"
+1291,186,5,2002.13,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1292,445,3,450.56,1,3,2,6,At Risk,"Win-back campaign, personalised email"
+1293,240,2,366.51,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+1294,239,6,842.46,2,5,3,10,Regular Customers,Cross-sell campaigns
+1295,73,3,1785.9299999999998,4,3,5,13,VIP Champions,"Early access, VIP discount codes"
+1296,80,5,998.1999999999999,4,5,4,13,VIP Champions,"Early access, VIP discount codes"
+1297,119,3,681.98,4,3,3,10,Regular Customers,Cross-sell campaigns
+1298,357,3,458.67,1,3,2,6,At Risk,"Win-back campaign, personalised email"
+1299,629,1,74.81,1,1,1,3,Lost,"Last attempt, big discount"
+1300,100,3,374.73,4,3,2,8,New Customers,"Onboarding, welcome series"
+1301,10,4,1071.67,5,4,4,13,VIP Champions,"Early access, VIP discount codes"
+1302,189,4,1357.4099999999999,3,4,4,11,Loyal Customers,"Loyalty programme, rewards"
+1303,412,1,78.09,1,1,1,3,Lost,"Last attempt, big discount"
+1304,110,6,2850.3,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1305,299,3,1304.52,2,3,4,10,Regular Customers,Cross-sell campaigns
+1306,75,2,428.57,4,2,2,8,New Customers,"Onboarding, welcome series"
+1307,130,6,2018.52,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1308,184,6,1869.02,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1309,127,4,1073.26,3,4,4,11,Loyal Customers,"Loyalty programme, rewards"
+1310,544,3,914.5999999999999,1,3,3,8,New Customers,"Onboarding, welcome series"
+1311,429,3,1258.03,1,3,4,9,Regular Customers,Cross-sell campaigns
+1312,9,69,18332.28,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1313,1,2,1091.42,5,2,4,11,Loyal Customers,"Loyalty programme, rewards"
+1314,473,4,1365.73,1,4,4,10,Regular Customers,Cross-sell campaigns
+1315,213,1,737.34,2,1,3,7,New Customers,"Onboarding, welcome series"
+1316,302,5,1573.61,2,5,5,13,VIP Champions,"Early access, VIP discount codes"
+1317,82,8,1149.08,4,5,4,13,VIP Champions,"Early access, VIP discount codes"
+1318,573,1,58.96,1,1,1,3,Lost,"Last attempt, big discount"
+1319,138,1,183.31,3,1,1,4,Lost,"Last attempt, big discount"
+1320,76,3,1020.5600000000001,4,3,4,11,Loyal Customers,"Loyalty programme, rewards"
+1321,74,2,1412.25,4,2,4,10,Regular Customers,Cross-sell campaigns
+1322,125,5,1519.76,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1323,31,3,1632.08,5,3,5,14,VIP Champions,"Early access, VIP discount codes"
+1324,506,2,201.04000000000002,1,2,1,4,Lost,"Last attempt, big discount"
+1325,32,3,1959.43,5,3,5,14,VIP Champions,"Early access, VIP discount codes"
+1326,83,5,1262.82,4,5,4,13,VIP Champions,"Early access, VIP discount codes"
+1327,24,4,2289.46,5,4,5,14,VIP Champions,"Early access, VIP discount codes"
+1328,27,3,786.0699999999999,5,3,3,10,Regular Customers,Cross-sell campaigns
+1329,27,6,1466.9,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1330,222,1,192.22,2,1,1,4,Lost,"Last attempt, big discount"
+1331,193,3,1020.4,3,3,4,10,Regular Customers,Cross-sell campaigns
+1332,22,8,2494.25,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1333,368,4,1549.8,1,4,5,11,Loyal Customers,"Loyalty programme, rewards"
+1334,344,1,142.57,1,1,1,3,Lost,"Last attempt, big discount"
+1335,350,5,1082.72,1,5,4,10,Regular Customers,Cross-sell campaigns
+1336,263,1,116.98,2,1,1,4,Lost,"Last attempt, big discount"
+1337,16,2,386.67999999999995,5,2,2,8,New Customers,"Onboarding, welcome series"
+1338,186,1,761.4,3,1,3,8,New Customers,"Onboarding, welcome series"
+1339,158,2,246.84,3,2,1,5,At Risk,"Win-back campaign, personalised email"
+1340,307,2,322.68,2,2,1,4,Lost,"Last attempt, big discount"
+1341,379,2,346.48,1,2,1,4,Lost,"Last attempt, big discount"
+1342,202,2,632.7,3,2,3,8,New Customers,"Onboarding, welcome series"
+1343,178,2,355.21,3,2,2,7,New Customers,"Onboarding, welcome series"
+1344,267,1,296.58,2,1,1,4,Lost,"Last attempt, big discount"
+1345,19,1,50.85,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+1346,163,3,1018.09,3,3,4,10,Regular Customers,Cross-sell campaigns
+1347,426,3,301.51,1,3,1,4,Lost,"Last attempt, big discount"
+1348,185,2,747.26,3,2,3,8,New Customers,"Onboarding, welcome series"
+1349,37,3,925.32,5,3,3,10,Regular Customers,Cross-sell campaigns
+1350,211,4,1241.49,2,4,4,10,Regular Customers,Cross-sell campaigns
+1351,148,2,885.0699999999999,3,2,3,8,New Customers,"Onboarding, welcome series"
+1352,429,3,636.96,1,3,3,8,New Customers,"Onboarding, welcome series"
+1353,158,6,2389.74,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1354,199,4,1545.27,3,4,5,13,VIP Champions,"Early access, VIP discount codes"
+1355,4,77,21626.1,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1356,486,4,1213.6,1,4,4,10,Regular Customers,Cross-sell campaigns
+1357,81,5,1209.04,4,5,4,13,VIP Champions,"Early access, VIP discount codes"
+1358,168,4,2496.09,3,4,5,13,VIP Champions,"Early access, VIP discount codes"
+1359,218,3,681.02,2,3,3,8,New Customers,"Onboarding, welcome series"
+1360,150,2,534.03,3,2,2,7,New Customers,"Onboarding, welcome series"
+1361,342,1,282.95,1,1,1,3,Lost,"Last attempt, big discount"
+1362,-328,4,1353.1100000000001,5,4,4,13,VIP Champions,"Early access, VIP discount codes"
+1363,575,2,57.910000000000004,1,2,1,4,Lost,"Last attempt, big discount"
+1364,142,2,299.54999999999995,3,2,1,5,At Risk,"Win-back campaign, personalised email"
+1365,656,1,63.3,1,1,1,3,Lost,"Last attempt, big discount"
+1366,18,6,2477.5,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1367,7,72,27920.86,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1368,183,5,733.9,3,5,3,10,Regular Customers,Cross-sell campaigns
+1369,413,2,798.6700000000001,1,2,3,7,New Customers,"Onboarding, welcome series"
+1370,627,2,1308.86,1,2,4,8,New Customers,"Onboarding, welcome series"
+1371,184,4,2020.6399999999999,3,4,5,13,VIP Champions,"Early access, VIP discount codes"
+1372,206,4,1388.1200000000001,2,4,4,10,Regular Customers,Cross-sell campaigns
+1373,37,6,1278.49,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+1374,55,4,1330.54,5,4,4,13,VIP Champions,"Early access, VIP discount codes"
+1375,499,3,1513.16,1,3,5,10,Regular Customers,Cross-sell campaigns
+1376,1,5,1411.02,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+1377,395,1,222.1,1,1,1,3,Lost,"Last attempt, big discount"
+1378,46,3,366.47,5,3,2,9,Regular Customers,Cross-sell campaigns
+1379,46,4,1405.85,5,4,4,13,VIP Champions,"Early access, VIP discount codes"
+1380,100,7,1669.56,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1381,12,1,552.4,5,1,2,8,New Customers,"Onboarding, welcome series"
+1382,638,2,990.16,1,2,4,8,New Customers,"Onboarding, welcome series"
+1383,316,4,731.8299999999999,2,4,3,9,Regular Customers,Cross-sell campaigns
+1384,71,6,2214.42,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1385,11,2,1013.8599999999999,5,2,4,11,Loyal Customers,"Loyalty programme, rewards"
+1386,180,2,576.48,3,2,2,7,New Customers,"Onboarding, welcome series"
+1387,452,2,399.36,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+1388,140,7,3559.9,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1389,37,7,2464.95,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1390,216,2,365.19,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+1391,595,2,267.54,1,2,1,4,Lost,"Last attempt, big discount"
+1392,153,4,886.15,3,4,3,10,Regular Customers,Cross-sell campaigns
+1393,8,72,22942.420000000002,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1394,191,5,950.21,3,5,3,10,Regular Customers,Cross-sell campaigns
+1395,286,3,564.29,2,3,2,7,New Customers,"Onboarding, welcome series"
+1396,117,2,410.20000000000005,4,2,2,8,New Customers,"Onboarding, welcome series"
+1397,11,6,1036.42,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+1398,606,3,912.9,1,3,3,8,New Customers,"Onboarding, welcome series"
+1399,327,3,842.59,1,3,3,8,New Customers,"Onboarding, welcome series"
+1400,191,4,688.61,3,4,3,10,Regular Customers,Cross-sell campaigns
+1401,219,3,334.7,2,3,1,5,At Risk,"Win-back campaign, personalised email"
+1402,98,3,970.67,4,3,4,11,Loyal Customers,"Loyalty programme, rewards"
+1403,121,5,2426.1800000000003,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1404,164,1,121.51,3,1,1,4,Lost,"Last attempt, big discount"
+1405,49,2,268.57,5,2,1,7,New Customers,"Onboarding, welcome series"
+1406,300,3,222.23000000000002,2,3,1,5,At Risk,"Win-back campaign, personalised email"
+1407,79,3,625.0,4,3,2,8,New Customers,"Onboarding, welcome series"
+1408,62,5,1859.09,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1409,314,4,904.38,2,4,3,9,Regular Customers,Cross-sell campaigns
+1410,590,3,1171.03,1,3,4,9,Regular Customers,Cross-sell campaigns
+1411,401,7,1534.1599999999999,1,5,5,12,Loyal Customers,"Loyalty programme, rewards"
+1412,143,2,438.65,3,2,2,7,New Customers,"Onboarding, welcome series"
+1413,158,2,427.51,3,2,2,7,New Customers,"Onboarding, welcome series"
+1414,207,4,831.4,2,4,3,9,Regular Customers,Cross-sell campaigns
+1415,267,3,1770.79,2,3,5,11,Loyal Customers,"Loyalty programme, rewards"
+1416,8,1,250.72,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+1417,116,1,219.38,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+1418,66,2,417.82000000000005,4,2,2,8,New Customers,"Onboarding, welcome series"
+1419,232,3,1102.87,2,3,4,10,Regular Customers,Cross-sell campaigns
+1420,16,11,2287.75,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1421,62,4,1007.31,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+1422,255,4,1220.67,2,4,4,10,Regular Customers,Cross-sell campaigns
+1423,-296,4,696.3599999999999,5,4,3,11,Loyal Customers,"Loyalty programme, rewards"
+1424,31,4,901.07,5,4,3,11,Loyal Customers,"Loyalty programme, rewards"
+1425,237,5,857.21,2,5,3,10,Regular Customers,Cross-sell campaigns
+1426,389,3,583.4,1,3,2,6,At Risk,"Win-back campaign, personalised email"
+1427,125,1,501.69,3,1,2,6,At Risk,"Win-back campaign, personalised email"
+1428,74,1,259.23,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+1429,45,8,3293.95,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1430,290,2,649.21,2,2,3,8,New Customers,"Onboarding, welcome series"
+1431,52,1,279.43,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+1432,338,4,1108.38,1,4,4,10,Regular Customers,Cross-sell campaigns
+1433,466,5,2980.9,1,5,5,12,Loyal Customers,"Loyalty programme, rewards"
+1434,364,2,557.38,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+1435,360,4,802.21,1,4,3,8,New Customers,"Onboarding, welcome series"
+1436,134,10,4522.92,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1437,29,2,1088.92,5,2,4,11,Loyal Customers,"Loyalty programme, rewards"
+1438,711,2,352.5,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+1439,166,3,584.85,3,3,2,8,New Customers,"Onboarding, welcome series"
+1440,538,2,1426.28,1,2,5,10,Regular Customers,Cross-sell campaigns
+1441,53,1,68.08,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+1442,108,2,250.0,4,2,1,6,At Risk,"Win-back campaign, personalised email"
+1443,67,1,566.48,4,1,2,7,New Customers,"Onboarding, welcome series"
+1444,6,3,942.25,5,3,3,10,Regular Customers,Cross-sell campaigns
+1445,603,1,347.16,1,1,1,3,Lost,"Last attempt, big discount"
+1446,-277,7,1378.77,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+1447,54,6,2116.89,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1448,82,6,1103.25,4,5,4,13,VIP Champions,"Early access, VIP discount codes"
+1449,126,2,669.38,3,2,3,8,New Customers,"Onboarding, welcome series"
+1450,42,5,864.69,5,5,3,12,Loyal Customers,"Loyalty programme, rewards"
+1451,208,4,1063.92,2,4,4,10,Regular Customers,Cross-sell campaigns
+1452,54,1,552.4,5,1,2,8,New Customers,"Onboarding, welcome series"
+1453,146,5,1781.36,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1454,56,7,1321.25,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+1455,193,5,1579.77,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1456,250,5,2158.81,2,5,5,13,VIP Champions,"Early access, VIP discount codes"
+1457,174,3,1564.98,3,3,5,12,Loyal Customers,"Loyalty programme, rewards"
+1458,28,62,20317.81,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1459,195,4,913.6,3,4,3,10,Regular Customers,Cross-sell campaigns
+1460,249,1,26.62,2,1,1,4,Lost,"Last attempt, big discount"
+1461,549,2,742.1800000000001,1,2,3,7,New Customers,"Onboarding, welcome series"
+1462,104,3,251.67,4,3,1,7,New Customers,"Onboarding, welcome series"
+1463,454,2,280.56,1,2,1,4,Lost,"Last attempt, big discount"
+1464,513,2,1085.9,1,2,4,8,New Customers,"Onboarding, welcome series"
+1465,7,5,2681.42,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1466,406,1,106.82,1,1,1,3,Lost,"Last attempt, big discount"
+1467,104,4,2087.25,4,4,5,14,VIP Champions,"Early access, VIP discount codes"
+1468,357,4,1460.03,1,4,5,11,Loyal Customers,"Loyalty programme, rewards"
+1469,51,6,2105.1,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1470,100,2,333.19,4,2,1,6,At Risk,"Win-back campaign, personalised email"
+1471,28,2,422.51,5,2,2,8,New Customers,"Onboarding, welcome series"
+1472,16,2,978.99,5,2,4,11,Loyal Customers,"Loyalty programme, rewards"
+1473,152,1,67.75,3,1,1,4,Lost,"Last attempt, big discount"
+1474,121,3,747.37,3,3,3,9,Regular Customers,Cross-sell campaigns
+1475,161,3,691.0999999999999,3,3,3,9,Regular Customers,Cross-sell campaigns
+1476,293,5,2399.3,2,5,5,13,VIP Champions,"Early access, VIP discount codes"
+1477,135,6,1531.35,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1478,377,3,609.19,1,3,2,6,At Risk,"Win-back campaign, personalised email"
+1479,65,4,1041.73,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+1480,229,4,2235.34,2,4,5,12,Loyal Customers,"Loyalty programme, rewards"
+1481,294,3,632.27,2,3,2,7,New Customers,"Onboarding, welcome series"
+1482,369,2,610.8,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+1483,25,5,848.9200000000001,5,5,3,12,Loyal Customers,"Loyalty programme, rewards"
+1484,698,2,245.24,1,2,1,4,Lost,"Last attempt, big discount"
+1485,184,4,862.5,3,4,3,10,Regular Customers,Cross-sell campaigns
+1486,176,4,1778.05,3,4,5,13,VIP Champions,"Early access, VIP discount codes"
+1487,103,5,1122.1399999999999,4,5,4,13,VIP Champions,"Early access, VIP discount codes"
+1488,388,2,233.06,1,2,1,4,Lost,"Last attempt, big discount"
+1489,228,2,474.25,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+1490,645,1,183.4,1,1,1,3,Lost,"Last attempt, big discount"
+1491,70,4,1060.04,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+1492,129,3,1264.42,3,3,4,10,Regular Customers,Cross-sell campaigns
+1493,151,3,561.19,3,3,2,8,New Customers,"Onboarding, welcome series"
+1494,196,3,1133.38,3,3,4,10,Regular Customers,Cross-sell campaigns
+1495,98,4,947.22,4,4,3,10,Regular Customers,Cross-sell campaigns
+1496,430,2,429.15,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+1497,353,3,1475.3899999999999,1,3,5,10,Regular Customers,Cross-sell campaigns
+1498,47,3,527.48,5,3,2,9,Regular Customers,Cross-sell campaigns
+1499,290,2,182.4,2,2,1,4,Lost,"Last attempt, big discount"
+1500,13,4,960.95,5,4,3,11,Loyal Customers,"Loyalty programme, rewards"
+1501,121,1,270.69,3,1,1,4,Lost,"Last attempt, big discount"
+1502,79,6,2211.61,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1503,352,3,577.83,1,3,2,6,At Risk,"Win-back campaign, personalised email"
+1504,186,1,176.65,3,1,1,4,Lost,"Last attempt, big discount"
+1505,175,1,247.28,3,1,1,4,Lost,"Last attempt, big discount"
+1506,47,4,942.1700000000001,5,4,3,11,Loyal Customers,"Loyalty programme, rewards"
+1507,79,1,1635.35,4,1,5,11,Loyal Customers,"Loyalty programme, rewards"
+1508,1,4,2350.16,5,4,5,14,VIP Champions,"Early access, VIP discount codes"
+1509,54,2,369.3,5,2,2,8,New Customers,"Onboarding, welcome series"
+1510,149,6,1393.79,3,5,4,12,Loyal Customers,"Loyalty programme, rewards"
+1511,451,1,271.98,1,1,1,3,Lost,"Last attempt, big discount"
+1512,199,5,648.02,3,5,3,10,Regular Customers,Cross-sell campaigns
+1513,179,6,1052.41,3,5,4,12,Loyal Customers,"Loyalty programme, rewards"
+1514,336,3,899.0,1,3,3,8,New Customers,"Onboarding, welcome series"
+1515,238,2,659.57,2,2,3,8,New Customers,"Onboarding, welcome series"
+1516,659,1,154.71,1,1,1,3,Lost,"Last attempt, big discount"
+1517,161,2,393.52,3,2,2,7,New Customers,"Onboarding, welcome series"
+1518,15,5,763.36,5,5,3,12,Loyal Customers,"Loyalty programme, rewards"
+1519,202,2,938.4000000000001,3,2,3,8,New Customers,"Onboarding, welcome series"
+1520,478,2,701.22,1,2,3,7,New Customers,"Onboarding, welcome series"
+1521,212,1,221.4,2,1,1,4,Lost,"Last attempt, big discount"
+1522,181,1,127.24,3,1,1,4,Lost,"Last attempt, big discount"
+1523,174,2,452.13,3,2,2,7,New Customers,"Onboarding, welcome series"
+1524,267,2,884.2,2,2,3,8,New Customers,"Onboarding, welcome series"
+1525,420,1,106.21,1,1,1,3,Lost,"Last attempt, big discount"
+1526,319,4,1470.68,2,4,5,12,Loyal Customers,"Loyalty programme, rewards"
+1527,36,4,1280.74,5,4,4,13,VIP Champions,"Early access, VIP discount codes"
+1528,536,2,1469.26,1,2,5,10,Regular Customers,Cross-sell campaigns
+1529,172,2,97.11,3,2,1,5,At Risk,"Win-back campaign, personalised email"
+1530,515,1,282.95,1,1,1,3,Lost,"Last attempt, big discount"
+1531,330,4,940.48,1,4,3,8,New Customers,"Onboarding, welcome series"
+1532,11,55,18110.41,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1533,51,2,276.98,5,2,1,7,New Customers,"Onboarding, welcome series"
+1534,200,3,485.12,3,3,2,8,New Customers,"Onboarding, welcome series"
+1535,117,2,463.69,4,2,2,8,New Customers,"Onboarding, welcome series"
+1536,66,2,1008.69,4,2,4,10,Regular Customers,Cross-sell campaigns
+1537,58,5,840.29,5,5,3,12,Loyal Customers,"Loyalty programme, rewards"
+1538,66,2,323.98,4,2,1,6,At Risk,"Win-back campaign, personalised email"
+1539,172,4,2063.73,3,4,5,13,VIP Champions,"Early access, VIP discount codes"
+1540,131,4,912.51,3,4,3,10,Regular Customers,Cross-sell campaigns
+1541,123,1,401.6,3,1,2,6,At Risk,"Win-back campaign, personalised email"
+1542,268,3,281.36,2,3,1,5,At Risk,"Win-back campaign, personalised email"
+1543,266,1,437.98,2,1,2,5,At Risk,"Win-back campaign, personalised email"
+1544,128,1,286.17,3,1,1,4,Lost,"Last attempt, big discount"
+1545,377,2,859.08,1,2,3,7,New Customers,"Onboarding, welcome series"
+1546,281,3,1074.03,2,3,4,10,Regular Customers,Cross-sell campaigns
+1547,48,4,1042.3,5,4,4,13,VIP Champions,"Early access, VIP discount codes"
+1548,243,2,515.0799999999999,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+1549,18,5,1443.54,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1550,137,4,795.5699999999999,3,4,3,10,Regular Customers,Cross-sell campaigns
+1551,531,1,789.39,1,1,3,6,At Risk,"Win-back campaign, personalised email"
+1552,111,4,1148.6200000000001,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+1553,254,3,662.36,2,3,3,8,New Customers,"Onboarding, welcome series"
+1554,88,5,1002.33,4,5,4,13,VIP Champions,"Early access, VIP discount codes"
+1555,50,3,1298.94,5,3,4,12,Loyal Customers,"Loyalty programme, rewards"
+1556,36,2,377.45000000000005,5,2,2,8,New Customers,"Onboarding, welcome series"
+1557,327,2,346.36,1,2,1,4,Lost,"Last attempt, big discount"
+1558,582,4,1170.95,1,4,4,10,Regular Customers,Cross-sell campaigns
+1559,391,1,216.18,1,1,1,3,Lost,"Last attempt, big discount"
+1560,4,4,775.9300000000001,5,4,3,11,Loyal Customers,"Loyalty programme, rewards"
+1561,53,4,1178.0,5,4,4,13,VIP Champions,"Early access, VIP discount codes"
+1562,216,3,692.4200000000001,2,3,3,8,New Customers,"Onboarding, welcome series"
+1563,58,2,370.93,5,2,2,8,New Customers,"Onboarding, welcome series"
+1564,109,7,3266.7799999999997,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1565,483,2,511.63,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+1566,274,3,1661.3700000000001,2,3,5,11,Loyal Customers,"Loyalty programme, rewards"
+1567,306,2,978.77,2,2,4,9,Regular Customers,Cross-sell campaigns
+1568,105,4,677.93,4,4,3,10,Regular Customers,Cross-sell campaigns
+1569,501,4,944.63,1,4,3,8,New Customers,"Onboarding, welcome series"
+1570,188,3,770.39,3,3,3,9,Regular Customers,Cross-sell campaigns
+1571,105,6,1245.8500000000001,4,5,4,13,VIP Champions,"Early access, VIP discount codes"
+1572,112,7,2740.79,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1573,213,2,1129.28,2,2,4,9,Regular Customers,Cross-sell campaigns
+1574,310,3,1255.26,2,3,4,10,Regular Customers,Cross-sell campaigns
+1575,195,2,534.3199999999999,3,2,2,7,New Customers,"Onboarding, welcome series"
+1576,133,6,1753.12,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1577,88,3,1805.5299999999997,4,3,5,13,VIP Champions,"Early access, VIP discount codes"
+1578,78,2,292.34999999999997,4,2,1,6,At Risk,"Win-back campaign, personalised email"
+1579,457,2,345.1,1,2,1,4,Lost,"Last attempt, big discount"
+1580,66,5,1503.6200000000001,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1581,154,2,532.04,3,2,2,7,New Customers,"Onboarding, welcome series"
+1582,100,2,937.3299999999999,4,2,3,9,Regular Customers,Cross-sell campaigns
+1583,586,1,208.11,1,1,1,3,Lost,"Last attempt, big discount"
+1584,473,3,1009.28,1,3,4,9,Regular Customers,Cross-sell campaigns
+1585,324,1,50.85,2,1,1,4,Lost,"Last attempt, big discount"
+1586,187,5,2021.71,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1587,22,7,1294.08,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+1588,231,3,1138.22,2,3,4,10,Regular Customers,Cross-sell campaigns
+1589,147,3,1078.3200000000002,3,3,4,10,Regular Customers,Cross-sell campaigns
+1590,547,4,1418.5900000000001,1,4,4,10,Regular Customers,Cross-sell campaigns
+1591,126,2,153.74,3,2,1,5,At Risk,"Win-back campaign, personalised email"
+1592,68,2,273.1,4,2,1,6,At Risk,"Win-back campaign, personalised email"
+1593,259,4,814.17,2,4,3,9,Regular Customers,Cross-sell campaigns
+1594,31,5,686.03,5,5,3,12,Loyal Customers,"Loyalty programme, rewards"
+1595,477,1,160.91,1,1,1,3,Lost,"Last attempt, big discount"
+1596,2,2,158.21,5,2,1,7,New Customers,"Onboarding, welcome series"
+1597,10,5,1554.46,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1598,358,3,1095.83,1,3,4,9,Regular Customers,Cross-sell campaigns
+1599,219,2,473.28,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+1600,81,5,2136.75,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1601,662,3,675.81,1,3,3,8,New Customers,"Onboarding, welcome series"
+1602,108,3,1286.71,4,3,4,11,Loyal Customers,"Loyalty programme, rewards"
+1603,349,3,480.0,1,3,2,6,At Risk,"Win-back campaign, personalised email"
+1604,84,4,1754.03,4,4,5,14,VIP Champions,"Early access, VIP discount codes"
+1605,76,2,547.36,4,2,2,8,New Customers,"Onboarding, welcome series"
+1606,64,2,844.8600000000001,4,2,3,9,Regular Customers,Cross-sell campaigns
+1607,68,5,433.03999999999996,4,5,2,10,Regular Customers,Cross-sell campaigns
+1608,18,2,591.1899999999999,5,2,2,8,New Customers,"Onboarding, welcome series"
+1609,478,2,172.84,1,2,1,4,Lost,"Last attempt, big discount"
+1610,194,6,1409.1100000000001,3,5,4,12,Loyal Customers,"Loyalty programme, rewards"
+1611,350,2,479.31,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+1612,-392,5,1370.66,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+1613,305,5,2020.0500000000002,2,5,5,13,VIP Champions,"Early access, VIP discount codes"
+1614,27,8,2655.03,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1615,54,3,703.03,5,3,3,10,Regular Customers,Cross-sell campaigns
+1616,259,2,752.47,2,2,3,8,New Customers,"Onboarding, welcome series"
+1617,136,3,1262.6599999999999,3,3,4,10,Regular Customers,Cross-sell campaigns
+1618,262,3,548.84,2,3,2,7,New Customers,"Onboarding, welcome series"
+1619,239,1,257.32,2,1,1,4,Lost,"Last attempt, big discount"
+1620,276,1,338.04,2,1,1,4,Lost,"Last attempt, big discount"
+1621,40,1,282.29,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+1622,139,3,783.44,3,3,3,9,Regular Customers,Cross-sell campaigns
+1623,203,1,218.99,3,1,1,4,Lost,"Last attempt, big discount"
+1624,96,2,1187.57,4,2,4,10,Regular Customers,Cross-sell campaigns
+1625,191,3,535.86,3,3,2,8,New Customers,"Onboarding, welcome series"
+1626,123,3,487.25,3,3,2,8,New Customers,"Onboarding, welcome series"
+1627,106,1,208.15,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+1628,175,4,712.53,3,4,3,10,Regular Customers,Cross-sell campaigns
+1629,73,5,1141.7,4,5,4,13,VIP Champions,"Early access, VIP discount codes"
+1630,225,1,566.48,2,1,2,5,At Risk,"Win-back campaign, personalised email"
+1631,258,2,767.01,2,2,3,8,New Customers,"Onboarding, welcome series"
+1632,27,5,1618.86,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1633,194,3,834.11,3,3,3,9,Regular Customers,Cross-sell campaigns
+1634,656,1,140.02,1,1,1,3,Lost,"Last attempt, big discount"
+1635,30,6,1492.46,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1636,111,3,569.29,4,3,2,8,New Customers,"Onboarding, welcome series"
+1637,571,1,167.23,1,1,1,3,Lost,"Last attempt, big discount"
+1638,253,2,429.89,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+1639,147,2,757.46,3,2,3,8,New Customers,"Onboarding, welcome series"
+1640,74,5,1455.83,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1641,264,1,519.38,2,1,2,5,At Risk,"Win-back campaign, personalised email"
+1642,478,3,478.31000000000006,1,3,2,6,At Risk,"Win-back campaign, personalised email"
+1643,192,7,2340.85,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1644,326,1,685.32,1,1,3,6,At Risk,"Win-back campaign, personalised email"
+1645,43,3,1441.9299999999998,5,3,5,14,VIP Champions,"Early access, VIP discount codes"
+1646,60,3,800.08,4,3,3,10,Regular Customers,Cross-sell campaigns
+1647,129,4,1724.1599999999999,3,4,5,13,VIP Champions,"Early access, VIP discount codes"
+1648,287,3,2169.01,2,3,5,11,Loyal Customers,"Loyalty programme, rewards"
+1649,196,4,1275.29,3,4,4,11,Loyal Customers,"Loyalty programme, rewards"
+1650,111,1,72.73,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+1651,703,1,152.13,1,1,1,3,Lost,"Last attempt, big discount"
+1652,309,4,1040.09,2,4,4,10,Regular Customers,Cross-sell campaigns
+1653,136,2,992.2,3,2,4,10,Regular Customers,Cross-sell campaigns
+1654,261,4,407.75,2,4,2,8,New Customers,"Onboarding, welcome series"
+1655,423,6,1009.51,1,5,4,10,Regular Customers,Cross-sell campaigns
+1656,19,3,761.28,5,3,3,10,Regular Customers,Cross-sell campaigns
+1657,349,3,1346.6799999999998,1,3,4,9,Regular Customers,Cross-sell campaigns
+1658,271,6,2598.19,2,5,5,13,VIP Champions,"Early access, VIP discount codes"
+1659,103,6,1182.64,4,5,4,13,VIP Champions,"Early access, VIP discount codes"
+1660,83,4,1105.7,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+1661,9,2,773.5699999999999,5,2,3,10,Regular Customers,Cross-sell campaigns
+1662,340,1,49.08,1,1,1,3,Lost,"Last attempt, big discount"
+1663,288,2,373.44000000000005,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+1664,563,1,305.7,1,1,1,3,Lost,"Last attempt, big discount"
+1665,340,1,190.78,1,1,1,3,Lost,"Last attempt, big discount"
+1666,54,3,1516.9,5,3,5,14,VIP Champions,"Early access, VIP discount codes"
+1667,144,1,135.99,3,1,1,4,Lost,"Last attempt, big discount"
+1668,603,3,442.41999999999996,1,3,2,6,At Risk,"Win-back campaign, personalised email"
+1669,479,4,1150.28,1,4,4,10,Regular Customers,Cross-sell campaigns
+1670,202,3,928.6100000000001,3,3,3,9,Regular Customers,Cross-sell campaigns
+1671,399,5,1154.51,1,5,4,10,Regular Customers,Cross-sell campaigns
+1672,83,2,388.42,4,2,2,8,New Customers,"Onboarding, welcome series"
+1673,59,4,444.16999999999996,5,4,2,10,Regular Customers,Cross-sell campaigns
+1674,346,3,366.49,1,3,2,6,At Risk,"Win-back campaign, personalised email"
+1675,213,1,241.18,2,1,1,4,Lost,"Last attempt, big discount"
+1676,162,2,222.2,3,2,1,5,At Risk,"Win-back campaign, personalised email"
+1677,154,4,674.45,3,4,3,10,Regular Customers,Cross-sell campaigns
+1678,21,4,654.24,5,4,3,11,Loyal Customers,"Loyalty programme, rewards"
+1679,273,6,802.88,2,5,3,10,Regular Customers,Cross-sell campaigns
+1680,292,4,599.65,2,4,2,8,New Customers,"Onboarding, welcome series"
+1681,56,1,130.73,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+1682,481,2,588.61,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+1683,13,2,584.0600000000001,5,2,2,8,New Customers,"Onboarding, welcome series"
+1684,61,4,1865.7,4,4,5,14,VIP Champions,"Early access, VIP discount codes"
+1685,75,2,677.1,4,2,3,9,Regular Customers,Cross-sell campaigns
+1686,53,3,711.5999999999999,5,3,3,10,Regular Customers,Cross-sell campaigns
+1687,323,4,573.1500000000001,2,4,2,8,New Customers,"Onboarding, welcome series"
+1688,136,3,1750.35,3,3,5,12,Loyal Customers,"Loyalty programme, rewards"
+1689,26,6,1463.4099999999999,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1690,14,5,1081.45,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+1691,89,3,1247.3700000000001,4,3,4,11,Loyal Customers,"Loyalty programme, rewards"
+1692,209,2,880.48,2,2,3,8,New Customers,"Onboarding, welcome series"
+1693,347,1,298.94,1,1,1,3,Lost,"Last attempt, big discount"
+1694,151,3,382.69,3,3,2,8,New Customers,"Onboarding, welcome series"
+1695,233,3,852.1600000000001,2,3,3,8,New Customers,"Onboarding, welcome series"
+1696,429,3,515.64,1,3,2,6,At Risk,"Win-back campaign, personalised email"
+1697,28,4,531.27,5,4,2,10,Regular Customers,Cross-sell campaigns
+1698,149,5,2372.29,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1699,17,1,166.27,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+1700,544,5,1385.4299999999998,1,5,4,10,Regular Customers,Cross-sell campaigns
+1701,287,1,385.11,2,1,2,5,At Risk,"Win-back campaign, personalised email"
+1702,738,1,695.68,1,1,3,6,At Risk,"Win-back campaign, personalised email"
+1703,206,4,978.93,2,4,4,10,Regular Customers,Cross-sell campaigns
+1704,10,5,1893.77,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1705,12,5,2302.81,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1706,63,3,1636.68,4,3,5,13,VIP Champions,"Early access, VIP discount codes"
+1707,610,1,246.97,1,1,1,3,Lost,"Last attempt, big discount"
+1708,109,5,1549.67,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1709,47,2,390.78000000000003,5,2,2,8,New Customers,"Onboarding, welcome series"
+1710,198,1,152.13,3,1,1,4,Lost,"Last attempt, big discount"
+1711,395,2,417.69,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+1712,17,58,17149.84,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1713,568,1,332.55,1,1,1,3,Lost,"Last attempt, big discount"
+1714,86,6,1194.87,4,5,4,13,VIP Champions,"Early access, VIP discount codes"
+1715,144,12,3842.3,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1716,654,1,713.14,1,1,3,6,At Risk,"Win-back campaign, personalised email"
+1717,154,5,1561.03,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1718,139,2,559.0,3,2,2,7,New Customers,"Onboarding, welcome series"
+1719,45,4,667.76,5,4,3,11,Loyal Customers,"Loyalty programme, rewards"
+1720,633,1,51.58,1,1,1,3,Lost,"Last attempt, big discount"
+1721,627,1,167.23,1,1,1,3,Lost,"Last attempt, big discount"
+1722,410,4,1308.42,1,4,4,10,Regular Customers,Cross-sell campaigns
+1723,112,3,1192.41,4,3,4,11,Loyal Customers,"Loyalty programme, rewards"
+1724,647,1,274.78,1,1,1,3,Lost,"Last attempt, big discount"
+1725,178,2,522.22,3,2,2,7,New Customers,"Onboarding, welcome series"
+1726,188,4,683.29,3,4,3,10,Regular Customers,Cross-sell campaigns
+1727,292,1,145.46,2,1,1,4,Lost,"Last attempt, big discount"
+1728,71,5,2387.34,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1729,384,3,1207.37,1,3,4,9,Regular Customers,Cross-sell campaigns
+1730,114,4,850.11,4,4,3,10,Regular Customers,Cross-sell campaigns
+1731,464,1,311.68,1,1,1,3,Lost,"Last attempt, big discount"
+1732,88,1,153.62,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+1733,68,4,1783.84,4,4,5,14,VIP Champions,"Early access, VIP discount codes"
+1734,153,6,1087.12,3,5,4,12,Loyal Customers,"Loyalty programme, rewards"
+1735,203,7,2197.05,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1736,8,2,592.39,5,2,2,8,New Customers,"Onboarding, welcome series"
+1737,144,2,140.01999999999998,3,2,1,5,At Risk,"Win-back campaign, personalised email"
+1738,529,2,839.56,1,2,3,7,New Customers,"Onboarding, welcome series"
+1739,61,3,1411.55,4,3,4,11,Loyal Customers,"Loyalty programme, rewards"
+1740,5,1,317.88,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+1741,53,3,2037.1100000000001,5,3,5,14,VIP Champions,"Early access, VIP discount codes"
+1742,235,5,1277.72,2,5,4,11,Loyal Customers,"Loyalty programme, rewards"
+1743,142,5,997.52,3,5,4,12,Loyal Customers,"Loyalty programme, rewards"
+1744,313,2,139.27,2,2,1,4,Lost,"Last attempt, big discount"
+1745,466,2,627.97,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+1746,325,3,613.21,2,3,2,7,New Customers,"Onboarding, welcome series"
+1747,150,3,415.17,3,3,2,8,New Customers,"Onboarding, welcome series"
+1748,229,2,285.56,2,2,1,4,Lost,"Last attempt, big discount"
+1749,435,2,1115.91,1,2,4,8,New Customers,"Onboarding, welcome series"
+1750,243,2,647.83,2,2,3,8,New Customers,"Onboarding, welcome series"
+1751,397,2,168.61,1,2,1,4,Lost,"Last attempt, big discount"
+1752,228,2,1205.43,2,2,4,9,Regular Customers,Cross-sell campaigns
+1753,190,1,337.64,3,1,1,4,Lost,"Last attempt, big discount"
+1754,18,3,497.29,5,3,2,9,Regular Customers,Cross-sell campaigns
+1755,239,6,1225.02,2,5,4,11,Loyal Customers,"Loyalty programme, rewards"
+1756,119,2,332.28,4,2,1,6,At Risk,"Win-back campaign, personalised email"
+1757,199,2,590.7,3,2,2,7,New Customers,"Onboarding, welcome series"
+1758,576,2,102.28999999999999,1,2,1,4,Lost,"Last attempt, big discount"
+1759,41,2,603.76,5,2,2,8,New Customers,"Onboarding, welcome series"
+1760,620,2,657.83,1,2,3,7,New Customers,"Onboarding, welcome series"
+1761,59,10,4471.93,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1762,142,3,453.27,3,3,2,8,New Customers,"Onboarding, welcome series"
+1763,493,3,334.75,1,3,1,4,Lost,"Last attempt, big discount"
+1764,589,1,201.86,1,1,1,3,Lost,"Last attempt, big discount"
+1765,75,4,1222.27,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+1766,24,3,447.08,5,3,2,9,Regular Customers,Cross-sell campaigns
+1767,31,5,1246.99,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+1768,555,3,349.97,1,3,2,6,At Risk,"Win-back campaign, personalised email"
+1769,439,3,543.0,1,3,2,6,At Risk,"Win-back campaign, personalised email"
+1770,12,3,1000.06,5,3,4,12,Loyal Customers,"Loyalty programme, rewards"
+1771,53,3,1356.8300000000002,5,3,4,12,Loyal Customers,"Loyalty programme, rewards"
+1772,460,4,870.08,1,4,3,8,New Customers,"Onboarding, welcome series"
+1773,581,1,62.56,1,1,1,3,Lost,"Last attempt, big discount"
+1774,100,2,397.38,4,2,2,8,New Customers,"Onboarding, welcome series"
+1775,25,1,327.06,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+1776,494,3,292.57,1,3,1,4,Lost,"Last attempt, big discount"
+1777,549,2,496.8,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+1778,292,1,617.68,2,1,2,5,At Risk,"Win-back campaign, personalised email"
+1779,552,1,443.78,1,1,2,4,Lost,"Last attempt, big discount"
+1780,283,5,1206.47,2,5,4,11,Loyal Customers,"Loyalty programme, rewards"
+1781,18,3,1005.5600000000001,5,3,4,12,Loyal Customers,"Loyalty programme, rewards"
+1782,99,3,315.49,4,3,1,7,New Customers,"Onboarding, welcome series"
+1783,206,1,114.16,2,1,1,4,Lost,"Last attempt, big discount"
+1784,38,5,1108.15,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+1785,519,2,647.02,1,2,3,7,New Customers,"Onboarding, welcome series"
+1786,192,3,405.76,3,3,2,8,New Customers,"Onboarding, welcome series"
+1787,306,2,328.35,2,2,1,4,Lost,"Last attempt, big discount"
+1788,173,1,292.61,3,1,1,4,Lost,"Last attempt, big discount"
+1789,-382,4,873.33,5,4,3,11,Loyal Customers,"Loyalty programme, rewards"
+1790,76,4,631.71,4,4,2,9,Regular Customers,Cross-sell campaigns
+1791,24,7,2521.85,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1792,297,2,284.83000000000004,2,2,1,4,Lost,"Last attempt, big discount"
+1793,424,1,299.1,1,1,1,3,Lost,"Last attempt, big discount"
+1794,63,1,221.89,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+1795,60,7,1938.78,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1796,348,5,1606.04,1,5,5,12,Loyal Customers,"Loyalty programme, rewards"
+1797,31,3,470.3,5,3,2,9,Regular Customers,Cross-sell campaigns
+1798,468,1,60.37,1,1,1,3,Lost,"Last attempt, big discount"
+1799,380,1,279.43,1,1,1,3,Lost,"Last attempt, big discount"
+1800,27,5,1871.99,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1801,-357,5,745.13,5,5,3,12,Loyal Customers,"Loyalty programme, rewards"
+1802,4,2,784.25,5,2,3,10,Regular Customers,Cross-sell campaigns
+1803,298,2,296.3,2,2,1,4,Lost,"Last attempt, big discount"
+1804,35,4,1804.3,5,4,5,14,VIP Champions,"Early access, VIP discount codes"
+1805,125,3,993.72,3,3,4,10,Regular Customers,Cross-sell campaigns
+1806,247,1,74.7,2,1,1,4,Lost,"Last attempt, big discount"
+1807,254,2,1198.47,2,2,4,9,Regular Customers,Cross-sell campaigns
+1808,324,2,535.48,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+1809,305,3,1048.65,2,3,4,10,Regular Customers,Cross-sell campaigns
+1810,318,4,637.64,2,4,3,9,Regular Customers,Cross-sell campaigns
+1811,10,2,259.76,5,2,1,7,New Customers,"Onboarding, welcome series"
+1812,331,2,588.63,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+1813,186,5,1925.8600000000001,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1814,91,2,1189.47,4,2,4,10,Regular Customers,Cross-sell campaigns
+1815,168,6,2084.28,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1816,104,4,922.89,4,4,3,10,Regular Customers,Cross-sell campaigns
+1817,577,3,1505.4,1,3,5,10,Regular Customers,Cross-sell campaigns
+1818,440,1,368.14,1,1,2,4,Lost,"Last attempt, big discount"
+1819,61,1,125.98,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+1820,28,5,1963.82,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1821,254,6,1063.21,2,5,4,11,Loyal Customers,"Loyalty programme, rewards"
+1822,588,1,53.24,1,1,1,3,Lost,"Last attempt, big discount"
+1823,77,2,532.05,4,2,2,8,New Customers,"Onboarding, welcome series"
+1824,21,2,866.84,5,2,3,10,Regular Customers,Cross-sell campaigns
+1825,8,2,581.7,5,2,2,8,New Customers,"Onboarding, welcome series"
+1826,206,3,1727.42,2,3,5,11,Loyal Customers,"Loyalty programme, rewards"
+1827,148,3,1170.0500000000002,3,3,4,10,Regular Customers,Cross-sell campaigns
+1828,284,1,171.33,2,1,1,4,Lost,"Last attempt, big discount"
+1829,41,7,3559.3900000000003,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1830,143,1,430.26,3,1,2,6,At Risk,"Win-back campaign, personalised email"
+1831,120,1,140.02,3,1,1,4,Lost,"Last attempt, big discount"
+1832,47,1,257.32,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+1833,294,4,1441.99,2,4,5,12,Loyal Customers,"Loyalty programme, rewards"
+1834,162,4,468.20000000000005,3,4,2,8,New Customers,"Onboarding, welcome series"
+1835,472,6,1475.97,1,5,5,12,Loyal Customers,"Loyalty programme, rewards"
+1836,29,2,927.11,5,2,3,10,Regular Customers,Cross-sell campaigns
+1837,84,2,531.77,4,2,2,8,New Customers,"Onboarding, welcome series"
+1838,299,2,288.0,2,2,1,4,Lost,"Last attempt, big discount"
+1839,176,2,581.2,3,2,2,7,New Customers,"Onboarding, welcome series"
+1840,208,3,715.9,2,3,3,8,New Customers,"Onboarding, welcome series"
+1841,62,4,557.84,4,4,2,9,Regular Customers,Cross-sell campaigns
+1842,426,3,831.13,1,3,3,8,New Customers,"Onboarding, welcome series"
+1843,122,6,2828.68,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1844,77,6,753.47,4,5,3,11,Loyal Customers,"Loyalty programme, rewards"
+1845,-398,67,20088.32,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1846,330,2,814.85,1,2,3,7,New Customers,"Onboarding, welcome series"
+1847,186,1,167.94,3,1,1,4,Lost,"Last attempt, big discount"
+1848,380,2,275.73,1,2,1,4,Lost,"Last attempt, big discount"
+1849,515,1,642.2,1,1,3,6,At Risk,"Win-back campaign, personalised email"
+1850,297,4,1482.3600000000001,2,4,5,12,Loyal Customers,"Loyalty programme, rewards"
+1851,35,2,1327.98,5,2,4,11,Loyal Customers,"Loyalty programme, rewards"
+1852,637,1,83.97,1,1,1,3,Lost,"Last attempt, big discount"
+1853,84,1,204.87,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+1854,220,2,585.72,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+1855,69,1,626.16,4,1,2,7,New Customers,"Onboarding, welcome series"
+1856,85,4,2048.3199999999997,4,4,5,14,VIP Champions,"Early access, VIP discount codes"
+1857,194,6,1680.43,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1858,148,3,687.69,3,3,3,9,Regular Customers,Cross-sell campaigns
+1859,443,4,546.73,1,4,2,7,New Customers,"Onboarding, welcome series"
+1860,248,3,2013.4,2,3,5,11,Loyal Customers,"Loyalty programme, rewards"
+1861,9,3,644.88,5,3,3,10,Regular Customers,Cross-sell campaigns
+1862,59,2,826.63,5,2,3,10,Regular Customers,Cross-sell campaigns
+1863,77,5,2021.9900000000002,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1864,2,1,503.04,5,1,2,8,New Customers,"Onboarding, welcome series"
+1865,91,3,504.03,4,3,2,8,New Customers,"Onboarding, welcome series"
+1866,7,2,187.12,5,2,1,7,New Customers,"Onboarding, welcome series"
+1867,264,1,296.4,2,1,1,4,Lost,"Last attempt, big discount"
+1868,159,3,1080.4499999999998,3,3,4,10,Regular Customers,Cross-sell campaigns
+1869,350,7,2524.59,1,5,5,12,Loyal Customers,"Loyalty programme, rewards"
+1870,0,69,21916.75,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1871,105,6,2079.9,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1872,244,2,345.79,2,2,1,4,Lost,"Last attempt, big discount"
+1873,239,1,416.7,2,1,2,5,At Risk,"Win-back campaign, personalised email"
+1874,71,5,1042.96,4,5,4,13,VIP Champions,"Early access, VIP discount codes"
+1875,41,8,1446.04,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1876,222,3,755.1700000000001,2,3,3,8,New Customers,"Onboarding, welcome series"
+1877,276,2,443.45,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+1878,644,1,509.85,1,1,2,4,Lost,"Last attempt, big discount"
+1879,418,4,2216.37,1,4,5,11,Loyal Customers,"Loyalty programme, rewards"
+1880,242,2,524.5699999999999,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+1881,221,4,983.3900000000001,2,4,4,10,Regular Customers,Cross-sell campaigns
+1882,8,6,1970.4199999999998,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1883,246,4,1059.47,2,4,4,10,Regular Customers,Cross-sell campaigns
+1884,139,1,573.68,3,1,2,6,At Risk,"Win-back campaign, personalised email"
+1885,351,2,304.61,1,2,1,4,Lost,"Last attempt, big discount"
+1886,448,2,855.58,1,2,3,7,New Customers,"Onboarding, welcome series"
+1887,84,4,1874.6599999999999,4,4,5,14,VIP Champions,"Early access, VIP discount codes"
+1888,206,7,3434.64,2,5,5,13,VIP Champions,"Early access, VIP discount codes"
+1889,80,6,2328.05,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1890,15,5,1052.07,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+1891,421,3,722.0699999999999,1,3,3,8,New Customers,"Onboarding, welcome series"
+1892,116,3,673.1600000000001,4,3,3,10,Regular Customers,Cross-sell campaigns
+1893,190,3,1388.06,3,3,4,10,Regular Customers,Cross-sell campaigns
+1894,566,5,993.57,1,5,4,10,Regular Customers,Cross-sell campaigns
+1895,29,3,796.53,5,3,3,10,Regular Customers,Cross-sell campaigns
+1896,734,1,169.08,1,1,1,3,Lost,"Last attempt, big discount"
+1897,129,4,1363.81,3,4,4,11,Loyal Customers,"Loyalty programme, rewards"
+1898,209,4,1041.03,2,4,4,10,Regular Customers,Cross-sell campaigns
+1899,708,2,585.4300000000001,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+1900,133,7,2097.78,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1901,254,1,90.8,2,1,1,4,Lost,"Last attempt, big discount"
+1902,140,2,1093.44,3,2,4,10,Regular Customers,Cross-sell campaigns
+1903,271,3,838.5600000000001,2,3,3,8,New Customers,"Onboarding, welcome series"
+1904,8,1,55.04,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+1905,232,3,899.26,2,3,3,8,New Customers,"Onboarding, welcome series"
+1906,155,3,816.89,3,3,3,9,Regular Customers,Cross-sell campaigns
+1907,19,2,588.85,5,2,2,8,New Customers,"Onboarding, welcome series"
+1908,237,1,269.88,2,1,1,4,Lost,"Last attempt, big discount"
+1909,335,4,2594.2699999999995,1,4,5,11,Loyal Customers,"Loyalty programme, rewards"
+1910,68,2,1033.56,4,2,4,10,Regular Customers,Cross-sell campaigns
+1911,120,1,602.31,3,1,2,6,At Risk,"Win-back campaign, personalised email"
+1912,313,2,518.63,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+1913,219,10,2546.41,2,5,5,13,VIP Champions,"Early access, VIP discount codes"
+1914,97,6,864.75,4,5,3,11,Loyal Customers,"Loyalty programme, rewards"
+1915,173,6,1873.04,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1916,264,2,362.97,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+1917,100,4,610.0699999999999,4,4,2,9,Regular Customers,Cross-sell campaigns
+1918,150,3,373.31,3,3,2,8,New Customers,"Onboarding, welcome series"
+1919,356,2,212.82,1,2,1,4,Lost,"Last attempt, big discount"
+1920,389,4,1243.03,1,4,4,10,Regular Customers,Cross-sell campaigns
+1921,79,1,50.77,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+1922,500,1,408.9,1,1,2,4,Lost,"Last attempt, big discount"
+1923,96,4,957.55,4,4,3,10,Regular Customers,Cross-sell campaigns
+1924,10,4,750.7,5,4,3,11,Loyal Customers,"Loyalty programme, rewards"
+1925,606,2,1136.38,1,2,4,8,New Customers,"Onboarding, welcome series"
+1926,183,1,234.99,3,1,1,4,Lost,"Last attempt, big discount"
+1927,196,4,668.22,3,4,3,10,Regular Customers,Cross-sell campaigns
+1928,166,3,492.54,3,3,2,8,New Customers,"Onboarding, welcome series"
+1929,7,3,857.0300000000001,5,3,3,10,Regular Customers,Cross-sell campaigns
+1930,255,4,1036.5700000000002,2,4,4,10,Regular Customers,Cross-sell campaigns
+1931,20,4,1305.22,5,4,4,13,VIP Champions,"Early access, VIP discount codes"
+1932,538,2,107.63,1,2,1,4,Lost,"Last attempt, big discount"
+1933,25,1,269.88,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+1934,21,2,253.36,5,2,1,7,New Customers,"Onboarding, welcome series"
+1935,55,3,492.91999999999996,5,3,2,9,Regular Customers,Cross-sell campaigns
+1936,253,3,896.4,2,3,3,8,New Customers,"Onboarding, welcome series"
+1937,179,7,3708.37,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1938,548,3,1080.91,1,3,4,9,Regular Customers,Cross-sell campaigns
+1939,85,6,2384.6899999999996,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1940,33,2,472.33,5,2,2,8,New Customers,"Onboarding, welcome series"
+1941,329,3,347.43,1,3,2,6,At Risk,"Win-back campaign, personalised email"
+1942,82,2,462.1,4,2,2,8,New Customers,"Onboarding, welcome series"
+1943,73,4,1719.52,4,4,5,14,VIP Champions,"Early access, VIP discount codes"
+1944,74,8,1781.05,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1945,60,3,283.67,4,3,1,7,New Customers,"Onboarding, welcome series"
+1946,9,2,1000.3600000000001,5,2,4,11,Loyal Customers,"Loyalty programme, rewards"
+1947,461,1,615.66,1,1,2,4,Lost,"Last attempt, big discount"
+1948,273,1,219.19,2,1,1,4,Lost,"Last attempt, big discount"
+1949,105,4,326.55,4,4,1,8,New Customers,"Onboarding, welcome series"
+1950,216,1,31.65,2,1,1,4,Lost,"Last attempt, big discount"
+1951,117,2,1383.0600000000002,4,2,4,10,Regular Customers,Cross-sell campaigns
+1952,412,1,290.32,1,1,1,3,Lost,"Last attempt, big discount"
+1953,98,5,1797.99,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1954,443,2,568.46,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+1955,388,2,254.12,1,2,1,4,Lost,"Last attempt, big discount"
+1956,142,6,1215.88,3,5,4,12,Loyal Customers,"Loyalty programme, rewards"
+1957,110,4,1425.02,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+1958,149,8,1828.48,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1959,637,1,121.51,1,1,1,3,Lost,"Last attempt, big discount"
+1960,33,7,1953.47,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1961,334,3,932.3100000000001,1,3,3,8,New Customers,"Onboarding, welcome series"
+1962,86,6,1419.96,4,5,4,13,VIP Champions,"Early access, VIP discount codes"
+1963,80,5,1171.29,4,5,4,13,VIP Champions,"Early access, VIP discount codes"
+1964,158,2,518.5,3,2,2,7,New Customers,"Onboarding, welcome series"
+1965,356,3,792.49,1,3,3,8,New Customers,"Onboarding, welcome series"
+1966,303,4,864.9300000000001,2,4,3,9,Regular Customers,Cross-sell campaigns
+1967,48,5,1812.3600000000001,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1968,231,3,285.11,2,3,1,5,At Risk,"Win-back campaign, personalised email"
+1969,255,4,662.8599999999999,2,4,3,9,Regular Customers,Cross-sell campaigns
+1970,62,1,127.92,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+1971,54,2,443.11,5,2,2,8,New Customers,"Onboarding, welcome series"
+1972,173,4,991.99,3,4,4,11,Loyal Customers,"Loyalty programme, rewards"
+1973,62,3,1585.63,4,3,5,13,VIP Champions,"Early access, VIP discount codes"
+1974,108,6,1540.42,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+1975,43,1,314.55,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+1976,129,2,415.28,3,2,2,7,New Customers,"Onboarding, welcome series"
+1977,10,32,8446.5,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1978,176,2,234.63,3,2,1,5,At Risk,"Win-back campaign, personalised email"
+1979,283,1,444.2,2,1,2,5,At Risk,"Win-back campaign, personalised email"
+1980,232,2,196.13,2,2,1,4,Lost,"Last attempt, big discount"
+1981,125,3,769.74,3,3,3,9,Regular Customers,Cross-sell campaigns
+1982,37,1,178.58,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+1983,642,2,1451.8799999999999,1,2,5,10,Regular Customers,Cross-sell campaigns
+1984,154,2,835.75,3,2,3,8,New Customers,"Onboarding, welcome series"
+1985,68,5,1268.9,4,5,4,13,VIP Champions,"Early access, VIP discount codes"
+1986,203,3,722.87,3,3,3,9,Regular Customers,Cross-sell campaigns
+1987,76,3,1178.76,4,3,4,11,Loyal Customers,"Loyalty programme, rewards"
+1988,59,7,2369.11,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+1989,71,2,694.6600000000001,4,2,3,9,Regular Customers,Cross-sell campaigns
+1990,407,3,1238.23,1,3,4,9,Regular Customers,Cross-sell campaigns
+1991,328,4,965.98,1,4,4,10,Regular Customers,Cross-sell campaigns
+1992,204,2,448.54,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+1993,350,2,1336.55,1,2,4,8,New Customers,"Onboarding, welcome series"
+1994,279,1,218.54,2,1,1,4,Lost,"Last attempt, big discount"
+1995,174,3,1596.9,3,3,5,12,Loyal Customers,"Loyalty programme, rewards"
+1996,244,5,947.2,2,5,3,10,Regular Customers,Cross-sell campaigns
+1997,0,3,492.55,5,3,2,9,Regular Customers,Cross-sell campaigns
+1998,115,2,840.36,4,2,3,9,Regular Customers,Cross-sell campaigns
+1999,28,3,1855.5,5,3,5,14,VIP Champions,"Early access, VIP discount codes"
+2000,494,1,141.05,1,1,1,3,Lost,"Last attempt, big discount"
+2001,43,3,1745.1599999999999,5,3,5,14,VIP Champions,"Early access, VIP discount codes"
+2002,226,5,708.18,2,5,3,10,Regular Customers,Cross-sell campaigns
+2003,30,7,2305.84,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+2004,216,3,520.1600000000001,2,3,2,7,New Customers,"Onboarding, welcome series"
+2005,592,2,685.86,1,2,3,7,New Customers,"Onboarding, welcome series"
+2006,85,6,2840.54,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+2007,717,1,339.21,1,1,1,3,Lost,"Last attempt, big discount"
+2008,234,4,1264.53,2,4,4,10,Regular Customers,Cross-sell campaigns
+2009,87,5,2264.34,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+2010,59,4,1005.9499999999999,5,4,4,13,VIP Champions,"Early access, VIP discount codes"
+2011,611,1,831.35,1,1,3,6,At Risk,"Win-back campaign, personalised email"
+2012,153,3,1166.58,3,3,4,10,Regular Customers,Cross-sell campaigns
+2013,491,1,218.54,1,1,1,3,Lost,"Last attempt, big discount"
+2014,174,5,945.42,3,5,3,10,Regular Customers,Cross-sell campaigns
+2015,245,2,664.41,2,2,3,8,New Customers,"Onboarding, welcome series"
+2016,63,4,548.4300000000001,4,4,2,9,Regular Customers,Cross-sell campaigns
+2017,181,6,638.36,3,5,3,10,Regular Customers,Cross-sell campaigns
+2018,119,3,827.12,4,3,3,10,Regular Customers,Cross-sell campaigns
+2019,412,1,84.54,1,1,1,3,Lost,"Last attempt, big discount"
+2020,85,4,1866.42,4,4,5,14,VIP Champions,"Early access, VIP discount codes"
+2021,10,1,157.49,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+2022,195,4,1147.79,3,4,4,11,Loyal Customers,"Loyalty programme, rewards"
+2023,62,1,713.14,4,1,3,8,New Customers,"Onboarding, welcome series"
+2024,66,5,1779.1100000000001,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+2025,139,5,1361.25,3,5,4,12,Loyal Customers,"Loyalty programme, rewards"
+2026,117,4,1226.6,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+2027,81,5,3306.1,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+2028,3,4,1536.61,5,4,5,14,VIP Champions,"Early access, VIP discount codes"
+2029,9,2,406.26,5,2,2,8,New Customers,"Onboarding, welcome series"
+2030,11,7,1806.37,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+2031,443,3,359.53999999999996,1,3,2,6,At Risk,"Win-back campaign, personalised email"
+2032,140,2,437.28999999999996,3,2,2,7,New Customers,"Onboarding, welcome series"
+2033,137,1,437.98,3,1,2,6,At Risk,"Win-back campaign, personalised email"
+2034,173,4,591.85,3,4,2,8,New Customers,"Onboarding, welcome series"
+2035,677,2,1253.9299999999998,1,2,4,8,New Customers,"Onboarding, welcome series"
+2036,79,2,744.4200000000001,4,2,3,9,Regular Customers,Cross-sell campaigns
+2037,440,2,122.24,1,2,1,4,Lost,"Last attempt, big discount"
+2038,220,3,425.90999999999997,2,3,2,7,New Customers,"Onboarding, welcome series"
+2039,72,7,1129.48,4,5,4,13,VIP Champions,"Early access, VIP discount codes"
+2040,58,1,147.16,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+2041,38,5,2184.75,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+2042,341,2,294.27,1,2,1,4,Lost,"Last attempt, big discount"
+2043,614,2,163.37,1,2,1,4,Lost,"Last attempt, big discount"
+2044,21,1,145.46,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+2045,224,3,646.84,2,3,3,8,New Customers,"Onboarding, welcome series"
+2046,104,7,2532.13,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+2047,496,6,1946.21,1,5,5,12,Loyal Customers,"Loyalty programme, rewards"
+2048,554,4,1016.75,1,4,4,10,Regular Customers,Cross-sell campaigns
+2049,177,3,416.73999999999995,3,3,2,8,New Customers,"Onboarding, welcome series"
+2050,346,2,252.25,1,2,1,4,Lost,"Last attempt, big discount"
+2051,61,4,1240.67,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+2052,260,7,1620.64,2,5,5,13,VIP Champions,"Early access, VIP discount codes"
+2053,588,2,996.81,1,2,4,8,New Customers,"Onboarding, welcome series"
+2054,40,4,1008.27,5,4,4,13,VIP Champions,"Early access, VIP discount codes"
+2055,39,1,327.28,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+2056,434,5,1647.94,1,5,5,12,Loyal Customers,"Loyalty programme, rewards"
+2057,89,5,802.4499999999999,4,5,3,11,Loyal Customers,"Loyalty programme, rewards"
+2058,650,1,55.04,1,1,1,3,Lost,"Last attempt, big discount"
+2059,534,1,181.68,1,1,1,3,Lost,"Last attempt, big discount"
+2060,132,2,635.62,3,2,3,8,New Customers,"Onboarding, welcome series"
+2061,228,2,549.02,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+2062,91,4,284.25,4,4,1,8,New Customers,"Onboarding, welcome series"
+2063,152,5,1439.3500000000001,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+2064,246,4,1385.1,2,4,4,10,Regular Customers,Cross-sell campaigns
+2065,167,2,313.98,3,2,1,5,At Risk,"Win-back campaign, personalised email"
+2066,91,5,873.86,4,5,3,11,Loyal Customers,"Loyalty programme, rewards"
+2067,776,1,501.69,1,1,2,4,Lost,"Last attempt, big discount"
+2068,60,4,1279.01,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+2069,68,3,888.6600000000001,4,3,3,10,Regular Customers,Cross-sell campaigns
+2070,-422,7,1636.6100000000001,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+2071,12,8,2560.35,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+2072,77,6,2343.75,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+2073,184,1,138.78,3,1,1,4,Lost,"Last attempt, big discount"
+2074,83,9,2761.4900000000002,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+2075,277,1,536.8,2,1,2,5,At Risk,"Win-back campaign, personalised email"
+2076,283,4,1808.5299999999997,2,4,5,12,Loyal Customers,"Loyalty programme, rewards"
+2077,56,3,553.72,5,3,2,9,Regular Customers,Cross-sell campaigns
+2078,300,3,235.13,2,3,1,5,At Risk,"Win-back campaign, personalised email"
+2079,94,5,2231.57,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+2080,317,3,1058.61,2,3,4,10,Regular Customers,Cross-sell campaigns
+2081,17,5,1378.72,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+2082,254,1,442.12,2,1,2,5,At Risk,"Win-back campaign, personalised email"
+2083,10,5,2077.06,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+2084,148,2,734.6700000000001,3,2,3,8,New Customers,"Onboarding, welcome series"
+2085,182,6,991.69,3,5,4,12,Loyal Customers,"Loyalty programme, rewards"
+2086,199,3,394.81,3,3,2,8,New Customers,"Onboarding, welcome series"
+2087,263,3,228.55,2,3,1,5,At Risk,"Win-back campaign, personalised email"
+2088,48,1,110.02,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+2089,60,4,564.1899999999999,4,4,2,9,Regular Customers,Cross-sell campaigns
+2090,53,1,590.73,5,1,2,8,New Customers,"Onboarding, welcome series"
+2091,100,3,516.6,4,3,2,8,New Customers,"Onboarding, welcome series"
+2092,332,3,862.5699999999999,1,3,3,8,New Customers,"Onboarding, welcome series"
+2093,381,3,670.36,1,3,3,8,New Customers,"Onboarding, welcome series"
+2094,127,3,2066.42,3,3,5,12,Loyal Customers,"Loyalty programme, rewards"
+2095,36,4,1469.23,5,4,5,14,VIP Champions,"Early access, VIP discount codes"
+2096,195,3,1117.36,3,3,4,10,Regular Customers,Cross-sell campaigns
+2097,68,2,192.53,4,2,1,6,At Risk,"Win-back campaign, personalised email"
+2098,58,6,2247.33,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+2099,1,6,1906.42,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+2100,99,3,955.0,4,3,3,10,Regular Customers,Cross-sell campaigns
+2101,70,4,1221.68,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+2102,169,4,1468.35,3,4,5,13,VIP Champions,"Early access, VIP discount codes"
+2103,164,6,1678.29,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+2104,204,3,875.74,2,3,3,8,New Customers,"Onboarding, welcome series"
+2105,110,2,1329.4,4,2,4,10,Regular Customers,Cross-sell campaigns
+2106,214,5,1615.75,2,5,5,13,VIP Champions,"Early access, VIP discount codes"
+2107,257,3,732.81,2,3,3,8,New Customers,"Onboarding, welcome series"
+2108,172,4,1277.92,3,4,4,11,Loyal Customers,"Loyalty programme, rewards"
+2109,259,1,22.7,2,1,1,4,Lost,"Last attempt, big discount"
+2110,14,4,1345.91,5,4,4,13,VIP Champions,"Early access, VIP discount codes"
+2111,94,1,274.5,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+2112,307,2,900.6,2,2,3,8,New Customers,"Onboarding, welcome series"
+2113,126,1,116.2,3,1,1,4,Lost,"Last attempt, big discount"
+2114,8,3,2148.65,5,3,5,14,VIP Champions,"Early access, VIP discount codes"
+2115,206,3,346.07,2,3,1,5,At Risk,"Win-back campaign, personalised email"
+2116,355,4,2041.63,1,4,5,11,Loyal Customers,"Loyalty programme, rewards"
+2117,25,7,2405.24,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+2118,0,2,662.48,5,2,3,10,Regular Customers,Cross-sell campaigns
+2119,444,3,633.45,1,4,3,8,New Customers,"Onboarding, welcome series"
+2120,285,3,755.46,2,4,3,9,Regular Customers,Cross-sell campaigns
+2121,214,3,981.4300000000001,2,4,4,10,Regular Customers,Cross-sell campaigns
+2122,124,4,1679.2800000000002,3,4,5,13,VIP Champions,"Early access, VIP discount codes"
+2123,128,3,420.61,3,4,2,8,New Customers,"Onboarding, welcome series"
+2124,251,2,475.27,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+2125,161,4,1183.26,3,4,4,11,Loyal Customers,"Loyalty programme, rewards"
+2126,511,1,411.78,1,1,2,4,Lost,"Last attempt, big discount"
+2127,69,4,2508.65,4,4,5,14,VIP Champions,"Early access, VIP discount codes"
+2128,372,1,664.26,1,1,3,6,At Risk,"Win-back campaign, personalised email"
+2129,1,6,1234.0,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+2130,188,3,934.78,3,4,3,10,Regular Customers,Cross-sell campaigns
+2131,453,2,171.13,1,2,1,4,Lost,"Last attempt, big discount"
+2132,208,5,1106.47,2,5,4,11,Loyal Customers,"Loyalty programme, rewards"
+2133,537,1,106.69,1,1,1,3,Lost,"Last attempt, big discount"
+2134,107,1,138.13,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+2135,317,5,2609.63,2,5,5,13,VIP Champions,"Early access, VIP discount codes"
+2136,139,2,309.34000000000003,3,2,1,5,At Risk,"Win-back campaign, personalised email"
+2137,81,3,1455.3100000000002,4,4,5,14,VIP Champions,"Early access, VIP discount codes"
+2138,661,1,41.63,1,1,1,3,Lost,"Last attempt, big discount"
+2139,90,1,169.9,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+2140,125,4,2647.0,3,4,5,13,VIP Champions,"Early access, VIP discount codes"
+2141,81,7,1540.04,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+2142,68,2,882.54,4,2,3,9,Regular Customers,Cross-sell campaigns
+2143,239,4,1673.47,2,4,5,12,Loyal Customers,"Loyalty programme, rewards"
+2144,174,2,794.14,3,2,3,8,New Customers,"Onboarding, welcome series"
+2145,259,4,1304.26,2,4,4,10,Regular Customers,Cross-sell campaigns
+2146,344,2,647.62,1,2,3,7,New Customers,"Onboarding, welcome series"
+2147,166,5,600.8000000000001,3,5,2,9,Regular Customers,Cross-sell campaigns
+2148,26,4,2250.12,5,4,5,14,VIP Champions,"Early access, VIP discount codes"
+2149,713,3,749.32,1,4,3,8,New Customers,"Onboarding, welcome series"
+2150,203,2,398.87,3,2,2,7,New Customers,"Onboarding, welcome series"
+2151,153,2,707.12,3,2,3,8,New Customers,"Onboarding, welcome series"
+2152,91,2,296.58,4,2,1,6,At Risk,"Win-back campaign, personalised email"
+2153,344,6,1033.4,1,5,4,10,Regular Customers,Cross-sell campaigns
+2154,234,2,599.86,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+2155,329,3,1446.73,1,4,5,11,Loyal Customers,"Loyalty programme, rewards"
+2156,333,1,201.14,1,1,1,3,Lost,"Last attempt, big discount"
+2157,447,2,394.60999999999996,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+2158,75,2,768.33,4,2,3,9,Regular Customers,Cross-sell campaigns
+2159,9,4,1412.7600000000002,5,4,4,13,VIP Champions,"Early access, VIP discount codes"
+2160,278,1,310.9,2,1,1,4,Lost,"Last attempt, big discount"
+2161,204,3,1404.42,2,4,4,10,Regular Customers,Cross-sell campaigns
+2162,57,3,1373.6399999999999,5,4,4,13,VIP Champions,"Early access, VIP discount codes"
+2163,67,3,641.6,4,4,3,10,Regular Customers,Cross-sell campaigns
+2164,201,3,892.4100000000001,3,4,3,10,Regular Customers,Cross-sell campaigns
+2165,107,3,1301.82,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+2166,282,4,606.08,2,4,2,8,New Customers,"Onboarding, welcome series"
+2167,66,1,53.01,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+2168,40,1,1374.35,5,1,4,10,Regular Customers,Cross-sell campaigns
+2169,306,5,928.55,2,5,3,10,Regular Customers,Cross-sell campaigns
+2170,231,4,878.5600000000001,2,4,3,9,Regular Customers,Cross-sell campaigns
+2171,125,6,2185.55,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+2172,87,2,365.47,4,2,2,8,New Customers,"Onboarding, welcome series"
+2173,108,3,596.4100000000001,4,4,2,9,Regular Customers,Cross-sell campaigns
+2174,263,1,789.39,2,1,3,7,New Customers,"Onboarding, welcome series"
+2175,256,3,710.66,2,4,3,9,Regular Customers,Cross-sell campaigns
+2176,109,3,956.39,4,4,3,10,Regular Customers,Cross-sell campaigns
+2177,65,2,133.47,4,2,1,6,At Risk,"Win-back campaign, personalised email"
+2178,95,5,898.86,4,5,3,11,Loyal Customers,"Loyalty programme, rewards"
+2179,127,4,575.24,3,4,2,8,New Customers,"Onboarding, welcome series"
+2180,26,4,1580.7199999999998,5,4,5,14,VIP Champions,"Early access, VIP discount codes"
+2181,562,1,550.2,1,1,2,4,Lost,"Last attempt, big discount"
+2182,46,5,2834.7400000000002,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+2183,60,6,3287.58,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+2184,82,4,917.0799999999999,4,4,3,10,Regular Customers,Cross-sell campaigns
+2185,83,5,1487.3999999999999,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+2186,8,7,2131.86,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+2187,59,5,1568.46,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+2188,347,2,471.84,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+2189,182,4,1083.49,3,4,4,11,Loyal Customers,"Loyalty programme, rewards"
+2190,366,4,1058.1,1,4,4,10,Regular Customers,Cross-sell campaigns
+2191,405,2,241.73,1,2,1,4,Lost,"Last attempt, big discount"
+2192,61,2,388.53,4,2,2,8,New Customers,"Onboarding, welcome series"
+2193,69,7,2215.52,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+2194,3,4,1716.38,5,4,5,14,VIP Champions,"Early access, VIP discount codes"
+2195,17,6,1261.55,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+2196,287,3,679.77,2,4,3,9,Regular Customers,Cross-sell campaigns
+2197,170,5,1891.34,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+2198,92,5,2153.0,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+2199,5,6,1217.61,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+2200,181,3,1126.08,3,4,4,11,Loyal Customers,"Loyalty programme, rewards"
+2201,14,1,624.82,5,1,2,8,New Customers,"Onboarding, welcome series"
+2202,43,4,885.97,5,4,3,11,Loyal Customers,"Loyalty programme, rewards"
+2203,517,1,241.13,1,1,1,3,Lost,"Last attempt, big discount"
+2204,556,3,501.31,1,4,2,7,New Customers,"Onboarding, welcome series"
+2205,0,4,1658.96,5,4,5,14,VIP Champions,"Early access, VIP discount codes"
+2206,209,6,1889.9,2,5,5,13,VIP Champions,"Early access, VIP discount codes"
+2207,108,2,599.8199999999999,4,2,2,8,New Customers,"Onboarding, welcome series"
+2208,241,2,394.03,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+2209,27,6,943.9699999999999,5,5,3,12,Loyal Customers,"Loyalty programme, rewards"
+2210,548,2,1752.7199999999998,1,2,5,10,Regular Customers,Cross-sell campaigns
+2211,521,1,347.16,1,1,1,3,Lost,"Last attempt, big discount"
+2212,43,1,106.82,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+2213,270,1,302.79,2,1,1,4,Lost,"Last attempt, big discount"
+2214,106,3,1455.8600000000001,4,4,5,14,VIP Champions,"Early access, VIP discount codes"
+2215,49,1,139.74,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+2216,157,3,679.6,3,4,3,10,Regular Customers,Cross-sell campaigns
+2217,321,5,2422.9,2,5,5,13,VIP Champions,"Early access, VIP discount codes"
+2218,13,3,777.38,5,4,3,11,Loyal Customers,"Loyalty programme, rewards"
+2219,180,4,731.08,3,4,3,10,Regular Customers,Cross-sell campaigns
+2220,3,4,2101.39,5,4,5,14,VIP Champions,"Early access, VIP discount codes"
+2221,220,2,202.8,2,2,1,4,Lost,"Last attempt, big discount"
+2222,57,3,490.39,5,4,2,10,Regular Customers,Cross-sell campaigns
+2223,126,1,505.02,3,1,2,6,At Risk,"Win-back campaign, personalised email"
+2224,214,3,1872.52,2,4,5,12,Loyal Customers,"Loyalty programme, rewards"
+2225,244,1,164.43,2,1,1,4,Lost,"Last attempt, big discount"
+2226,600,2,506.5,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+2227,70,5,1105.79,4,5,4,13,VIP Champions,"Early access, VIP discount codes"
+2228,377,3,461.24,1,4,2,7,New Customers,"Onboarding, welcome series"
+2229,38,3,892.39,5,4,3,11,Loyal Customers,"Loyalty programme, rewards"
+2230,69,4,1127.0900000000001,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+2231,141,4,1450.05,3,4,5,13,VIP Champions,"Early access, VIP discount codes"
+2232,213,3,498.46,2,4,2,8,New Customers,"Onboarding, welcome series"
+2233,44,5,1792.58,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+2234,86,4,1176.92,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+2235,308,3,824.3499999999999,2,4,3,9,Regular Customers,Cross-sell campaigns
+2236,59,7,1677.21,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+2237,174,1,374.32,3,1,2,6,At Risk,"Win-back campaign, personalised email"
+2238,653,1,1458.6,1,1,5,9,Regular Customers,Cross-sell campaigns
+2239,208,1,225.28,2,1,1,4,Lost,"Last attempt, big discount"
+2240,8,1,17.97,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+2241,188,1,166.27,3,1,1,4,Lost,"Last attempt, big discount"
+2242,97,3,342.48,4,4,1,8,New Customers,"Onboarding, welcome series"
+2243,221,2,660.0799999999999,2,2,3,8,New Customers,"Onboarding, welcome series"
+2244,76,1,327.28,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+2245,74,5,1101.4,4,5,4,13,VIP Champions,"Early access, VIP discount codes"
+2246,114,2,601.46,4,2,2,8,New Customers,"Onboarding, welcome series"
+2247,66,3,702.22,4,4,3,10,Regular Customers,Cross-sell campaigns
+2248,438,3,299.72999999999996,1,4,1,5,At Risk,"Win-back campaign, personalised email"
+2249,222,1,574.44,2,1,2,5,At Risk,"Win-back campaign, personalised email"
+2250,487,4,1710.83,1,4,5,11,Loyal Customers,"Loyalty programme, rewards"
+2251,48,7,1939.43,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+2252,97,3,1078.16,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+2253,188,5,1106.21,3,5,4,12,Loyal Customers,"Loyalty programme, rewards"
+2254,559,2,193.75,1,2,1,4,Lost,"Last attempt, big discount"
+2255,177,1,361.77,3,1,2,6,At Risk,"Win-back campaign, personalised email"
+2256,332,1,260.72,1,1,1,3,Lost,"Last attempt, big discount"
+2257,247,4,918.16,2,4,3,9,Regular Customers,Cross-sell campaigns
+2258,187,3,512.77,3,4,2,8,New Customers,"Onboarding, welcome series"
+2259,469,4,1575.58,1,4,5,11,Loyal Customers,"Loyalty programme, rewards"
+2260,61,5,881.04,4,5,3,11,Loyal Customers,"Loyalty programme, rewards"
+2261,62,4,572.1,4,4,2,9,Regular Customers,Cross-sell campaigns
+2262,21,3,284.28,5,4,1,8,New Customers,"Onboarding, welcome series"
+2263,289,2,325.13,2,2,1,4,Lost,"Last attempt, big discount"
+2264,323,5,446.27,2,5,2,8,New Customers,"Onboarding, welcome series"
+2265,78,7,2850.45,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+2266,420,4,2110.65,1,4,5,11,Loyal Customers,"Loyalty programme, rewards"
+2267,553,2,801.38,1,2,3,7,New Customers,"Onboarding, welcome series"
+2268,395,4,953.32,1,4,3,8,New Customers,"Onboarding, welcome series"
+2269,41,4,582.55,5,4,2,10,Regular Customers,Cross-sell campaigns
+2270,260,5,1537.58,2,5,5,13,VIP Champions,"Early access, VIP discount codes"
+2271,74,1,274.37,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+2272,58,7,3116.4300000000003,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+2273,220,2,1002.53,2,2,4,9,Regular Customers,Cross-sell campaigns
+2274,321,2,462.79,2,2,2,6,At Risk,"Win-back campaign, personalised email"
+2275,197,1,126.42,3,1,1,4,Lost,"Last attempt, big discount"
+2276,170,7,1289.28,3,5,4,12,Loyal Customers,"Loyalty programme, rewards"
+2277,10,2,296.73,5,2,1,7,New Customers,"Onboarding, welcome series"
+2278,229,2,182.84,2,2,1,4,Lost,"Last attempt, big discount"
+2279,426,2,882.58,1,2,3,7,New Customers,"Onboarding, welcome series"
+2280,3,1,245.55,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+2281,60,2,661.0,4,2,3,9,Regular Customers,Cross-sell campaigns
+2282,388,2,676.32,1,2,3,7,New Customers,"Onboarding, welcome series"
+2283,137,2,1254.67,3,2,4,10,Regular Customers,Cross-sell campaigns
+2284,54,1,1094.95,5,1,4,10,Regular Customers,Cross-sell campaigns
+2285,115,7,2874.92,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+2286,392,1,50.85,1,1,1,3,Lost,"Last attempt, big discount"
+2287,269,5,782.38,2,5,3,10,Regular Customers,Cross-sell campaigns
+2288,338,1,65.6,1,1,1,3,Lost,"Last attempt, big discount"
+2289,363,2,1072.94,1,2,4,8,New Customers,"Onboarding, welcome series"
+2290,127,2,647.44,3,2,3,8,New Customers,"Onboarding, welcome series"
+2291,236,4,542.88,2,4,2,8,New Customers,"Onboarding, welcome series"
+2292,15,3,689.85,5,4,3,11,Loyal Customers,"Loyalty programme, rewards"
+2293,100,1,65.6,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+2294,119,5,2788.1,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+2295,58,2,712.84,5,2,3,10,Regular Customers,Cross-sell campaigns
+2296,38,2,102.51,5,2,1,7,New Customers,"Onboarding, welcome series"
+2297,157,4,991.07,3,4,4,11,Loyal Customers,"Loyalty programme, rewards"
+2298,217,3,1414.9299999999998,2,4,4,10,Regular Customers,Cross-sell campaigns
+2299,28,5,2458.06,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+2300,50,4,1312.27,5,4,4,13,VIP Champions,"Early access, VIP discount codes"
+2301,317,1,55.04,2,1,1,4,Lost,"Last attempt, big discount"
+2302,289,3,1538.52,2,4,5,12,Loyal Customers,"Loyalty programme, rewards"
+2303,157,3,423.51,3,4,2,8,New Customers,"Onboarding, welcome series"
+2304,373,1,159.25,1,1,1,3,Lost,"Last attempt, big discount"
+2305,645,4,1407.79,1,4,4,10,Regular Customers,Cross-sell campaigns
+2306,11,1,58.49,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+2307,130,1,183.31,3,1,1,4,Lost,"Last attempt, big discount"
+2308,304,3,626.71,2,4,2,8,New Customers,"Onboarding, welcome series"
+2309,69,2,524.37,4,2,2,8,New Customers,"Onboarding, welcome series"
+2310,65,5,1295.99,4,5,4,13,VIP Champions,"Early access, VIP discount codes"
+2311,13,3,1175.08,5,4,4,13,VIP Champions,"Early access, VIP discount codes"
+2312,408,1,377.82,1,1,2,4,Lost,"Last attempt, big discount"
+2313,246,3,464.66,2,4,2,8,New Customers,"Onboarding, welcome series"
+2314,193,1,105.09,3,1,1,4,Lost,"Last attempt, big discount"
+2315,234,3,641.73,2,4,3,9,Regular Customers,Cross-sell campaigns
+2316,53,2,706.7,5,2,3,10,Regular Customers,Cross-sell campaigns
+2317,307,1,493.94,2,1,2,5,At Risk,"Win-back campaign, personalised email"
+2318,540,2,993.9499999999999,1,2,4,8,New Customers,"Onboarding, welcome series"
+2319,480,1,307.24,1,1,1,3,Lost,"Last attempt, big discount"
+2320,340,2,640.67,1,2,3,7,New Customers,"Onboarding, welcome series"
+2321,18,2,446.71999999999997,5,2,2,8,New Customers,"Onboarding, welcome series"
+2322,39,6,1206.67,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+2323,145,2,626.5799999999999,3,2,2,7,New Customers,"Onboarding, welcome series"
+2324,620,1,407.4,1,1,2,4,Lost,"Last attempt, big discount"
+2325,770,1,263.13,1,1,1,3,Lost,"Last attempt, big discount"
+2326,33,5,1002.46,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+2327,218,8,1944.37,2,5,5,13,VIP Champions,"Early access, VIP discount codes"
+2328,64,4,1090.8200000000002,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+2329,267,3,969.66,2,4,4,10,Regular Customers,Cross-sell campaigns
+2330,506,1,285.14,1,1,1,3,Lost,"Last attempt, big discount"
+2331,320,3,523.21,2,4,2,8,New Customers,"Onboarding, welcome series"
+2332,682,2,79.75999999999999,1,2,1,4,Lost,"Last attempt, big discount"
+2333,133,6,1520.03,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+2334,355,3,1370.78,1,4,4,10,Regular Customers,Cross-sell campaigns
+2335,292,3,842.39,2,4,3,9,Regular Customers,Cross-sell campaigns
+2336,201,2,677.11,3,2,3,8,New Customers,"Onboarding, welcome series"
+2337,298,4,1756.15,2,4,5,12,Loyal Customers,"Loyalty programme, rewards"
+2338,158,2,162.67000000000002,3,2,1,5,At Risk,"Win-back campaign, personalised email"
+2339,379,6,1612.76,1,5,5,12,Loyal Customers,"Loyalty programme, rewards"
+2340,9,6,1957.31,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+2341,200,5,937.25,3,5,3,10,Regular Customers,Cross-sell campaigns
+2342,47,4,2578.12,5,4,5,14,VIP Champions,"Early access, VIP discount codes"
+2343,223,5,1386.42,2,5,4,11,Loyal Customers,"Loyalty programme, rewards"
+2344,285,2,791.02,2,2,3,8,New Customers,"Onboarding, welcome series"
+2345,270,1,301.2,2,1,1,4,Lost,"Last attempt, big discount"
+2346,163,3,583.78,3,4,2,8,New Customers,"Onboarding, welcome series"
+2347,722,1,47.36,1,1,1,3,Lost,"Last attempt, big discount"
+2348,48,3,1296.53,5,4,4,13,VIP Champions,"Early access, VIP discount codes"
+2349,61,1,95.87,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+2350,29,2,932.4599999999999,5,2,3,10,Regular Customers,Cross-sell campaigns
+2351,75,5,2784.51,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+2352,151,4,678.83,3,4,3,10,Regular Customers,Cross-sell campaigns
+2353,266,3,1315.65,2,4,4,10,Regular Customers,Cross-sell campaigns
+2354,25,5,1426.33,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+2355,96,4,2935.81,4,4,5,14,VIP Champions,"Early access, VIP discount codes"
+2356,374,1,304.26,1,1,1,3,Lost,"Last attempt, big discount"
+2357,33,3,1002.9100000000001,5,4,4,13,VIP Champions,"Early access, VIP discount codes"
+2358,221,3,603.74,2,4,2,8,New Customers,"Onboarding, welcome series"
+2359,416,2,135.51,1,2,1,4,Lost,"Last attempt, big discount"
+2360,136,1,529.95,3,1,2,6,At Risk,"Win-back campaign, personalised email"
+2361,652,1,42.64,1,1,1,3,Lost,"Last attempt, big discount"
+2362,358,2,395.56,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+2363,285,3,1955.72,2,4,5,12,Loyal Customers,"Loyalty programme, rewards"
+2364,193,3,789.36,3,4,3,10,Regular Customers,Cross-sell campaigns
+2365,120,3,229.41000000000003,3,4,1,7,New Customers,"Onboarding, welcome series"
+2366,73,4,1341.8400000000001,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+2367,70,2,522.52,4,2,2,8,New Customers,"Onboarding, welcome series"
+2368,129,2,840.3199999999999,3,2,3,8,New Customers,"Onboarding, welcome series"
+2369,510,4,661.82,1,4,3,8,New Customers,"Onboarding, welcome series"
+2370,500,2,254.71999999999997,1,2,1,4,Lost,"Last attempt, big discount"
+2371,257,5,1387.3999999999999,2,5,4,11,Loyal Customers,"Loyalty programme, rewards"
+2372,6,3,843.1999999999999,5,4,3,11,Loyal Customers,"Loyalty programme, rewards"
+2373,85,2,263.34,4,2,1,6,At Risk,"Win-back campaign, personalised email"
+2374,99,4,755.5699999999999,4,4,3,10,Regular Customers,Cross-sell campaigns
+2375,185,2,1075.0,3,2,4,10,Regular Customers,Cross-sell campaigns
+2376,99,4,1858.98,4,4,5,14,VIP Champions,"Early access, VIP discount codes"
+2377,133,2,325.9,3,2,1,5,At Risk,"Win-back campaign, personalised email"
+2378,275,4,1167.75,2,4,4,10,Regular Customers,Cross-sell campaigns
+2379,120,4,1104.5,3,4,4,11,Loyal Customers,"Loyalty programme, rewards"
+2380,257,3,1110.8,2,4,4,10,Regular Customers,Cross-sell campaigns
+2381,68,3,1429.1000000000001,4,4,5,14,VIP Champions,"Early access, VIP discount codes"
+2382,62,3,446.72,4,4,2,9,Regular Customers,Cross-sell campaigns
+2383,52,1,149.62,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+2384,224,2,334.3,2,2,1,4,Lost,"Last attempt, big discount"
+2385,167,3,1005.1,3,4,4,11,Loyal Customers,"Loyalty programme, rewards"
+2386,251,3,914.31,2,4,3,9,Regular Customers,Cross-sell campaigns
+2387,603,2,302.76,1,2,1,4,Lost,"Last attempt, big discount"
+2388,79,3,931.48,4,4,3,10,Regular Customers,Cross-sell campaigns
+2389,104,4,660.0,4,4,3,10,Regular Customers,Cross-sell campaigns
+2390,106,2,386.51000000000005,4,2,2,8,New Customers,"Onboarding, welcome series"
+2391,155,3,153.54000000000002,3,4,1,7,New Customers,"Onboarding, welcome series"
+2392,103,3,664.11,4,4,3,10,Regular Customers,Cross-sell campaigns
+2393,47,7,2294.85,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+2394,81,2,405.96,4,2,2,8,New Customers,"Onboarding, welcome series"
+2395,129,1,368.14,3,1,2,6,At Risk,"Win-back campaign, personalised email"
+2396,447,3,647.03,1,4,3,8,New Customers,"Onboarding, welcome series"
+2397,427,3,614.6400000000001,1,4,2,7,New Customers,"Onboarding, welcome series"
+2398,79,3,949.26,4,4,3,10,Regular Customers,Cross-sell campaigns
+2399,237,4,501.03999999999996,2,4,2,8,New Customers,"Onboarding, welcome series"
+2400,77,2,2033.3400000000001,4,2,5,12,Loyal Customers,"Loyalty programme, rewards"
+2401,17,4,888.18,5,4,3,11,Loyal Customers,"Loyalty programme, rewards"
+2402,417,2,407.64,1,2,2,5,At Risk,"Win-back campaign, personalised email"
+2403,147,2,315.49,3,2,1,5,At Risk,"Win-back campaign, personalised email"
+2404,206,3,1166.26,2,4,4,10,Regular Customers,Cross-sell campaigns
+2405,49,2,913.14,5,2,3,10,Regular Customers,Cross-sell campaigns
+2406,22,2,174.38,5,2,1,7,New Customers,"Onboarding, welcome series"
+2407,222,5,1178.89,2,5,4,11,Loyal Customers,"Loyalty programme, rewards"
+2408,264,5,1374.8400000000001,2,5,4,11,Loyal Customers,"Loyalty programme, rewards"
+2409,352,3,1615.8799999999999,1,4,5,11,Loyal Customers,"Loyalty programme, rewards"
+2410,138,5,1329.3600000000001,3,5,4,12,Loyal Customers,"Loyalty programme, rewards"
+2411,229,7,1842.45,2,5,5,13,VIP Champions,"Early access, VIP discount codes"
+2412,359,7,2747.85,1,5,5,12,Loyal Customers,"Loyalty programme, rewards"
+2413,44,4,1319.8400000000001,5,4,4,13,VIP Champions,"Early access, VIP discount codes"
+2414,91,2,822.76,4,2,3,9,Regular Customers,Cross-sell campaigns
+2415,39,6,1875.41,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+2416,53,1,374.32,5,1,2,8,New Customers,"Onboarding, welcome series"
+2417,25,3,969.03,5,4,4,13,VIP Champions,"Early access, VIP discount codes"
+2418,20,3,407.13,5,4,2,10,Regular Customers,Cross-sell campaigns
+2419,14,5,1097.19,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+2420,297,3,1317.55,2,4,4,10,Regular Customers,Cross-sell campaigns
+2421,235,3,394.86,2,4,2,8,New Customers,"Onboarding, welcome series"
+2422,278,6,3186.6400000000003,2,5,5,13,VIP Champions,"Early access, VIP discount codes"
+2423,634,2,1009.0200000000001,1,2,4,8,New Customers,"Onboarding, welcome series"
+2424,62,3,721.17,4,4,3,10,Regular Customers,Cross-sell campaigns
+2425,107,2,420.34000000000003,4,2,2,8,New Customers,"Onboarding, welcome series"
+2426,59,6,2021.61,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+2427,68,5,1420.91,4,5,4,13,VIP Champions,"Early access, VIP discount codes"
+2428,127,2,309.48,3,3,1,6,At Risk,"Win-back campaign, personalised email"
+2429,130,6,1330.83,3,5,4,12,Loyal Customers,"Loyalty programme, rewards"
+2430,233,1,243.96,2,1,1,4,Lost,"Last attempt, big discount"
+2431,265,2,1502.9499999999998,2,3,5,11,Loyal Customers,"Loyalty programme, rewards"
+2432,85,4,1106.45,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+2433,119,2,427.71000000000004,4,3,2,8,New Customers,"Onboarding, welcome series"
+2434,16,1,282.1,5,1,1,6,At Risk,"Win-back campaign, personalised email"
+2435,103,1,29.48,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+2436,73,1,121.98,4,1,1,5,At Risk,"Win-back campaign, personalised email"
+2437,150,2,389.56,3,3,2,8,New Customers,"Onboarding, welcome series"
+2438,15,5,1794.1,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+2439,76,2,304.59000000000003,4,3,1,7,New Customers,"Onboarding, welcome series"
+2440,195,4,1160.1999999999998,3,4,4,11,Loyal Customers,"Loyalty programme, rewards"
+2441,85,6,2688.3,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+2442,219,4,710.54,2,4,3,9,Regular Customers,Cross-sell campaigns
+2443,-303,2,379.75,5,3,2,9,Regular Customers,Cross-sell campaigns
+2444,675,2,349.34,1,3,2,6,At Risk,"Win-back campaign, personalised email"
+2445,210,1,307.83,2,1,1,4,Lost,"Last attempt, big discount"
+2446,533,2,498.87,1,3,2,6,At Risk,"Win-back campaign, personalised email"
+2447,662,3,743.75,1,4,3,8,New Customers,"Onboarding, welcome series"
+2448,259,4,662.6,2,4,3,9,Regular Customers,Cross-sell campaigns
+2449,119,2,561.69,4,3,2,8,New Customers,"Onboarding, welcome series"
+2450,28,5,1431.06,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+2451,556,1,53.58,1,1,1,3,Lost,"Last attempt, big discount"
+2452,621,2,996.4,1,3,4,9,Regular Customers,Cross-sell campaigns
+2453,222,2,880.94,2,3,3,8,New Customers,"Onboarding, welcome series"
+2454,73,2,926.2,4,3,3,10,Regular Customers,Cross-sell campaigns
+2455,109,5,1659.27,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+2456,140,4,1702.97,3,4,5,13,VIP Champions,"Early access, VIP discount codes"
+2457,149,3,977.5300000000001,3,4,4,11,Loyal Customers,"Loyalty programme, rewards"
+2458,185,5,1163.17,3,5,4,12,Loyal Customers,"Loyalty programme, rewards"
+2459,126,3,730.82,3,4,3,10,Regular Customers,Cross-sell campaigns
+2460,203,4,833.6,3,4,3,10,Regular Customers,Cross-sell campaigns
+2461,534,1,84.95,1,1,1,3,Lost,"Last attempt, big discount"
+2462,531,1,348.6,1,1,2,4,Lost,"Last attempt, big discount"
+2463,96,2,347.96,4,3,2,8,New Customers,"Onboarding, welcome series"
+2464,412,1,166.27,1,1,1,3,Lost,"Last attempt, big discount"
+2465,407,4,1030.0800000000002,1,4,4,10,Regular Customers,Cross-sell campaigns
+2466,217,3,1140.94,2,4,4,10,Regular Customers,Cross-sell campaigns
+2467,181,2,273.09,3,3,1,6,At Risk,"Win-back campaign, personalised email"
+2468,21,4,1425.54,5,4,5,14,VIP Champions,"Early access, VIP discount codes"
+2469,467,2,288.27,1,3,1,4,Lost,"Last attempt, big discount"
+2470,219,2,436.15000000000003,2,3,2,7,New Customers,"Onboarding, welcome series"
+2471,51,2,1091.64,5,3,4,12,Loyal Customers,"Loyalty programme, rewards"
+2472,75,2,563.8000000000001,4,3,2,8,New Customers,"Onboarding, welcome series"
+2473,498,3,449.93,1,4,2,7,New Customers,"Onboarding, welcome series"
+2474,68,4,1600.21,4,4,5,14,VIP Champions,"Early access, VIP discount codes"
+2475,5,5,1124.67,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+2476,520,2,178.75,1,3,1,4,Lost,"Last attempt, big discount"
+2477,48,5,1188.26,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+2478,283,4,743.11,2,4,3,9,Regular Customers,Cross-sell campaigns
+2479,530,1,130.73,1,1,1,3,Lost,"Last attempt, big discount"
+2480,6,6,1844.1,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+2481,57,3,505.89,5,4,2,10,Regular Customers,Cross-sell campaigns
+2482,21,3,518.44,5,4,2,10,Regular Customers,Cross-sell campaigns
+2483,535,3,581.88,1,4,2,7,New Customers,"Onboarding, welcome series"
+2484,79,4,1063.1200000000001,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+2485,134,1,605.72,3,1,2,6,At Risk,"Win-back campaign, personalised email"
+2486,390,3,556.6700000000001,1,4,2,7,New Customers,"Onboarding, welcome series"
+2487,215,1,205.0,2,1,1,4,Lost,"Last attempt, big discount"
+2488,293,1,152.85,2,1,1,4,Lost,"Last attempt, big discount"
+2489,53,1,443.76,5,1,2,8,New Customers,"Onboarding, welcome series"
+2490,256,3,1107.31,2,4,4,10,Regular Customers,Cross-sell campaigns
+2491,684,2,344.72,1,3,1,4,Lost,"Last attempt, big discount"
+2492,3,65,19580.28,5,5,5,15,VIP Champions,"Early access, VIP discount codes"
+2493,25,4,552.89,5,4,2,10,Regular Customers,Cross-sell campaigns
+2494,15,5,1037.91,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+2495,166,5,1742.4,3,5,5,14,VIP Champions,"Early access, VIP discount codes"
+2496,95,3,862.86,4,4,3,10,Regular Customers,Cross-sell campaigns
+2497,350,1,63.95,1,1,1,3,Lost,"Last attempt, big discount"
+2498,289,3,977.5699999999999,2,4,4,10,Regular Customers,Cross-sell campaigns
+2499,273,2,376.41,2,3,2,7,New Customers,"Onboarding, welcome series"
+2500,151,1,48.58,3,1,1,4,Lost,"Last attempt, big discount"
+2501,190,3,999.7099999999999,3,4,4,11,Loyal Customers,"Loyalty programme, rewards"
+2502,151,2,482.93,3,3,2,8,New Customers,"Onboarding, welcome series"
+2503,381,2,976.54,1,3,4,9,Regular Customers,Cross-sell campaigns
+2504,186,2,410.1,3,3,2,8,New Customers,"Onboarding, welcome series"
+2505,116,5,1526.2799999999997,4,5,5,14,VIP Champions,"Early access, VIP discount codes"
+2506,5,5,1365.1,5,5,4,14,VIP Champions,"Early access, VIP discount codes"
+2507,303,6,652.41,2,5,3,10,Regular Customers,Cross-sell campaigns
+2508,588,3,459.6,1,4,2,7,New Customers,"Onboarding, welcome series"
+2509,17,4,748.6600000000001,5,4,3,11,Loyal Customers,"Loyalty programme, rewards"
+2510,239,3,1095.17,2,4,4,10,Regular Customers,Cross-sell campaigns
+2511,103,2,380.61,4,3,2,8,New Customers,"Onboarding, welcome series"
+2512,275,3,681.97,2,4,3,9,Regular Customers,Cross-sell campaigns
+2513,25,3,896.1500000000001,5,4,3,11,Loyal Customers,"Loyalty programme, rewards"
+2514,223,2,898.3499999999999,2,3,3,8,New Customers,"Onboarding, welcome series"
+2515,87,4,1253.86,4,4,4,12,Loyal Customers,"Loyalty programme, rewards"
+2516,33,2,369.03000000000003,5,3,2,9,Regular Customers,Cross-sell campaigns
+2517,5,2,459.89,5,3,2,9,Regular Customers,Cross-sell campaigns
+2518,164,5,965.96,3,5,4,12,Loyal Customers,"Loyalty programme, rewards"
+2519,165,1,418.1,3,1,2,6,At Risk,"Win-back campaign, personalised email"
+2520,89,1,585.22,4,1,2,7,New Customers,"Onboarding, welcome series"
+2521,65,3,882.62,4,4,3,10,Regular Customers,Cross-sell campaigns
+2522,493,4,757.8399999999999,1,4,3,8,New Customers,"Onboarding, welcome series"
+2523,189,3,1082.65,3,4,4,11,Loyal Customers,"Loyalty programme, rewards"
+2524,207,5,983.13,2,5,4,11,Loyal Customers,"Loyalty programme, rewards"
+2525,624,3,496.2,1,4,2,7,New Customers,"Onboarding, welcome series"
+2526,63,2,1350.01,4,3,4,11,Loyal Customers,"Loyalty programme, rewards"
+2527,616,2,757.19,1,3,3,8,New Customers,"Onboarding, welcome series"
+2528,281,2,163.33999999999997,2,3,1,5,At Risk,"Win-back campaign, personalised email"
+2529,297,2,561.77,2,3,2,7,New Customers,"Onboarding, welcome series"
+2530,249,2,540.66,2,3,2,7,New Customers,"Onboarding, welcome series"
+2531,83,2,311.3,4,3,1,7,New Customers,"Onboarding, welcome series"
+2532,18,1,773.55,5,1,3,9,Regular Customers,Cross-sell campaigns
+2533,350,2,291.91,1,3,1,4,Lost,"Last attempt, big discount"
+2534,3,4,1527.95,5,4,5,14,VIP Champions,"Early access, VIP discount codes"
+2535,129,1,693.4,3,1,3,8,New Customers,"Onboarding, welcome series"
+2536,217,5,1579.5900000000001,2,5,5,13,VIP Champions,"Early access, VIP discount codes"
+2537,9,2,464.01,5,3,2,9,Regular Customers,Cross-sell campaigns
+2538,525,2,593.99,1,3,2,6,At Risk,"Win-back campaign, personalised email"
+2539,60,1,41.63,4,1,1,5,At Risk,"Win-back campaign, personalised email"
